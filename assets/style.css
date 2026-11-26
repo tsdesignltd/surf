@@ -29,3 +29,6 @@
 
 /* Compact the date block to about two-thirds of its former height. */
 .timeline{padding:10px 22px}.timeline .small-button{padding:6px 12px}.days{margin:7px -5px 0}.day{padding:4px 2px;gap:1px}.day span{font-size:12px;line-height:16px}.day b{font-size:17px;line-height:21px}.day small{font-size:11px;line-height:14px;min-height:14px}.day .mini-line{margin-top:1px;height:3px}@media(max-width:760px){.timeline{padding:9px 12px}.timeline-title{gap:7px}.timeline-heading{gap:4px 8px}.timeline .small-button{padding:4px 8px}.days{margin:6px -5px 0}.day{padding:3px 0}.day b{font-size:15px;line-height:19px}.day small{font-size:10px}.timeline-actions #source-label{font-size:11px}}
+
+/* Make the level colors readable at a glance. */
+.size-badge{background:var(--size-color);color:var(--size-pin-ink,#203d3c);min-height:32px;padding:7px 12px;font-size:12px;font-weight:600}.size-badge:before{display:none}.spot-card .size-badge,.detail>.size-badge{width:100%;justify-content:center}.size-legend i{width:22px;height:12px;border-radius:3px}.day .mini-line{height:6px;width:58%}.day{gap:0}@media(max-width:760px){.spot-card .size-badge{font-size:11px}.size-legend i{width:20px;height:12px}}

@@ -14,7 +14,7 @@ if(!Array.isArray(input.observations)||!input.observations.length)fail('No obser
 const target=path.join(root,'data/surf.json'),data=JSON.parse(fs.readFileSync(target,'utf8')),seen=new Set(),updated=[],skipped=[];
 for(const record of input.observations){
  if(seen.has(record.id))fail('Duplicate point: '+record.id);seen.add(record.id);
- const point=data.spots.find(p=>p.id===record.id);if(!point)fail('Unknown point: '+record.id);if(point.bcmDataOnly)fail('Model-only point has no observed BCM score: '+record.id);
+ const point=data.spots.find(p=>p.id===record.id);if(!point)fail('Unknown point: '+record.id);if(point.bcmDataOnly||point.bcmUnavailable||!point.bcmUrl)fail('Model-only point has no observed BCM score: '+record.id);
  const at=new Date(record.updatedAt);
  if(!Number.isFinite(+at)||record.date!==key(at)||record.date!==key(retrieved)||+at>+retrieved+60000)fail('Require a verified observation for today, not yesterday: '+record.id);
  if(!Number.isInteger(record.score)||record.score<0||record.score>100||typeof record.size!=='string'||!record.size.trim())fail('Invalid score or size: '+record.id);

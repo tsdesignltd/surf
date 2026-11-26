@@ -1,83 +1,23 @@
 {
   "schemaVersion": 1,
-  "retrievedAt": "2026-11-26T20:04:35+09:00",
+  "retrievedAt": "2026-11-26T20:41:11+09:00",
   "modelRunAt": "2026-11-26T09:00:00+09:00",
   "updateMode": "snapshot",
   "spots": [
     {
-      "id": "kamakomae",
-      "name": "鎌高前",
-      "english": "KAMAKOMAE",
-      "lat": 35.3045,
-      "lon": 139.5,
-      "feature": "海底の岩や周囲のサーファーとの距離を確認。混雑時はピークを譲り合って。",
-      "bcmUrl": "https://m.bc01.com/wave/5/58",
-      "surflineUrl": "https://www.surfline.com/surf-report/kamakomae/584204204e65fad6a770976c",
+      "id": "zaimokuza",
+      "name": "材木座",
+      "english": "ZAIMOKUZA",
+      "lat": 35.3048,
+      "lon": 139.5508,
+      "feature": "湾の東側の砂浜エリア。風の影響や混雑、遊泳区域の案内を確認してから海へ。",
+      "bcmUrl": "https://m.bc01.com/wave/5/211",
+      "surflineUrl": "https://www.surfline.com/surf-report/zaimokuza/584204204e65fad6a7709763",
       "observation": {
         "date": "2026-11-26",
-        "updatedAt": "2026-11-26T15:55:00+09:00",
+        "updatedAt": "2026-11-26T13:05:00+09:00",
         "score": 20,
-        "size": "コシsetハラ",
-        "wind": {
-          "relative": "サイドオン",
-          "strength": "弱",
-          "direction": "西",
-          "speedMps": null,
-          "source": "BCM"
-        }
-      },
-      "forecasts": [
-        {
-          "date": "2026-11-26",
-          "min": 0.3,
-          "max": 0.6
-        },
-        {
-          "date": "2026-11-27",
-          "min": 0,
-          "max": 0.3
-        },
-        {
-          "date": "2026-11-28",
-          "min": 0.3,
-          "max": 0.6
-        },
-        {
-          "date": "2026-11-29",
-          "min": 0.9,
-          "max": 1.2
-        },
-        {
-          "date": "2026-11-30",
-          "min": 0,
-          "max": 0.3
-        },
-        {
-          "date": "2026-12-01",
-          "min": 0.6,
-          "max": 1.1
-        },
-        {
-          "date": "2026-12-02",
-          "min": 0,
-          "max": 0.3
-        }
-      ]
-    },
-    {
-      "id": "minegahara",
-      "name": "峰ヶ原",
-      "english": "MINEGAHARA",
-      "lat": 35.3044,
-      "lon": 139.5038,
-      "feature": "七里ヶ浜西側のポイント。入る前に岩の位置、流れ、波の割れ方を岸から確認。",
-      "bcmUrl": "https://m.bc01.com/wave/5/1071",
-      "surflineUrl": "https://www.surfline.com/surf-report/minegahara/584204204e65fad6a770976a",
-      "observation": {
-        "date": "2026-11-26",
-        "updatedAt": "2026-11-26T13:20:00+09:00",
-        "score": 20,
-        "size": "モモ～コシsetハラ",
+        "size": "ヒザ～モモたまのsetコシ",
         "wind": {
           "relative": "オンショア",
           "strength": "中",
@@ -104,68 +44,8 @@
         },
         {
           "date": "2026-11-29",
-          "min": 0.9,
-          "max": 1.2
-        },
-        {
-          "date": "2026-11-30",
-          "min": 0,
-          "max": 0
-        },
-        {
-          "date": "2026-12-01",
           "min": 0.6,
-          "max": 0.9
-        },
-        {
-          "date": "2026-12-02",
-          "min": 0,
-          "max": 0.3
-        }
-      ]
-    },
-    {
-      "id": "roa",
-      "name": "ロア",
-      "english": "ROA",
-      "lat": 35.3041,
-      "lon": 139.507,
-      "feature": "周囲のピークと距離を取り、海底や潮位の変化に注意。ローカルルールを尊重して。",
-      "bcmUrl": "https://m.bc01.com/wave/5/1070",
-      "surflineUrl": "https://www.surfline.com/surf-report/roa/584204204e65fad6a7709769",
-      "observation": {
-        "date": "2026-11-26",
-        "updatedAt": "2026-11-26T13:15:00+09:00",
-        "score": 20,
-        "size": "コシsetハラ",
-        "wind": {
-          "relative": "オンショア",
-          "strength": "弱",
-          "direction": "南西",
-          "speedMps": null,
-          "source": "BCM"
-        }
-      },
-      "forecasts": [
-        {
-          "date": "2026-11-26",
-          "min": 0.3,
-          "max": 0.6
-        },
-        {
-          "date": "2026-11-27",
-          "min": 0,
-          "max": 0.3
-        },
-        {
-          "date": "2026-11-28",
-          "min": 0.3,
-          "max": 0.6
-        },
-        {
-          "date": "2026-11-29",
-          "min": 0.9,
-          "max": 1.2
+          "max": 1.1
         },
         {
           "date": "2026-11-30",
@@ -182,67 +62,9 @@
           "min": 0,
           "max": 0
         }
-      ]
-    },
-    {
-      "id": "shichirigahama",
-      "name": "七里ヶ浜正面",
-      "english": "SHICHIRIGAHAMA",
-      "lat": 35.3039,
-      "lon": 139.5108,
-      "feature": "七里ヶ浜の中心エリア。岸からコンディションを確認し、混雑時の接触に注意。",
-      "bcmUrl": "https://m.bc01.com/wave/5/55",
-      "surflineUrl": "https://www.surfline.com/surf-report/shichirigahama/584204204e65fad6a7709767",
-      "observation": {
-        "date": "2026-11-26",
-        "updatedAt": "2026-11-26T15:50:00+09:00",
-        "score": 20,
-        "size": "コシsetハラ",
-        "wind": {
-          "relative": "サイドオン",
-          "strength": "弱",
-          "direction": "西",
-          "speedMps": null,
-          "source": "BCM"
-        }
-      },
-      "forecasts": [
-        {
-          "date": "2026-11-26",
-          "min": 0.3,
-          "max": 0.6
-        },
-        {
-          "date": "2026-11-27",
-          "min": 0,
-          "max": 0.3
-        },
-        {
-          "date": "2026-11-28",
-          "min": 0.3,
-          "max": 0.6
-        },
-        {
-          "date": "2026-11-29",
-          "min": 0.9,
-          "max": 1.2
-        },
-        {
-          "date": "2026-11-30",
-          "min": 0,
-          "max": 0
-        },
-        {
-          "date": "2026-12-01",
-          "min": 0.6,
-          "max": 0.9
-        },
-        {
-          "date": "2026-12-02",
-          "min": 0,
-          "max": 0.3
-        }
-      ]
+      ],
+      "region": "鎌倉",
+      "bcmArea": 5
     },
     {
       "id": "yuigahama",
@@ -302,22 +124,148 @@
           "min": 0,
           "max": 0
         }
-      ]
+      ],
+      "region": "鎌倉",
+      "bcmArea": 5
     },
     {
-      "id": "zaimokuza",
-      "name": "材木座",
-      "english": "ZAIMOKUZA",
-      "lat": 35.3048,
-      "lon": 139.5508,
-      "feature": "湾の東側の砂浜エリア。風の影響や混雑、遊泳区域の案内を確認してから海へ。",
-      "bcmUrl": "https://m.bc01.com/wave/5/211",
-      "surflineUrl": "https://www.surfline.com/surf-report/zaimokuza/584204204e65fad6a7709763",
+      "id": "shichirigahama",
+      "name": "七里ヶ浜正面",
+      "english": "SHICHIRIGAHAMA",
+      "lat": 35.3039,
+      "lon": 139.5108,
+      "feature": "七里ヶ浜の中心エリア。岸からコンディションを確認し、混雑時の接触に注意。",
+      "bcmUrl": "https://m.bc01.com/wave/5/55",
+      "surflineUrl": "https://www.surfline.com/surf-report/shichirigahama/584204204e65fad6a7709767",
       "observation": {
         "date": "2026-11-26",
-        "updatedAt": "2026-11-26T13:05:00+09:00",
+        "updatedAt": "2026-11-26T15:50:00+09:00",
         "score": 20,
-        "size": "ヒザ～モモたまのsetコシ",
+        "size": "コシsetハラ",
+        "wind": {
+          "relative": "サイドオン",
+          "strength": "弱",
+          "direction": "西",
+          "speedMps": null,
+          "source": "BCM"
+        }
+      },
+      "forecasts": [
+        {
+          "date": "2026-11-26",
+          "min": 0.3,
+          "max": 0.6
+        },
+        {
+          "date": "2026-11-27",
+          "min": 0,
+          "max": 0.3
+        },
+        {
+          "date": "2026-11-28",
+          "min": 0.3,
+          "max": 0.6
+        },
+        {
+          "date": "2026-11-29",
+          "min": 0.9,
+          "max": 1.2
+        },
+        {
+          "date": "2026-11-30",
+          "min": 0,
+          "max": 0
+        },
+        {
+          "date": "2026-12-01",
+          "min": 0.6,
+          "max": 0.9
+        },
+        {
+          "date": "2026-12-02",
+          "min": 0,
+          "max": 0.3
+        }
+      ],
+      "region": "鎌倉",
+      "bcmArea": 5
+    },
+    {
+      "id": "roa",
+      "name": "ロア",
+      "english": "ROA",
+      "lat": 35.3041,
+      "lon": 139.507,
+      "feature": "周囲のピークと距離を取り、海底や潮位の変化に注意。ローカルルールを尊重して。",
+      "bcmUrl": "https://m.bc01.com/wave/5/1070",
+      "surflineUrl": "https://www.surfline.com/surf-report/roa/584204204e65fad6a7709769",
+      "observation": {
+        "date": "2026-11-26",
+        "updatedAt": "2026-11-26T13:15:00+09:00",
+        "score": 20,
+        "size": "コシsetハラ",
+        "wind": {
+          "relative": "オンショア",
+          "strength": "弱",
+          "direction": "南西",
+          "speedMps": null,
+          "source": "BCM"
+        }
+      },
+      "forecasts": [
+        {
+          "date": "2026-11-26",
+          "min": 0.3,
+          "max": 0.6
+        },
+        {
+          "date": "2026-11-27",
+          "min": 0,
+          "max": 0.3
+        },
+        {
+          "date": "2026-11-28",
+          "min": 0.3,
+          "max": 0.6
+        },
+        {
+          "date": "2026-11-29",
+          "min": 0.9,
+          "max": 1.2
+        },
+        {
+          "date": "2026-11-30",
+          "min": 0,
+          "max": 0
+        },
+        {
+          "date": "2026-12-01",
+          "min": 0.6,
+          "max": 0.9
+        },
+        {
+          "date": "2026-12-02",
+          "min": 0,
+          "max": 0
+        }
+      ],
+      "region": "鎌倉",
+      "bcmArea": 5
+    },
+    {
+      "id": "minegahara",
+      "name": "峰ヶ原",
+      "english": "MINEGAHARA",
+      "lat": 35.3044,
+      "lon": 139.5038,
+      "feature": "七里ヶ浜西側のポイント。入る前に岩の位置、流れ、波の割れ方を岸から確認。",
+      "bcmUrl": "https://m.bc01.com/wave/5/1071",
+      "surflineUrl": "https://www.surfline.com/surf-report/minegahara/584204204e65fad6a770976a",
+      "observation": {
+        "date": "2026-11-26",
+        "updatedAt": "2026-11-26T13:20:00+09:00",
+        "score": 20,
+        "size": "モモ～コシsetハラ",
         "wind": {
           "relative": "オンショア",
           "strength": "中",
@@ -326,6 +274,646 @@
           "source": "BCM"
         }
       },
+      "forecasts": [
+        {
+          "date": "2026-11-26",
+          "min": 0.3,
+          "max": 0.6
+        },
+        {
+          "date": "2026-11-27",
+          "min": 0,
+          "max": 0.3
+        },
+        {
+          "date": "2026-11-28",
+          "min": 0.3,
+          "max": 0.6
+        },
+        {
+          "date": "2026-11-29",
+          "min": 0.9,
+          "max": 1.2
+        },
+        {
+          "date": "2026-11-30",
+          "min": 0,
+          "max": 0
+        },
+        {
+          "date": "2026-12-01",
+          "min": 0.6,
+          "max": 0.9
+        },
+        {
+          "date": "2026-12-02",
+          "min": 0,
+          "max": 0.3
+        }
+      ],
+      "region": "鎌倉",
+      "bcmArea": 5
+    },
+    {
+      "id": "kamakomae",
+      "name": "鎌高前",
+      "english": "KAMAKOMAE",
+      "lat": 35.3045,
+      "lon": 139.5,
+      "feature": "海底の岩や周囲のサーファーとの距離を確認。混雑時はピークを譲り合って。",
+      "bcmUrl": "https://m.bc01.com/wave/5/58",
+      "surflineUrl": "https://www.surfline.com/surf-report/kamakomae/584204204e65fad6a770976c",
+      "observation": {
+        "date": "2026-11-26",
+        "updatedAt": "2026-11-26T15:55:00+09:00",
+        "score": 20,
+        "size": "コシsetハラ",
+        "wind": {
+          "relative": "サイドオン",
+          "strength": "弱",
+          "direction": "西",
+          "speedMps": null,
+          "source": "BCM"
+        }
+      },
+      "forecasts": [
+        {
+          "date": "2026-11-26",
+          "min": 0.3,
+          "max": 0.6
+        },
+        {
+          "date": "2026-11-27",
+          "min": 0,
+          "max": 0.3
+        },
+        {
+          "date": "2026-11-28",
+          "min": 0.3,
+          "max": 0.6
+        },
+        {
+          "date": "2026-11-29",
+          "min": 0.9,
+          "max": 1.2
+        },
+        {
+          "date": "2026-11-30",
+          "min": 0,
+          "max": 0.3
+        },
+        {
+          "date": "2026-12-01",
+          "min": 0.6,
+          "max": 1.1
+        },
+        {
+          "date": "2026-12-02",
+          "min": 0,
+          "max": 0.3
+        }
+      ],
+      "region": "鎌倉",
+      "bcmArea": 5
+    },
+    {
+      "id": "aquarium",
+      "name": "江ノ島水族館前",
+      "english": "AQUARIUM",
+      "region": "藤沢",
+      "bcmArea": 5,
+      "lat": 35.307778,
+      "lon": 139.480556,
+      "feature": "江の島寄りのサンド。海岸の向きが変わり、うねりの入り方も異なる。",
+      "bcmUrl": "https://m.bc01.com/wave/5/61",
+      "guideUrl": "https://m.bc01.com/wave/point/5/61",
+      "surflineUrl": "https://www.surfline.com/surf-report/shinsuizokukanmae/584204204e65fad6a7709771",
+      "checkSchedule": [
+        "06:50",
+        "09:40",
+        "13:40",
+        "16:40"
+      ],
+      "observation": {
+        "date": "2026-11-26",
+        "updatedAt": "2026-11-26T16:05:00+09:00",
+        "score": 20,
+        "size": "ヒザ～モモ",
+        "wind": {
+          "relative": "サイドオン",
+          "strength": "弱",
+          "direction": "西",
+          "speedMps": null,
+          "source": "BCM"
+        }
+      },
+      "modelRunAt": null,
+      "forecastRetrievedAt": "2026-11-26T20:41:11+09:00",
+      "forecasts": [
+        {
+          "date": "2026-11-26",
+          "min": 0.6,
+          "max": 1.1
+        },
+        {
+          "date": "2026-11-27",
+          "min": 0,
+          "max": 0.3
+        },
+        {
+          "date": "2026-11-28",
+          "min": 0.6,
+          "max": 0.9
+        },
+        {
+          "date": "2026-11-29",
+          "min": 1.5,
+          "max": 2.1
+        },
+        {
+          "date": "2026-11-30",
+          "min": 0,
+          "max": 0.3
+        },
+        {
+          "date": "2026-12-01",
+          "min": 0.9,
+          "max": 1.2
+        },
+        {
+          "date": "2026-12-02",
+          "min": 0,
+          "max": 0.3
+        }
+      ]
+    },
+    {
+      "id": "kugenuma",
+      "name": "鵠沼",
+      "english": "KUGENUMA",
+      "region": "藤沢",
+      "bcmArea": 5,
+      "lat": 35.314873,
+      "lon": 139.470889,
+      "feature": "サンドのビーチ。混雑やサイズアップ時の流れを岸から確認。",
+      "bcmUrl": "https://m.bc01.com/wave/5/60",
+      "guideUrl": "https://m.bc01.com/wave/point/5/60",
+      "surflineUrl": "https://www.surfline.com/surf-report/kugenuma-beach-shonan/5842041f4e65fad6a7708d94",
+      "checkSchedule": [
+        "03:00",
+        "05:15",
+        "07:15",
+        "10:00",
+        "12:15",
+        "15:30",
+        "17:00",
+        "20:30"
+      ],
+      "observation": {
+        "date": "2026-11-26",
+        "updatedAt": "2026-11-26T20:30:00+09:00",
+        "score": 25,
+        "size": "モモ～コシsetハラ（夜チェック）",
+        "wind": {
+          "relative": "オフショア",
+          "strength": "微",
+          "direction": "北北東",
+          "speedMps": null,
+          "source": "BCM"
+        }
+      },
+      "modelRunAt": null,
+      "forecastRetrievedAt": "2026-11-26T20:41:11+09:00",
+      "forecasts": [
+        {
+          "date": "2026-11-26",
+          "min": 0.6,
+          "max": 1.1
+        },
+        {
+          "date": "2026-11-27",
+          "min": 0,
+          "max": 0.3
+        },
+        {
+          "date": "2026-11-28",
+          "min": 0.6,
+          "max": 0.9
+        },
+        {
+          "date": "2026-11-29",
+          "min": 1.2,
+          "max": 2
+        },
+        {
+          "date": "2026-11-30",
+          "min": 0,
+          "max": 0.3
+        },
+        {
+          "date": "2026-12-01",
+          "min": 0.9,
+          "max": 1.2
+        },
+        {
+          "date": "2026-12-02",
+          "min": 0,
+          "max": 0.3
+        }
+      ]
+    },
+    {
+      "id": "tsujido",
+      "name": "辻堂",
+      "english": "TSUJIDO",
+      "region": "藤沢",
+      "bcmArea": 5,
+      "lat": 35.318333,
+      "lon": 139.453056,
+      "feature": "サンドのビーチ。砂の付き方でピークや波の割れ方が変化する。",
+      "bcmUrl": "https://m.bc01.com/wave/5/64",
+      "guideUrl": "https://m.bc01.com/wave/point/5/64",
+      "surflineUrl": "https://www.surfline.com/surf-report/tsujido-shomen/584204204e65fad6a7709779",
+      "checkSchedule": [
+        "03:15",
+        "06:15",
+        "08:15",
+        "10:15",
+        "13:15",
+        "16:30",
+        "20:40"
+      ],
+      "observation": {
+        "date": "2026-11-26",
+        "updatedAt": "2026-11-26T16:30:00+09:00",
+        "score": 25,
+        "size": "コシ～ハラ",
+        "wind": {
+          "relative": "サイド",
+          "strength": "弱",
+          "direction": "西北西",
+          "speedMps": null,
+          "source": "BCM"
+        }
+      },
+      "modelRunAt": null,
+      "forecastRetrievedAt": "2026-11-26T20:41:11+09:00",
+      "forecasts": [
+        {
+          "date": "2026-11-26",
+          "min": 0.3,
+          "max": 0.6
+        },
+        {
+          "date": "2026-11-27",
+          "min": 0,
+          "max": 0.3
+        },
+        {
+          "date": "2026-11-28",
+          "min": 0.3,
+          "max": 0.6
+        },
+        {
+          "date": "2026-11-29",
+          "min": 0.9,
+          "max": 1.2
+        },
+        {
+          "date": "2026-11-30",
+          "min": 0,
+          "max": 0
+        },
+        {
+          "date": "2026-12-01",
+          "min": 0.6,
+          "max": 1.1
+        },
+        {
+          "date": "2026-12-02",
+          "min": 0,
+          "max": 0.3
+        }
+      ]
+    },
+    {
+      "id": "chisan",
+      "name": "チサン",
+      "english": "CHISAN",
+      "region": "茅ヶ崎",
+      "bcmArea": 5,
+      "lat": 35.319167,
+      "lon": 139.432222,
+      "feature": "浜須賀付近のサンド。岸寄りのブレイクと周囲の利用者に注意。",
+      "bcmUrl": "https://m.bc01.com/wave/5/69",
+      "guideUrl": "https://m.bc01.com/wave/point/5/69",
+      "surflineUrl": "https://www.surfline.com/surf-report/chisan/584204204e65fad6a770977e",
+      "checkSchedule": [
+        "05:15",
+        "07:20",
+        "09:30",
+        "12:30",
+        "15:40"
+      ],
+      "observation": {
+        "date": "2026-11-26",
+        "updatedAt": "2026-11-26T15:25:00+09:00",
+        "score": 20,
+        "size": "モモ～コシsetハラ",
+        "wind": {
+          "relative": "サイドオン",
+          "strength": "弱",
+          "direction": "西南西",
+          "speedMps": null,
+          "source": "BCM"
+        }
+      },
+      "modelRunAt": null,
+      "forecastRetrievedAt": "2026-11-26T20:41:11+09:00",
+      "forecasts": [
+        {
+          "date": "2026-11-26",
+          "min": 0.3,
+          "max": 0.6
+        },
+        {
+          "date": "2026-11-27",
+          "min": 0,
+          "max": 0.3
+        },
+        {
+          "date": "2026-11-28",
+          "min": 0.3,
+          "max": 0.6
+        },
+        {
+          "date": "2026-11-29",
+          "min": 0.9,
+          "max": 1.2
+        },
+        {
+          "date": "2026-11-30",
+          "min": 0,
+          "max": 0
+        },
+        {
+          "date": "2026-12-01",
+          "min": 0.6,
+          "max": 1.1
+        },
+        {
+          "date": "2026-12-02",
+          "min": 0,
+          "max": 0.3
+        }
+      ]
+    },
+    {
+      "id": "park",
+      "name": "パーク",
+      "english": "PARK",
+      "region": "茅ヶ崎",
+      "bcmArea": 5,
+      "lat": 35.317222,
+      "lon": 139.416389,
+      "feature": "ヘッドランド付近のサンド。地形と流れを確認し、構造物から距離を取る。",
+      "bcmUrl": "https://m.bc01.com/wave/5/72",
+      "guideUrl": "https://m.bc01.com/wave/point/5/72",
+      "surflineUrl": "https://www.surfline.com/surf-report/park/584204204e65fad6a7709780",
+      "checkSchedule": [
+        "03:30",
+        "05:45",
+        "07:50",
+        "11:05",
+        "14:05",
+        "17:30"
+      ],
+      "observation": {
+        "date": "2026-11-26",
+        "updatedAt": "2026-11-26T17:30:00+09:00",
+        "score": 25,
+        "size": "モモsetコシたまにハラ",
+        "wind": {
+          "relative": "ほぼ無風",
+          "strength": "無風",
+          "direction": "不定",
+          "speedMps": null,
+          "source": "BCM"
+        }
+      },
+      "modelRunAt": null,
+      "forecastRetrievedAt": "2026-11-26T20:41:11+09:00",
+      "forecasts": [
+        {
+          "date": "2026-11-26",
+          "min": 0.3,
+          "max": 0.6
+        },
+        {
+          "date": "2026-11-27",
+          "min": 0,
+          "max": 0.3
+        },
+        {
+          "date": "2026-11-28",
+          "min": 0.3,
+          "max": 0.6
+        },
+        {
+          "date": "2026-11-29",
+          "min": 0.9,
+          "max": 1.2
+        },
+        {
+          "date": "2026-11-30",
+          "min": 0,
+          "max": 0
+        },
+        {
+          "date": "2026-12-01",
+          "min": 0.6,
+          "max": 1.1
+        },
+        {
+          "date": "2026-12-02",
+          "min": 0,
+          "max": 0.3
+        }
+      ]
+    },
+    {
+      "id": "southern",
+      "name": "サザンビーチ排水口左",
+      "english": "SOUTHERN BEACH",
+      "region": "茅ヶ崎",
+      "bcmArea": 5,
+      "lat": 35.317234,
+      "lon": 139.399833,
+      "feature": "サザンビーチの東側。SurflineはChigasaki Beachの予想を参照。",
+      "bcmUrl": "https://m.bc01.com/wave/5/1072",
+      "guideUrl": "https://m.bc01.com/wave/point/5/1072",
+      "surflineUrl": "https://www.surfline.com/surf-report/chigasaki-beach-shonan/584204204e65fad6a77090e2",
+      "checkSchedule": [
+        "07:00",
+        "14:50"
+      ],
+      "observation": {
+        "date": "2026-11-26",
+        "updatedAt": "2026-11-26T14:05:00+09:00",
+        "score": 20,
+        "size": "setコシ～ハラ",
+        "wind": {
+          "relative": "オンショア",
+          "strength": "弱",
+          "direction": "南西",
+          "speedMps": null,
+          "source": "BCM"
+        }
+      },
+      "modelRunAt": null,
+      "forecastRetrievedAt": "2026-11-26T20:41:11+09:00",
+      "forecasts": [
+        {
+          "date": "2026-11-26",
+          "min": 0.3,
+          "max": 0.6
+        },
+        {
+          "date": "2026-11-27",
+          "min": 0,
+          "max": 0.3
+        },
+        {
+          "date": "2026-11-28",
+          "min": 0.3,
+          "max": 0.6
+        },
+        {
+          "date": "2026-11-29",
+          "min": 0.9,
+          "max": 1.2
+        },
+        {
+          "date": "2026-11-30",
+          "min": 0,
+          "max": 0
+        },
+        {
+          "date": "2026-12-01",
+          "min": 0.6,
+          "max": 1.1
+        },
+        {
+          "date": "2026-12-02",
+          "min": 0,
+          "max": 0.3
+        }
+      ]
+    },
+    {
+      "id": "namakon",
+      "name": "生コン前",
+      "english": "NAMAKON",
+      "region": "平塚",
+      "bcmArea": 6,
+      "lat": 35.315278,
+      "lon": 139.361944,
+      "feature": "相模川河口の西側にあるサンド。堤防や流れ、ローカルルールを確認。",
+      "bcmUrl": "https://m.bc01.com/wave/6/75",
+      "guideUrl": "https://m.bc01.com/wave/point/6/75",
+      "surflineUrl": "https://www.surfline.com/surf-report/namakon/584204204e65fad6a770978c",
+      "checkSchedule": [
+        "04:35",
+        "06:35",
+        "08:35",
+        "11:35",
+        "14:35",
+        "16:35"
+      ],
+      "observation": {
+        "date": "2026-11-26",
+        "updatedAt": "2026-11-26T16:10:00+09:00",
+        "score": 25,
+        "size": "コシ～ハラsetムネ",
+        "wind": {
+          "relative": "サイド",
+          "strength": "弱",
+          "direction": "西",
+          "speedMps": null,
+          "source": "BCM"
+        }
+      },
+      "modelRunAt": null,
+      "forecastRetrievedAt": "2026-11-26T20:41:11+09:00",
+      "forecasts": [
+        {
+          "date": "2026-11-26",
+          "min": 0.3,
+          "max": 0.6
+        },
+        {
+          "date": "2026-11-27",
+          "min": 0,
+          "max": 0.3
+        },
+        {
+          "date": "2026-11-28",
+          "min": 0.3,
+          "max": 0.6
+        },
+        {
+          "date": "2026-11-29",
+          "min": 0.9,
+          "max": 1.2
+        },
+        {
+          "date": "2026-11-30",
+          "min": 0,
+          "max": 0
+        },
+        {
+          "date": "2026-12-01",
+          "min": 0.6,
+          "max": 1.1
+        },
+        {
+          "date": "2026-12-02",
+          "min": 0,
+          "max": 0.3
+        }
+      ]
+    },
+    {
+      "id": "isoko",
+      "name": "磯高前",
+      "english": "ISOKO MAE",
+      "region": "大磯",
+      "bcmArea": 6,
+      "lat": 35.311389,
+      "lon": 139.325278,
+      "feature": "大磯メインの東側にあるサンド。岸から見えづらい波やブレイク位置に注意。",
+      "bcmUrl": "https://m.bc01.com/wave/6/80",
+      "guideUrl": "https://m.bc01.com/wave/point/6/80",
+      "surflineUrl": "https://www.surfline.com/surf-report/isokoumae/584204204e65fad6a7709790",
+      "checkSchedule": [
+        "09:00",
+        "14:00"
+      ],
+      "observation": {
+        "date": "2026-11-26",
+        "updatedAt": "2026-11-26T13:55:00+09:00",
+        "score": 30,
+        "size": "コシ～ハラたまのsetムネ",
+        "wind": {
+          "relative": "サイド",
+          "strength": "弱",
+          "direction": "南西",
+          "speedMps": null,
+          "source": "BCM"
+        }
+      },
+      "modelRunAt": null,
+      "forecastRetrievedAt": "2026-11-26T20:41:11+09:00",
       "forecasts": [
         {
           "date": "2026-11-26",
@@ -360,18 +948,217 @@
         {
           "date": "2026-12-02",
           "min": 0,
+          "max": 0.3
+        }
+      ]
+    },
+    {
+      "id": "oiso",
+      "name": "大磯・メイン",
+      "english": "OISO MAIN",
+      "region": "大磯",
+      "bcmArea": 6,
+      "lat": 35.310278,
+      "lon": 139.320833,
+      "feature": "サンドのポイント。岸寄りの速いブレイクや混雑に注意。",
+      "bcmUrl": "https://m.bc01.com/wave/6/78",
+      "guideUrl": "https://m.bc01.com/wave/point/6/78",
+      "surflineUrl": "https://www.surfline.com/surf-report/ooiso/584204204e65fad6a7709791",
+      "checkSchedule": [
+        "05:00",
+        "07:00",
+        "09:00",
+        "12:00",
+        "14:00",
+        "17:00"
+      ],
+      "observation": {
+        "date": "2026-11-26",
+        "updatedAt": "2026-11-26T16:30:00+09:00",
+        "score": 25,
+        "size": "コシ～ハラたまのsetムネ",
+        "wind": {
+          "relative": "サイドオフ",
+          "strength": "弱",
+          "direction": "西",
+          "speedMps": null,
+          "source": "BCM"
+        }
+      },
+      "modelRunAt": null,
+      "forecastRetrievedAt": "2026-11-26T20:41:11+09:00",
+      "forecasts": [
+        {
+          "date": "2026-11-26",
+          "min": 0.3,
+          "max": 0.6
+        },
+        {
+          "date": "2026-11-27",
+          "min": 0,
+          "max": 0.3
+        },
+        {
+          "date": "2026-11-28",
+          "min": 0.3,
+          "max": 0.6
+        },
+        {
+          "date": "2026-11-29",
+          "min": 0.6,
+          "max": 1.1
+        },
+        {
+          "date": "2026-11-30",
+          "min": 0,
           "max": 0
+        },
+        {
+          "date": "2026-12-01",
+          "min": 0.6,
+          "max": 0.9
+        },
+        {
+          "date": "2026-12-02",
+          "min": 0,
+          "max": 0.3
+        }
+      ]
+    },
+    {
+      "id": "genji",
+      "name": "大磯・源二",
+      "english": "GENJI",
+      "region": "大磯",
+      "bcmArea": 6,
+      "lat": 35.308889,
+      "lon": 139.318889,
+      "feature": "大磯メインの西側。岩と港の堤防に挟まれたエリアで、入水位置を確認。",
+      "bcmUrl": "https://m.bc01.com/wave/6/79",
+      "guideUrl": "https://m.bc01.com/wave/point/6/79",
+      "surflineUrl": "https://www.surfline.com/surf-report/genji/584204204e65fad6a7709793",
+      "checkSchedule": [
+        "05:00",
+        "07:00",
+        "14:00"
+      ],
+      "observation": {
+        "date": "2026-11-26",
+        "updatedAt": "2026-11-26T13:55:00+09:00",
+        "score": 20,
+        "size": "モモ",
+        "wind": {
+          "relative": "サイド",
+          "strength": "中",
+          "direction": "南西",
+          "speedMps": null,
+          "source": "BCM"
+        }
+      },
+      "modelRunAt": null,
+      "forecastRetrievedAt": "2026-11-26T20:41:11+09:00",
+      "forecasts": [
+        {
+          "date": "2026-11-26",
+          "min": 0.3,
+          "max": 0.6
+        },
+        {
+          "date": "2026-11-27",
+          "min": 0,
+          "max": 0.3
+        },
+        {
+          "date": "2026-11-28",
+          "min": 0.3,
+          "max": 0.6
+        },
+        {
+          "date": "2026-11-29",
+          "min": 0.9,
+          "max": 1.2
+        },
+        {
+          "date": "2026-11-30",
+          "min": 0,
+          "max": 0
+        },
+        {
+          "date": "2026-12-01",
+          "min": 0.6,
+          "max": 1.1
+        },
+        {
+          "date": "2026-12-02",
+          "min": 0,
+          "max": 0.3
+        }
+      ]
+    },
+    {
+      "id": "odawara",
+      "name": "小田原",
+      "english": "ODAWARA",
+      "region": "小田原",
+      "bcmArea": 6,
+      "lat": 35.24765,
+      "lon": 139.162,
+      "positionNote": "小田原市沿岸の代表位置。予想地点の厳密な位置やエントリー地点ではありません。",
+      "bcmUrl": "https://m.bc01.com/wave/6/1087",
+      "bcmDataOnly": true,
+      "observation": null,
+      "feature": "BCMはDATA波情報のため現地点数なし。波のサイズはSurflineの予想。地図は小田原市沿岸の代表位置です。",
+      "surflineUrl": "https://www.surfline.com/surf-report/odawara/584204204e65fad6a77098f5",
+      "modelRunAt": null,
+      "forecastRetrievedAt": "2026-11-26T20:41:11+09:00",
+      "forecasts": [
+        {
+          "date": "2026-11-26",
+          "min": 0.3,
+          "max": 0.6
+        },
+        {
+          "date": "2026-11-27",
+          "min": 0.3,
+          "max": 0.6
+        },
+        {
+          "date": "2026-11-28",
+          "min": 0.6,
+          "max": 0.9
+        },
+        {
+          "date": "2026-11-29",
+          "min": 0.3,
+          "max": 0.6
+        },
+        {
+          "date": "2026-11-30",
+          "min": 0,
+          "max": 0.3
+        },
+        {
+          "date": "2026-12-01",
+          "min": 0.3,
+          "max": 0.6
+        },
+        {
+          "date": "2026-12-02",
+          "min": 0.3,
+          "max": 0.6
         }
       ]
     }
   ],
   "automation": {
-    "name": "鎌倉BCM早朝情報を更新",
+    "name": "湘南・西湘BCM早朝情報を更新",
     "timezone": "Asia/Tokyo",
     "times": [
       "06:15",
-      "06:55"
+      "07:15",
+      "09:15"
     ],
     "source": "BCM"
-  }
+  },
+  "coverage": "鎌倉〜小田原"
 }

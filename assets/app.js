@@ -11,11 +11,11 @@ function waveText(r){return r.kind==='observed'?r.size:r.kind==='forecast'?(r.ma
 function ratio(r){if(r.kind==='forecast')return Math.min(.94,r.max/1.8);if(r.kind==='observed')return /アタマ|頭|オーバー|ダブル/.test(r.size)?.94:/カタ|肩/.test(r.size)?.85:/ムネ|胸/.test(r.size)?.74:/ハラ|腹/.test(r.size)?.62:/コシ|腰/.test(r.size)?.5:/モモ|腿/.test(r.size)?.35:.22;return 0;}
 function sizeLevel(r){
  if(r.kind==='missing')return {key:'unknown',label:'サイズ未取得',short:'未取得'};
- if(r.kind==='forecast'){if(r.max===0)return {key:'flat',label:'フラット',short:'フラット'};if(r.max<=.6)return {key:'small',label:'初心者向け · サイズの目安',short:'初心者向け'};if(r.max<=1)return {key:'medium',label:'中級 · サイズの目安',short:'中級'};return {key:'large',label:'上級 · サイズの目安',short:'上級'};}
+ if(r.kind==='forecast'){if(r.max===0)return {key:'flat',label:'フラット',short:'フラット'};if(r.max<=.6)return {key:'small',label:'初心者向け',short:'初心者向け'};if(r.max<=1)return {key:'medium',label:'中級',short:'中級'};return {key:'large',label:'上級',short:'上級'};}
  const text=r.size;
- if(/ムネ|胸|カタ|肩|アタマ|頭|オーバー|ダブル/.test(text))return {key:'large',label:'上級 · サイズの目安',short:'上級'};
- if(/コシ|腰|ハラ|腹/.test(text))return {key:'medium',label:'中級 · サイズの目安',short:'中級'};
- if(/ヒザ|膝|モモ|腿|スネ|すね/.test(text))return {key:'small',label:'初心者向け · サイズの目安',short:'初心者向け'};
+ if(/ムネ|胸|カタ|肩|アタマ|頭|オーバー|ダブル/.test(text))return {key:'large',label:'上級',short:'上級'};
+ if(/コシ|腰|ハラ|腹/.test(text))return {key:'medium',label:'中級',short:'中級'};
+ if(/ヒザ|膝|モモ|腿|スネ|すね/.test(text))return {key:'small',label:'初心者向け',short:'初心者向け'};
  if(/フラット/.test(text))return {key:'flat',label:'フラット',short:'フラット'};
  return {key:'unknown',label:'サイズ未取得',short:'未取得'};
 }

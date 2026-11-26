@@ -42,7 +42,7 @@ function initMap(){
  const tiles=L.tileLayer('https://tile.openstreetmap.org/{z}/{x}/{y}.png',{maxZoom:18,attribution:'&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a>'}).addTo(map);
  let errors=0;tiles.on('tileerror',()=>{if(++errors>3)$('map-failure').hidden=false;});tiles.on('tileload',()=>{$('map-failure').hidden=true;});
  for(const s of data.spots){const m=L.marker([s.lat,s.lon],{title:s.name,keyboard:true,icon:L.divIcon({className:'score-pin',html:'',iconSize:[36,36]})});m.on('click',()=>choose(s.id));m.bindTooltip(s.name,{direction:'top',offset:[0,-14],className:'spot-tooltip'});markers.push({m,s});}
- map.on('zoomend',groupMarkers);fitMap();
+ map.on('zoomend',groupMarkers);fitMap();if('ResizeObserver' in window){new ResizeObserver(()=>{map.invalidateSize({pan:false});groupMarkers();}).observe($('map'));}
 }
 function groupMarkers(){
  if(!map)return;

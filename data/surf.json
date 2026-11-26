@@ -18,7 +18,13 @@
         "updatedAt": "2026-11-26T15:55:00+09:00",
         "score": 20,
         "size": "コシsetハラ",
-        "wind": "サイドオン（弱）西"
+        "wind": {
+          "relative": "サイドオン",
+          "strength": "弱",
+          "direction": "西",
+          "speedMps": null,
+          "source": "BCM"
+        }
       },
       "forecasts": [
         {
@@ -72,7 +78,13 @@
         "updatedAt": "2026-11-26T13:20:00+09:00",
         "score": 20,
         "size": "モモ～コシsetハラ",
-        "wind": "オンショア（中）南西"
+        "wind": {
+          "relative": "オンショア",
+          "strength": "中",
+          "direction": "南西",
+          "speedMps": null,
+          "source": "BCM"
+        }
       },
       "forecasts": [
         {
@@ -126,7 +138,13 @@
         "updatedAt": "2026-11-26T13:15:00+09:00",
         "score": 20,
         "size": "コシsetハラ",
-        "wind": "オンショア（弱）南西"
+        "wind": {
+          "relative": "オンショア",
+          "strength": "弱",
+          "direction": "南西",
+          "speedMps": null,
+          "source": "BCM"
+        }
       },
       "forecasts": [
         {
@@ -180,7 +198,13 @@
         "updatedAt": "2026-11-26T15:50:00+09:00",
         "score": 20,
         "size": "コシsetハラ",
-        "wind": "サイドオン（弱）西"
+        "wind": {
+          "relative": "サイドオン",
+          "strength": "弱",
+          "direction": "西",
+          "speedMps": null,
+          "source": "BCM"
+        }
       },
       "forecasts": [
         {
@@ -234,7 +258,13 @@
         "updatedAt": "2026-11-26T16:35:00+09:00",
         "score": 20,
         "size": "モモ～コシsetハラ",
-        "wind": "サイドオン（弱）西"
+        "wind": {
+          "relative": "サイドオン",
+          "strength": "弱",
+          "direction": "西",
+          "speedMps": null,
+          "source": "BCM"
+        }
       },
       "forecasts": [
         {
@@ -288,7 +318,13 @@
         "updatedAt": "2026-11-26T13:05:00+09:00",
         "score": 20,
         "size": "ヒザ～モモたまのsetコシ",
-        "wind": "オンショア（中）南西"
+        "wind": {
+          "relative": "オンショア",
+          "strength": "中",
+          "direction": "南西",
+          "speedMps": null,
+          "source": "BCM"
+        }
       },
       "forecasts": [
         {

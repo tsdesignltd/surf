@@ -364,5 +364,14 @@
         }
       ]
     }
-  ]
+  ],
+  "automation": {
+    "name": "鎌倉BCM早朝情報を更新",
+    "timezone": "Asia/Tokyo",
+    "times": [
+      "06:15",
+      "06:55"
+    ],
+    "source": "BCM"
+  }
 }

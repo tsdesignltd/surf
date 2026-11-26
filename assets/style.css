@@ -24,3 +24,5 @@
 
 /* Keep the map landscape independently of the details panel. */
 .map-card{align-self:start}.map-wrap{flex:0 0 auto;width:100%;height:auto;min-height:0;aspect-ratio:2 / 1}.map-legend{margin-top:0}.explorer{align-items:start}@media(max-width:760px){.map-wrap{height:auto;min-height:0;aspect-ratio:1.6 / 1}.map-caption{padding:8px 10px}.map-caption span:first-child{font-size:12px}.map-caption span+span{font-size:10px}}
+
+.detail{height:var(--map-card-height,500px);min-height:0;overflow-y:auto;overflow-x:hidden;overscroll-behavior:contain;scrollbar-width:thin;scrollbar-color:#8fb8d5 transparent;scroll-padding-top:20px}.detail>*{flex-shrink:0}.detail .detail-heading{gap:12px;align-items:flex-start}.detail .detail-heading h2{font-size:24px;line-height:1.4;margin:0}.detail .detail-heading .tag{flex:none;margin-top:4px}.detail>.size-badge{margin-top:14px}.detail .score-block{padding-top:8px;padding-bottom:15px}.detail .conditions{margin:16px 0}.detail .wind-panel{padding:14px 0}.detail .wave-panel{padding-bottom:12px}@media(max-width:760px){.detail{height:auto;max-height:none;overflow:visible;overscroll-behavior:auto}.detail .detail-heading h2{font-size:24px}}

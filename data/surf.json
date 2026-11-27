@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "retrievedAt": "2026-11-27T20:33:33+09:00",
+  "retrievedAt": "2026-11-27T22:25:37.334Z",
   "modelRunAt": "2026-11-26T09:00:00+09:00",
   "updateMode": "scheduled-browser",
   "spots": [
@@ -21,14 +21,9 @@
       "modelRunAt": null,
       "forecasts": [
         {
-          "date": "2026-11-27",
-          "min": 0,
-          "max": 0.3
-        },
-        {
           "date": "2026-11-28",
-          "min": 0.3,
-          "max": 0.6
+          "min": 0.9,
+          "max": 1.2
         },
         {
           "date": "2026-11-29",
@@ -54,22 +49,27 @@
           "date": "2026-12-03",
           "min": 0,
           "max": 0
+        },
+        {
+          "date": "2026-12-04",
+          "min": 0,
+          "max": 0
         }
       ],
       "currentForecast": {
-        "date": "2026-11-27",
-        "min": 0,
-        "max": 0.3,
+        "date": "2026-11-28",
+        "min": 0.3,
+        "max": 0.6,
         "wind": {
           "source": "Surfline",
-          "direction": "西南西",
-          "relative": "オンショア",
-          "speedKph": 20,
-          "speedMps": 5.6,
-          "strength": "5.6 m/s"
+          "direction": "北北東",
+          "relative": "オフショア",
+          "speedKph": 27,
+          "speedMps": 7.5,
+          "strength": "7.5 m/s"
         }
       },
-      "forecastRetrievedAt": "2026-11-27T20:13:05+09:00"
+      "forecastRetrievedAt": "2026-11-27T22:25:37.334Z"
     },
     {
       "id": "chojagasaki",
@@ -89,14 +89,9 @@
       "modelRunAt": null,
       "forecasts": [
         {
-          "date": "2026-11-27",
-          "min": 0,
-          "max": 0.3
-        },
-        {
           "date": "2026-11-28",
-          "min": 0.3,
-          "max": 0.6
+          "min": 0.9,
+          "max": 1.2
         },
         {
           "date": "2026-11-29",
@@ -122,22 +117,27 @@
           "date": "2026-12-03",
           "min": 0,
           "max": 0
+        },
+        {
+          "date": "2026-12-04",
+          "min": 0,
+          "max": 0
         }
       ],
       "currentForecast": {
-        "date": "2026-11-27",
-        "min": 0,
-        "max": 0.3,
+        "date": "2026-11-28",
+        "min": 0.3,
+        "max": 0.6,
         "wind": {
           "source": "Surfline",
-          "direction": "西南西",
-          "relative": "オンショア",
-          "speedKph": 20,
-          "speedMps": 5.6,
-          "strength": "5.6 m/s"
+          "direction": "北北東",
+          "relative": "オフショア",
+          "speedKph": 27,
+          "speedMps": 7.5,
+          "strength": "7.5 m/s"
         }
       },
-      "forecastRetrievedAt": "2026-11-27T20:33:33+09:00"
+      "forecastRetrievedAt": "2026-11-27T22:25:37.334Z"
     },
     {
       "id": "zushi",
@@ -153,30 +153,25 @@
       "surflineUrl": "https://www.surfline.com/surf-report/zushi-kaigan/640a7722606c452ee2bda456",
       "observation": null,
       "modelRunAt": null,
-      "forecastRetrievedAt": "2026-11-27T09:20:43+09:00",
+      "forecastRetrievedAt": "2026-11-27T22:25:37.334Z",
       "currentForecast": {
-        "date": "2026-11-27",
-        "min": 0,
-        "max": 0.3,
+        "date": "2026-11-28",
+        "min": 0.3,
+        "max": 0.6,
         "wind": {
           "source": "Surfline",
-          "direction": "北",
+          "direction": "北北東",
           "relative": "オフショア",
-          "speedKph": 6,
-          "speedMps": 1.7,
-          "strength": "1.7 m/s"
+          "speedKph": 27,
+          "speedMps": 7.5,
+          "strength": "7.5 m/s"
         }
       },
       "forecasts": [
         {
-          "date": "2026-11-27",
-          "min": 0,
-          "max": 0
-        },
-        {
           "date": "2026-11-28",
-          "min": 0,
-          "max": 0.3
+          "min": 0.9,
+          "max": 1.2
         },
         {
           "date": "2026-11-29",
@@ -190,16 +185,21 @@
         },
         {
           "date": "2026-12-01",
-          "min": 0.3,
-          "max": 0.6
+          "min": 0.6,
+          "max": 0.9
         },
         {
           "date": "2026-12-02",
           "min": 0,
-          "max": 0.3
+          "max": 0
         },
         {
           "date": "2026-12-03",
+          "min": 0,
+          "max": 0
+        },
+        {
+          "date": "2026-12-04",
           "min": 0,
           "max": 0
         }
@@ -220,30 +220,25 @@
       "surflineUrl": "https://www.surfline.com/surf-report/osaki/584204204e65fad6a7709760",
       "observation": null,
       "modelRunAt": null,
-      "forecastRetrievedAt": "2026-11-27T09:20:43+09:00",
+      "forecastRetrievedAt": "2026-11-27T22:25:37.334Z",
       "currentForecast": {
-        "date": "2026-11-27",
-        "min": 0,
-        "max": 0.3,
+        "date": "2026-11-28",
+        "min": 0.3,
+        "max": 0.6,
         "wind": {
           "source": "Surfline",
-          "direction": "北",
-          "relative": "オンショア",
-          "speedKph": 6,
-          "speedMps": 1.7,
-          "strength": "1.7 m/s"
+          "direction": "北北東",
+          "relative": "サイド",
+          "speedKph": 27,
+          "speedMps": 7.5,
+          "strength": "7.5 m/s"
         }
       },
       "forecasts": [
         {
-          "date": "2026-11-27",
-          "min": 0,
-          "max": 0.3
-        },
-        {
           "date": "2026-11-28",
-          "min": 0,
-          "max": 0.3
+          "min": 0.9,
+          "max": 1.2
         },
         {
           "date": "2026-11-29",
@@ -263,10 +258,15 @@
         {
           "date": "2026-12-02",
           "min": 0,
-          "max": 0
+          "max": 0.3
         },
         {
           "date": "2026-12-03",
+          "min": 0,
+          "max": 0
+        },
+        {
+          "date": "2026-12-04",
           "min": 0,
           "max": 0
         }
@@ -283,14 +283,14 @@
       "bcmUrl": "https://m.bc01.com/wave/5/211",
       "surflineUrl": "https://www.surfline.com/surf-report/zaimokuza/584204204e65fad6a7709763",
       "observation": {
-        "date": "2026-11-27",
-        "updatedAt": "2026-11-27T07:55:00+09:00",
-        "score": 20,
+        "date": "2026-11-28",
+        "updatedAt": "2026-11-28T06:10:00+09:00",
+        "score": 15,
         "size": "スネ～ヒザ",
         "wind": {
-          "relative": "サイドオフ",
-          "strength": "微",
-          "direction": "北",
+          "relative": "サイドオン",
+          "strength": "やや強",
+          "direction": "南南東",
           "speedMps": null,
           "source": "BCM"
         }
@@ -345,14 +345,14 @@
       "bcmUrl": "https://m.bc01.com/wave/5/56",
       "surflineUrl": "https://www.surfline.com/surf-report/yuigahama/584204204e65fad6a7709764",
       "observation": {
-        "date": "2026-11-27",
-        "updatedAt": "2026-11-27T07:50:00+09:00",
-        "score": 20,
-        "size": "ヒザsetモモ",
+        "date": "2026-11-28",
+        "updatedAt": "2026-11-28T06:05:00+09:00",
+        "score": 15,
+        "size": "スネ～ヒザ",
         "wind": {
-          "relative": "オフショア",
-          "strength": "弱",
-          "direction": "北",
+          "relative": "オンショア",
+          "strength": "やや強",
+          "direction": "南西",
           "speedMps": null,
           "source": "BCM"
         }
@@ -407,13 +407,13 @@
       "bcmUrl": "https://m.bc01.com/wave/5/55",
       "surflineUrl": "https://www.surfline.com/surf-report/shichirigahama/584204204e65fad6a7709767",
       "observation": {
-        "date": "2026-11-27",
-        "updatedAt": "2026-11-27T07:20:00+09:00",
-        "score": 5,
-        "size": "モモ～コシ（ウネリ）",
+        "date": "2026-11-28",
+        "updatedAt": "2026-11-28T07:15:00+09:00",
+        "score": 15,
+        "size": "setモモたまにコシ",
         "wind": {
           "relative": "オフショア",
-          "strength": "弱",
+          "strength": "中",
           "direction": "北",
           "speedMps": null,
           "source": "BCM"
@@ -469,14 +469,14 @@
       "bcmUrl": "https://m.bc01.com/wave/5/1070",
       "surflineUrl": "https://www.surfline.com/surf-report/roa/584204204e65fad6a7709769",
       "observation": {
-        "date": "2026-11-27",
-        "updatedAt": "2026-11-27T07:30:00+09:00",
-        "score": 5,
-        "size": "モモ～コシ（ウネリ）",
+        "date": "2026-11-28",
+        "updatedAt": "2026-11-28T05:35:00+09:00",
+        "score": 10,
+        "size": "ヒザたまのsetモモ",
         "wind": {
-          "relative": "オフショア",
-          "strength": "弱",
-          "direction": "北",
+          "relative": "オンショア",
+          "strength": "強",
+          "direction": "南",
           "speedMps": null,
           "source": "BCM"
         }
@@ -531,14 +531,14 @@
       "bcmUrl": "https://m.bc01.com/wave/5/1071",
       "surflineUrl": "https://www.surfline.com/surf-report/minegahara/584204204e65fad6a770976a",
       "observation": {
-        "date": "2026-11-27",
-        "updatedAt": "2026-11-27T07:30:00+09:00",
-        "score": 5,
-        "size": "モモ～コシ（ウネリ）",
+        "date": "2026-11-28",
+        "updatedAt": "2026-11-28T05:45:00+09:00",
+        "score": 15,
+        "size": "ヒザsetモモ",
         "wind": {
-          "relative": "オフショア",
-          "strength": "弱",
-          "direction": "北",
+          "relative": "サイドオン",
+          "strength": "やや強",
+          "direction": "南南東",
           "speedMps": null,
           "source": "BCM"
         }
@@ -593,14 +593,14 @@
       "bcmUrl": "https://m.bc01.com/wave/5/58",
       "surflineUrl": "https://www.surfline.com/surf-report/kamakomae/584204204e65fad6a770976c",
       "observation": {
-        "date": "2026-11-27",
-        "updatedAt": "2026-11-27T07:35:00+09:00",
-        "score": 5,
-        "size": "モモ～コシ（ウネリ）",
+        "date": "2026-11-28",
+        "updatedAt": "2026-11-28T05:35:00+09:00",
+        "score": 15,
+        "size": "ヒザ～モモ",
         "wind": {
-          "relative": "オフショア",
-          "strength": "弱",
-          "direction": "北",
+          "relative": "サイドオン",
+          "strength": "やや強",
+          "direction": "南南東",
           "speedMps": null,
           "source": "BCM"
         }
@@ -662,14 +662,9 @@
       "modelRunAt": null,
       "forecasts": [
         {
-          "date": "2026-11-27",
-          "min": 0,
-          "max": 0.3
-        },
-        {
           "date": "2026-11-28",
-          "min": 0.3,
-          "max": 0.6
+          "min": 1.2,
+          "max": 1.5
         },
         {
           "date": "2026-11-29",
@@ -695,22 +690,27 @@
           "date": "2026-12-03",
           "min": 0,
           "max": 0.3
+        },
+        {
+          "date": "2026-12-04",
+          "min": 0,
+          "max": 0.3
         }
       ],
       "currentForecast": {
-        "date": "2026-11-27",
-        "min": 0,
-        "max": 0.3,
+        "date": "2026-11-28",
+        "min": 0.6,
+        "max": 0.9,
         "wind": {
           "source": "Surfline",
-          "direction": "南西",
-          "relative": "オンショア",
-          "speedKph": 5,
-          "speedMps": 1.4,
-          "strength": "1.4 m/s"
+          "direction": "北北東",
+          "relative": "オフショア",
+          "speedKph": 27,
+          "speedMps": 7.5,
+          "strength": "7.5 m/s"
         }
       },
-      "forecastRetrievedAt": "2026-11-27T12:26:02+09:00",
+      "forecastRetrievedAt": "2026-11-27T22:25:37.334Z",
       "forecastAutoUpdate": true
     },
     {
@@ -732,14 +732,14 @@
         "16:40"
       ],
       "observation": {
-        "date": "2026-11-27",
-        "updatedAt": "2026-11-27T06:10:00+09:00",
+        "date": "2026-11-28",
+        "updatedAt": "2026-11-28T06:15:00+09:00",
         "score": 15,
-        "size": "スネ～ヒザ",
+        "size": "スネsetヒザ",
         "wind": {
-          "relative": "オフショア",
-          "strength": "微",
-          "direction": "北北東",
+          "relative": "サイドオン",
+          "strength": "やや強",
+          "direction": "南南東",
           "speedMps": null,
           "source": "BCM"
         }
@@ -807,13 +807,13 @@
         "20:30"
       ],
       "observation": {
-        "date": "2026-11-27",
-        "updatedAt": "2026-11-27T07:05:00+09:00",
+        "date": "2026-11-28",
+        "updatedAt": "2026-11-28T07:15:00+09:00",
         "score": 20,
-        "size": "ヒザ～モモsetコシ",
+        "size": "ヒザsetモモたまにコシ",
         "wind": {
           "relative": "オフショア",
-          "strength": "弱",
+          "strength": "中",
           "direction": "北",
           "speedMps": null,
           "source": "BCM"
@@ -881,14 +881,14 @@
         "20:40"
       ],
       "observation": {
-        "date": "2026-11-27",
-        "updatedAt": "2026-11-27T07:45:00+09:00",
+        "date": "2026-11-28",
+        "updatedAt": "2026-11-28T06:15:00+09:00",
         "score": 20,
-        "size": "モモsetコシ",
+        "size": "ヒザ～モモ",
         "wind": {
-          "relative": "オフショア",
-          "strength": "弱",
-          "direction": "北",
+          "relative": "サイドオン",
+          "strength": "中",
+          "direction": "南南東",
           "speedMps": null,
           "source": "BCM"
         }
@@ -953,14 +953,14 @@
         "15:40"
       ],
       "observation": {
-        "date": "2026-11-27",
-        "updatedAt": "2026-11-27T09:10:00+09:00",
+        "date": "2026-11-28",
+        "updatedAt": "2026-11-28T07:15:00+09:00",
         "score": 15,
-        "size": "setモモ～コシ",
+        "size": "モモたまのsetコシ",
         "wind": {
-          "relative": "サイドオフ",
-          "strength": "弱",
-          "direction": "北東",
+          "relative": "オフショア",
+          "strength": "中",
+          "direction": "北",
           "speedMps": null,
           "source": "BCM"
         }
@@ -1026,14 +1026,14 @@
         "17:30"
       ],
       "observation": {
-        "date": "2026-11-27",
-        "updatedAt": "2026-11-27T07:30:00+09:00",
-        "score": 20,
-        "size": "ヒザsetモモ",
+        "date": "2026-11-28",
+        "updatedAt": "2026-11-28T05:05:00+09:00",
+        "score": 15,
+        "size": "ヒザたまのsetモモ",
         "wind": {
-          "relative": "オフショア",
-          "strength": "弱",
-          "direction": "北",
+          "relative": "オンショア",
+          "strength": "やや強",
+          "direction": "南",
           "speedMps": null,
           "source": "BCM"
         }
@@ -1095,14 +1095,14 @@
         "14:50"
       ],
       "observation": {
-        "date": "2026-11-27",
-        "updatedAt": "2026-11-27T06:35:00+09:00",
-        "score": 5,
-        "size": "モモ（ウネリ）",
+        "date": "2026-11-28",
+        "updatedAt": "2026-11-28T06:30:00+09:00",
+        "score": 15,
+        "size": "ヒザsetモモ",
         "wind": {
-          "relative": "オフショア",
-          "strength": "弱",
-          "direction": "北北東",
+          "relative": "サイドオン",
+          "strength": "中",
+          "direction": "南南東",
           "speedMps": null,
           "source": "BCM"
         }
@@ -1168,14 +1168,14 @@
         "16:35"
       ],
       "observation": {
-        "date": "2026-11-27",
-        "updatedAt": "2026-11-27T08:50:00+09:00",
-        "score": 5,
-        "size": "ヒザ～コシ（ウネリ）",
+        "date": "2026-11-28",
+        "updatedAt": "2026-11-28T06:35:00+09:00",
+        "score": 10,
+        "size": "モモたまのsetコシ",
         "wind": {
           "relative": "オフショア",
-          "strength": "弱",
-          "direction": "北北東",
+          "strength": "中",
+          "direction": "北",
           "speedMps": null,
           "source": "BCM"
         }
@@ -1310,14 +1310,14 @@
         "17:00"
       ],
       "observation": {
-        "date": "2026-11-27",
-        "updatedAt": "2026-11-27T08:45:00+09:00",
-        "score": 10,
-        "size": "setモモ～コシ",
+        "date": "2026-11-28",
+        "updatedAt": "2026-11-28T06:50:00+09:00",
+        "score": 15,
+        "size": "モモたまのsetコシ",
         "wind": {
-          "relative": "サイドオフ",
-          "strength": "弱",
-          "direction": "北北東",
+          "relative": "サイドオン",
+          "strength": "中",
+          "direction": "東",
           "speedMps": null,
           "source": "BCM"
         }
@@ -1380,14 +1380,14 @@
         "14:00"
       ],
       "observation": {
-        "date": "2026-11-27",
-        "updatedAt": "2026-11-27T06:30:00+09:00",
-        "score": 5,
-        "size": "ヒザ（ウネリ）",
+        "date": "2026-11-28",
+        "updatedAt": "2026-11-28T06:50:00+09:00",
+        "score": 15,
+        "size": "setモモ",
         "wind": {
-          "relative": "サイドオフ",
-          "strength": "弱",
-          "direction": "北北東",
+          "relative": "サイドオン",
+          "strength": "中",
+          "direction": "東",
           "speedMps": null,
           "source": "BCM"
         }
@@ -1508,14 +1508,14 @@
       "surflineUrl": "https://www.surfline.com/surf-report/onjuku-iwawada/584204204e65fad6a77090df",
       "forecastAutoUpdate": true,
       "observation": {
-        "date": "2026-11-27",
-        "updatedAt": "2026-11-27T15:45:00+09:00",
-        "score": 15,
-        "size": "ヒザたまのsetモモ",
+        "date": "2026-11-28",
+        "updatedAt": "2026-11-28T06:55:00+09:00",
+        "score": 20,
+        "size": "モモ～コシ",
         "wind": {
           "relative": "オンショア",
           "strength": "やや強",
-          "direction": "南西",
+          "direction": "南南西",
           "speedMps": null,
           "source": "BCM"
         }
@@ -1523,14 +1523,9 @@
       "modelRunAt": null,
       "forecasts": [
         {
-          "date": "2026-11-27",
-          "min": 0.6,
-          "max": 0.9
-        },
-        {
           "date": "2026-11-28",
-          "min": 1.2,
-          "max": 1.8
+          "min": 1.8,
+          "max": 2.4
         },
         {
           "date": "2026-11-29",
@@ -1556,22 +1551,27 @@
           "date": "2026-12-03",
           "min": 0.6,
           "max": 0.9
+        },
+        {
+          "date": "2026-12-04",
+          "min": 0.6,
+          "max": 0.9
         }
       ],
       "currentForecast": {
-        "date": "2026-11-27",
-        "min": 0.6,
-        "max": 1.1,
+        "date": "2026-11-28",
+        "min": 1.5,
+        "max": 2.1,
         "wind": {
           "source": "Surfline",
-          "direction": "南西",
+          "direction": "南南西",
           "relative": "オンショア",
-          "speedKph": 14,
-          "speedMps": 3.9,
-          "strength": "3.9 m/s"
+          "speedKph": 24,
+          "speedMps": 6.7,
+          "strength": "6.7 m/s"
         }
       },
-      "forecastRetrievedAt": "2026-11-27T20:13:05+09:00"
+      "forecastRetrievedAt": "2026-11-27T22:25:37.334Z"
     },
     {
       "id": "onjuku",
@@ -1594,14 +1594,14 @@
       "surflineUrl": "https://www.surfline.com/surf-report/onjuku/584204204e65fad6a7709743",
       "forecastAutoUpdate": true,
       "observation": {
-        "date": "2026-11-27",
-        "updatedAt": "2026-11-27T14:45:00+09:00",
-        "score": 20,
-        "size": "コシ～ハラ",
+        "date": "2026-11-28",
+        "updatedAt": "2026-11-28T06:25:00+09:00",
+        "score": 15,
+        "size": "コシ～ハラsetムネ",
         "wind": {
-          "relative": "サイド",
-          "strength": "中",
-          "direction": "西南西",
+          "relative": "サイドオン",
+          "strength": "やや強",
+          "direction": "南南西",
           "speedMps": null,
           "source": "BCM"
         }
@@ -1609,14 +1609,9 @@
       "modelRunAt": null,
       "forecasts": [
         {
-          "date": "2026-11-27",
-          "min": 0.3,
-          "max": 0.6
-        },
-        {
           "date": "2026-11-28",
-          "min": 0.9,
-          "max": 1.4
+          "min": 1.2,
+          "max": 2
         },
         {
           "date": "2026-11-29",
@@ -1642,22 +1637,27 @@
           "date": "2026-12-03",
           "min": 0.3,
           "max": 0.6
+        },
+        {
+          "date": "2026-12-04",
+          "min": 0.3,
+          "max": 0.6
         }
       ],
       "currentForecast": {
-        "date": "2026-11-27",
-        "min": 0.3,
-        "max": 0.6,
+        "date": "2026-11-28",
+        "min": 1.5,
+        "max": 2.1,
         "wind": {
           "source": "Surfline",
-          "direction": "南西",
+          "direction": "南南西",
           "relative": "オンショア",
-          "speedKph": 14,
-          "speedMps": 3.9,
-          "strength": "3.9 m/s"
+          "speedKph": 24,
+          "speedMps": 6.7,
+          "strength": "6.7 m/s"
         }
       },
-      "forecastRetrievedAt": "2026-11-27T20:13:05+09:00"
+      "forecastRetrievedAt": "2026-11-27T22:25:37.334Z"
     },
     {
       "id": "onjuku-gyoko",
@@ -1681,14 +1681,14 @@
       "surflineUrl": "https://www.surfline.com/surf-report/onjuku/584204204e65fad6a7709743",
       "forecastAutoUpdate": true,
       "observation": {
-        "date": "2026-11-27",
-        "updatedAt": "2026-11-27T14:40:00+09:00",
-        "score": 25,
-        "size": "モモ～コシたまのsetハラ",
+        "date": "2026-11-28",
+        "updatedAt": "2026-11-28T06:20:00+09:00",
+        "score": 20,
+        "size": "コシ～ハラsetムネ",
         "wind": {
-          "relative": "サイド",
-          "strength": "弱",
-          "direction": "西南西",
+          "relative": "サイドオン",
+          "strength": "やや強",
+          "direction": "南南西",
           "speedMps": null,
           "source": "BCM"
         }
@@ -1696,14 +1696,9 @@
       "modelRunAt": null,
       "forecasts": [
         {
-          "date": "2026-11-27",
-          "min": 0.3,
-          "max": 0.6
-        },
-        {
           "date": "2026-11-28",
-          "min": 0.9,
-          "max": 1.4
+          "min": 1.2,
+          "max": 2
         },
         {
           "date": "2026-11-29",
@@ -1729,22 +1724,27 @@
           "date": "2026-12-03",
           "min": 0.3,
           "max": 0.6
+        },
+        {
+          "date": "2026-12-04",
+          "min": 0.3,
+          "max": 0.6
         }
       ],
       "currentForecast": {
-        "date": "2026-11-27",
-        "min": 0.3,
-        "max": 0.6,
+        "date": "2026-11-28",
+        "min": 1.5,
+        "max": 2.1,
         "wind": {
           "source": "Surfline",
-          "direction": "南西",
+          "direction": "南南西",
           "relative": "オンショア",
-          "speedKph": 14,
-          "speedMps": 3.9,
-          "strength": "3.9 m/s"
+          "speedKph": 24,
+          "speedMps": 6.7,
+          "strength": "6.7 m/s"
         }
       },
-      "forecastRetrievedAt": "2026-11-27T20:13:05+09:00"
+      "forecastRetrievedAt": "2026-11-27T22:25:37.334Z"
     },
     {
       "id": "hebara",
@@ -1768,14 +1768,14 @@
       "surflineUrl": "https://www.surfline.com/surf-report/hebara/5842041f4e65fad6a7708d98",
       "forecastAutoUpdate": true,
       "observation": {
-        "date": "2026-11-27",
-        "updatedAt": "2026-11-27T15:55:00+09:00",
+        "date": "2026-11-28",
+        "updatedAt": "2026-11-28T06:05:00+09:00",
         "score": 20,
-        "size": "たまのsetコシ～ハラ",
+        "size": "コシ～ハラたまのsetムネ",
         "wind": {
-          "relative": "サイド",
-          "strength": "弱",
-          "direction": "南西",
+          "relative": "サイドオン",
+          "strength": "やや強",
+          "direction": "南南西",
           "speedMps": null,
           "source": "BCM"
         }
@@ -1783,14 +1783,9 @@
       "modelRunAt": null,
       "forecasts": [
         {
-          "date": "2026-11-27",
-          "min": 0.3,
-          "max": 0.6
-        },
-        {
           "date": "2026-11-28",
-          "min": 1.2,
-          "max": 1.5
+          "min": 1.5,
+          "max": 2.1
         },
         {
           "date": "2026-11-29",
@@ -1799,8 +1794,8 @@
         },
         {
           "date": "2026-11-30",
-          "min": 0,
-          "max": 0.3
+          "min": 0.3,
+          "max": 0.6
         },
         {
           "date": "2026-12-01",
@@ -1816,22 +1811,27 @@
           "date": "2026-12-03",
           "min": 0.6,
           "max": 0.9
+        },
+        {
+          "date": "2026-12-04",
+          "min": 0.6,
+          "max": 0.9
         }
       ],
       "currentForecast": {
-        "date": "2026-11-27",
-        "min": 0.6,
-        "max": 0.9,
+        "date": "2026-11-28",
+        "min": 1.2,
+        "max": 2,
         "wind": {
           "source": "Surfline",
-          "direction": "南西",
-          "relative": "オフショア",
-          "speedKph": 14,
-          "speedMps": 3.9,
-          "strength": "3.9 m/s"
+          "direction": "南南西",
+          "relative": "サイド",
+          "speedKph": 24,
+          "speedMps": 6.7,
+          "strength": "6.7 m/s"
         }
       },
-      "forecastRetrievedAt": "2026-11-27T20:13:05+09:00"
+      "forecastRetrievedAt": "2026-11-27T22:25:37.334Z"
     },
     {
       "id": "maruki",
@@ -1856,14 +1856,14 @@
       "surflineUrl": "https://www.surfline.com/surf-report/maruki/584204204e65fad6a770974a",
       "forecastAutoUpdate": true,
       "observation": {
-        "date": "2026-11-27",
-        "updatedAt": "2026-11-27T16:00:00+09:00",
+        "date": "2026-11-28",
+        "updatedAt": "2026-11-28T05:30:00+09:00",
         "score": 20,
-        "size": "コシ～ハラたまのsetムネ",
+        "size": "ハラ～ムネ",
         "wind": {
-          "relative": "サイド",
-          "strength": "弱",
-          "direction": "西南西",
+          "relative": "オンショア",
+          "strength": "やや強",
+          "direction": "南",
           "speedMps": null,
           "source": "BCM"
         }
@@ -1871,19 +1871,14 @@
       "modelRunAt": null,
       "forecasts": [
         {
-          "date": "2026-11-27",
-          "min": 0.3,
-          "max": 0.6
-        },
-        {
           "date": "2026-11-28",
-          "min": 1.2,
-          "max": 1.5
+          "min": 1.8,
+          "max": 2.4
         },
         {
           "date": "2026-11-29",
-          "min": 0.9,
-          "max": 1.2
+          "min": 0.6,
+          "max": 1.1
         },
         {
           "date": "2026-11-30",
@@ -1892,8 +1887,8 @@
         },
         {
           "date": "2026-12-01",
-          "min": 0.6,
-          "max": 1.1
+          "min": 0.9,
+          "max": 1.2
         },
         {
           "date": "2026-12-02",
@@ -1902,24 +1897,29 @@
         },
         {
           "date": "2026-12-03",
-          "min": 0.3,
-          "max": 0.6
+          "min": 0.6,
+          "max": 0.9
+        },
+        {
+          "date": "2026-12-04",
+          "min": 0.6,
+          "max": 0.9
         }
       ],
       "currentForecast": {
-        "date": "2026-11-27",
-        "min": 0.6,
-        "max": 0.9,
+        "date": "2026-11-28",
+        "min": 1.8,
+        "max": 2.4,
         "wind": {
           "source": "Surfline",
-          "direction": "南西",
-          "relative": "サイド",
-          "speedKph": 34,
-          "speedMps": 9.4,
-          "strength": "9.4 m/s"
+          "direction": "南",
+          "relative": "オンショア",
+          "speedKph": 71,
+          "speedMps": 19.7,
+          "strength": "19.7 m/s"
         }
       },
-      "forecastRetrievedAt": "2026-11-27T20:13:05+09:00"
+      "forecastRetrievedAt": "2026-11-27T22:25:37.334Z"
     },
     {
       "id": "shirasuka",
@@ -1945,14 +1945,14 @@
       "surflineUrl": "https://www.surfline.com/surf-report/shirasuka/584204204e65fad6a7709756",
       "forecastAutoUpdate": true,
       "observation": {
-        "date": "2026-11-27",
-        "updatedAt": "2026-11-27T16:30:00+09:00",
-        "score": 30,
-        "size": "コシ～ハラたまのsetムネ",
+        "date": "2026-11-28",
+        "updatedAt": "2026-11-28T07:10:00+09:00",
+        "score": 20,
+        "size": "ハラ～ムネ",
         "wind": {
-          "relative": "サイド",
-          "strength": "中",
-          "direction": "南西",
+          "relative": "オンショア",
+          "strength": "やや強",
+          "direction": "南東",
           "speedMps": null,
           "source": "BCM"
         }
@@ -1960,14 +1960,9 @@
       "modelRunAt": null,
       "forecasts": [
         {
-          "date": "2026-11-27",
-          "min": 0.6,
-          "max": 0.9
-        },
-        {
           "date": "2026-11-28",
-          "min": 1.2,
-          "max": 1.5
+          "min": 1.8,
+          "max": 2.4
         },
         {
           "date": "2026-11-29",
@@ -1982,7 +1977,7 @@
         {
           "date": "2026-12-01",
           "min": 0.6,
-          "max": 1.1
+          "max": 0.9
         },
         {
           "date": "2026-12-02",
@@ -1993,22 +1988,27 @@
           "date": "2026-12-03",
           "min": 0.6,
           "max": 0.9
+        },
+        {
+          "date": "2026-12-04",
+          "min": 0.6,
+          "max": 0.9
         }
       ],
       "currentForecast": {
-        "date": "2026-11-27",
-        "min": 0.6,
-        "max": 0.9,
+        "date": "2026-11-28",
+        "min": 1.8,
+        "max": 2.4,
         "wind": {
           "source": "Surfline",
-          "direction": "南西",
-          "relative": "サイド",
-          "speedKph": 19,
-          "speedMps": 5.3,
-          "strength": "5.3 m/s"
+          "direction": "南",
+          "relative": "オンショア",
+          "speedKph": 49,
+          "speedMps": 13.6,
+          "strength": "13.6 m/s"
         }
       },
-      "forecastRetrievedAt": "2026-11-27T20:13:05+09:00"
+      "forecastRetrievedAt": "2026-11-27T22:25:37.334Z"
     },
     {
       "id": "hanakago",
@@ -2034,14 +2034,14 @@
       "surflineUrl": "https://www.surfline.com/surf-report/hanakagomae/584204204e65fad6a7709755",
       "forecastAutoUpdate": true,
       "observation": {
-        "date": "2026-11-27",
-        "updatedAt": "2026-11-27T16:40:00+09:00",
+        "date": "2026-11-28",
+        "updatedAt": "2026-11-28T06:20:00+09:00",
         "score": 20,
-        "size": "コシ～ハラたまのsetムネ",
+        "size": "ハラ～ムネ",
         "wind": {
-          "relative": "サイドオフ",
-          "strength": "弱",
-          "direction": "西",
+          "relative": "サイドオン",
+          "strength": "やや強",
+          "direction": "南",
           "speedMps": null,
           "source": "BCM"
         }
@@ -2049,14 +2049,9 @@
       "modelRunAt": null,
       "forecasts": [
         {
-          "date": "2026-11-27",
-          "min": 0.6,
-          "max": 0.9
-        },
-        {
           "date": "2026-11-28",
-          "min": 1.2,
-          "max": 1.5
+          "min": 1.8,
+          "max": 2.4
         },
         {
           "date": "2026-11-29",
@@ -2082,22 +2077,27 @@
           "date": "2026-12-03",
           "min": 0.6,
           "max": 0.9
+        },
+        {
+          "date": "2026-12-04",
+          "min": 0.6,
+          "max": 0.9
         }
       ],
       "currentForecast": {
-        "date": "2026-11-27",
-        "min": 0.6,
-        "max": 0.9,
+        "date": "2026-11-28",
+        "min": 1.8,
+        "max": 2.4,
         "wind": {
           "source": "Surfline",
-          "direction": "南西",
-          "relative": "サイド",
-          "speedKph": 19,
-          "speedMps": 5.3,
-          "strength": "5.3 m/s"
+          "direction": "南",
+          "relative": "オンショア",
+          "speedKph": 49,
+          "speedMps": 13.6,
+          "strength": "13.6 m/s"
         }
       },
-      "forecastRetrievedAt": "2026-11-27T20:13:05+09:00"
+      "forecastRetrievedAt": "2026-11-27T22:25:37.334Z"
     },
     {
       "id": "chitose",
@@ -2121,14 +2121,14 @@
       "surflineUrl": "https://www.surfline.com/surf-report/chitose/584204204e65fad6a7709758",
       "forecastAutoUpdate": true,
       "observation": {
-        "date": "2026-11-27",
-        "updatedAt": "2026-11-27T15:40:00+09:00",
-        "score": 20,
+        "date": "2026-11-28",
+        "updatedAt": "2026-11-28T06:00:00+09:00",
+        "score": 10,
         "size": "コシ～ハラ",
         "wind": {
-          "relative": "サイドオフ",
-          "strength": "弱",
-          "direction": "南西",
+          "relative": "サイドオン",
+          "strength": "やや強",
+          "direction": "南東",
           "speedMps": null,
           "source": "BCM"
         }
@@ -2136,14 +2136,9 @@
       "modelRunAt": null,
       "forecasts": [
         {
-          "date": "2026-11-27",
-          "min": 0.6,
-          "max": 0.9
-        },
-        {
           "date": "2026-11-28",
-          "min": 0.9,
-          "max": 1.4
+          "min": 1.5,
+          "max": 2.1
         },
         {
           "date": "2026-11-29",
@@ -2157,8 +2152,8 @@
         },
         {
           "date": "2026-12-01",
-          "min": 0.6,
-          "max": 1.1
+          "min": 0.9,
+          "max": 1.2
         },
         {
           "date": "2026-12-02",
@@ -2169,22 +2164,27 @@
           "date": "2026-12-03",
           "min": 0.6,
           "max": 0.9
+        },
+        {
+          "date": "2026-12-04",
+          "min": 0.6,
+          "max": 0.9
         }
       ],
       "currentForecast": {
-        "date": "2026-11-27",
-        "min": 0.6,
-        "max": 0.9,
+        "date": "2026-11-28",
+        "min": 1.5,
+        "max": 2.1,
         "wind": {
           "source": "Surfline",
-          "direction": "南西",
-          "relative": "オフショア",
-          "speedKph": 19,
-          "speedMps": 5.3,
-          "strength": "5.3 m/s"
+          "direction": "南",
+          "relative": "サイド",
+          "speedKph": 49,
+          "speedMps": 13.6,
+          "strength": "13.6 m/s"
         }
       },
-      "forecastRetrievedAt": "2026-11-27T20:13:05+09:00"
+      "forecastRetrievedAt": "2026-11-27T22:25:37.334Z"
     },
     {
       "id": "chikura",
@@ -2208,9 +2208,9 @@
       "surflineUrl": "https://www.surfline.com/surf-report/chikura/584204204e65fad6a770975a",
       "forecastAutoUpdate": true,
       "observation": {
-        "date": "2026-11-27",
-        "updatedAt": "2026-11-27T15:40:00+09:00",
-        "score": 30,
+        "date": "2026-11-28",
+        "updatedAt": "2026-11-28T05:50:00+09:00",
+        "score": 20,
         "size": "モモsetコシたまにハラ",
         "wind": {
           "relative": "オフショア",
@@ -2223,14 +2223,9 @@
       "modelRunAt": null,
       "forecasts": [
         {
-          "date": "2026-11-27",
-          "min": 0.6,
-          "max": 0.9
-        },
-        {
           "date": "2026-11-28",
-          "min": 0.9,
-          "max": 1.4
+          "min": 1.5,
+          "max": 2.1
         },
         {
           "date": "2026-11-29",
@@ -2256,22 +2251,27 @@
           "date": "2026-12-03",
           "min": 0.6,
           "max": 0.9
+        },
+        {
+          "date": "2026-12-04",
+          "min": 0.6,
+          "max": 0.9
         }
       ],
       "currentForecast": {
-        "date": "2026-11-27",
-        "min": 0.6,
-        "max": 0.9,
+        "date": "2026-11-28",
+        "min": 1.2,
+        "max": 2,
         "wind": {
           "source": "Surfline",
-          "direction": "南西",
-          "relative": "オフショア",
-          "speedKph": 19,
-          "speedMps": 5.3,
-          "strength": "5.3 m/s"
+          "direction": "南",
+          "relative": "サイド",
+          "speedKph": 49,
+          "speedMps": 13.6,
+          "strength": "13.6 m/s"
         }
       },
-      "forecastRetrievedAt": "2026-11-27T20:13:05+09:00"
+      "forecastRetrievedAt": "2026-11-27T22:25:37.334Z"
     },
     {
       "id": "heisaura",
@@ -2295,14 +2295,14 @@
       "surflineUrl": "https://www.surfline.com/surf-report/heisaura/617b177e84de336c44a2d7e6",
       "forecastAutoUpdate": true,
       "observation": {
-        "date": "2026-11-27",
-        "updatedAt": "2026-11-27T15:35:00+09:00",
-        "score": 15,
-        "size": "コシ",
+        "date": "2026-11-28",
+        "updatedAt": "2026-11-28T06:35:00+09:00",
+        "score": 20,
+        "size": "モモ～コシ",
         "wind": {
-          "relative": "オンショア",
-          "strength": "強",
-          "direction": "南西",
+          "relative": "サイドオン",
+          "strength": "やや強",
+          "direction": "南東",
           "speedMps": null,
           "source": "BCM"
         }
@@ -2310,14 +2310,9 @@
       "modelRunAt": null,
       "forecasts": [
         {
-          "date": "2026-11-27",
-          "min": 0.6,
-          "max": 0.9
-        },
-        {
           "date": "2026-11-28",
-          "min": 0.9,
-          "max": 1.4
+          "min": 1.5,
+          "max": 2.1
         },
         {
           "date": "2026-11-29",
@@ -2343,22 +2338,27 @@
           "date": "2026-12-03",
           "min": 0.3,
           "max": 0.6
+        },
+        {
+          "date": "2026-12-04",
+          "min": 0.3,
+          "max": 0.6
         }
       ],
       "currentForecast": {
-        "date": "2026-11-27",
-        "min": 0.3,
-        "max": 0.6,
+        "date": "2026-11-28",
+        "min": 1.8,
+        "max": 2.4,
         "wind": {
           "source": "Surfline",
-          "direction": "南西",
+          "direction": "南南西",
           "relative": "オンショア",
-          "speedKph": 33,
-          "speedMps": 9.2,
-          "strength": "9.2 m/s"
+          "speedKph": 60,
+          "speedMps": 16.7,
+          "strength": "16.7 m/s"
         }
       },
-      "forecastRetrievedAt": "2026-11-27T20:13:05+09:00"
+      "forecastRetrievedAt": "2026-11-27T22:25:37.334Z"
     },
     {
       "id": "ohara",
@@ -2381,14 +2381,14 @@
       "surflineUrl": "https://www.surfline.com/surf-report/ohara/584204204e65fad6a7709740",
       "forecastAutoUpdate": true,
       "observation": {
-        "date": "2026-11-27",
-        "updatedAt": "2026-11-27T13:40:00+09:00",
+        "date": "2026-11-28",
+        "updatedAt": "2026-11-28T06:05:00+09:00",
         "score": 20,
-        "size": "ヒザ～モモたまのsetコシ",
+        "size": "ヒザ～モモ",
         "wind": {
-          "relative": "オフショア",
+          "relative": "サイド",
           "strength": "やや強",
-          "direction": "南西",
+          "direction": "南東",
           "speedMps": null,
           "source": "BCM"
         }
@@ -2396,19 +2396,14 @@
       "modelRunAt": null,
       "forecasts": [
         {
-          "date": "2026-11-27",
-          "min": 0.6,
-          "max": 0.9
-        },
-        {
           "date": "2026-11-28",
-          "min": 1.2,
-          "max": 1.5
+          "min": 1.8,
+          "max": 2.4
         },
         {
           "date": "2026-11-29",
-          "min": 0.9,
-          "max": 1.2
+          "min": 0.6,
+          "max": 1.1
         },
         {
           "date": "2026-11-30",
@@ -2422,29 +2417,34 @@
         },
         {
           "date": "2026-12-02",
-          "min": 0.3,
-          "max": 0.6
+          "min": 0.6,
+          "max": 0.9
         },
         {
           "date": "2026-12-03",
           "min": 0.6,
           "max": 0.9
+        },
+        {
+          "date": "2026-12-04",
+          "min": 0.6,
+          "max": 1.1
         }
       ],
       "currentForecast": {
-        "date": "2026-11-27",
-        "min": 0.6,
-        "max": 0.9,
+        "date": "2026-11-28",
+        "min": 1.5,
+        "max": 2.1,
         "wind": {
           "source": "Surfline",
-          "direction": "南西",
-          "relative": "オフショア",
-          "speedKph": 31,
-          "speedMps": 8.6,
-          "strength": "8.6 m/s"
+          "direction": "南",
+          "relative": "サイド",
+          "speedKph": 63,
+          "speedMps": 17.5,
+          "strength": "17.5 m/s"
         }
       },
-      "forecastRetrievedAt": "2026-11-27T20:26:05+09:00"
+      "forecastRetrievedAt": "2026-11-27T22:25:37.334Z"
     },
     {
       "id": "isumi",
@@ -2467,14 +2467,14 @@
       "surflineUrl": "https://www.surfline.com/surf-report/isumi/584204204e65fad6a770973b",
       "forecastAutoUpdate": true,
       "observation": {
-        "date": "2026-11-27",
-        "updatedAt": "2026-11-27T13:40:00+09:00",
-        "score": 25,
-        "size": "コシ～ハラたまのsetムネ",
+        "date": "2026-11-28",
+        "updatedAt": "2026-11-28T06:00:00+09:00",
+        "score": 20,
+        "size": "ハラ～カタ",
         "wind": {
-          "relative": "サイドオフ",
-          "strength": "やや強",
-          "direction": "南西",
+          "relative": "オンショア",
+          "strength": "中",
+          "direction": "南東",
           "speedMps": null,
           "source": "BCM"
         }
@@ -2482,19 +2482,14 @@
       "modelRunAt": null,
       "forecasts": [
         {
-          "date": "2026-11-27",
-          "min": 0.3,
-          "max": 0.6
-        },
-        {
           "date": "2026-11-28",
-          "min": 0.9,
-          "max": 1.4
+          "min": 1.5,
+          "max": 2.1
         },
         {
           "date": "2026-11-29",
           "min": 0.6,
-          "max": 0.9
+          "max": 1.1
         },
         {
           "date": "2026-11-30",
@@ -2515,22 +2510,27 @@
           "date": "2026-12-03",
           "min": 0.6,
           "max": 0.9
+        },
+        {
+          "date": "2026-12-04",
+          "min": 0.6,
+          "max": 0.9
         }
       ],
       "currentForecast": {
-        "date": "2026-11-27",
-        "min": 0.6,
-        "max": 0.9,
+        "date": "2026-11-28",
+        "min": 1.5,
+        "max": 2.1,
         "wind": {
           "source": "Surfline",
-          "direction": "南西",
-          "relative": "オフショア",
-          "speedKph": 31,
-          "speedMps": 8.6,
-          "strength": "8.6 m/s"
+          "direction": "南",
+          "relative": "サイド",
+          "speedKph": 63,
+          "speedMps": 17.5,
+          "strength": "17.5 m/s"
         }
       },
-      "forecastRetrievedAt": "2026-11-27T20:26:05+09:00"
+      "forecastRetrievedAt": "2026-11-27T22:25:37.334Z"
     },
     {
       "id": "taito",
@@ -2555,14 +2555,14 @@
       "surflineUrl": "https://www.surfline.com/surf-report/taito-beach/584204204e65fad6a77090dd",
       "forecastAutoUpdate": true,
       "observation": {
-        "date": "2026-11-27",
-        "updatedAt": "2026-11-27T14:50:00+09:00",
-        "score": 5,
-        "size": "スネ～ヒザ(ウネリ)",
+        "date": "2026-11-28",
+        "updatedAt": "2026-11-28T06:00:00+09:00",
+        "score": 10,
+        "size": "setヒザ",
         "wind": {
-          "relative": "オフショア",
-          "strength": "やや強",
-          "direction": "南西",
+          "relative": "サイド",
+          "strength": "中",
+          "direction": "南東",
           "speedMps": null,
           "source": "BCM"
         }
@@ -2570,14 +2570,9 @@
       "modelRunAt": null,
       "forecasts": [
         {
-          "date": "2026-11-27",
-          "min": 0.6,
-          "max": 0.9
-        },
-        {
           "date": "2026-11-28",
-          "min": 0.9,
-          "max": 1.4
+          "min": 1.2,
+          "max": 1.5
         },
         {
           "date": "2026-11-29",
@@ -2596,29 +2591,34 @@
         },
         {
           "date": "2026-12-02",
-          "min": 0.3,
-          "max": 0.6
+          "min": 0.6,
+          "max": 0.9
         },
         {
           "date": "2026-12-03",
           "min": 0.6,
           "max": 0.9
+        },
+        {
+          "date": "2026-12-04",
+          "min": 0.6,
+          "max": 1.1
         }
       ],
       "currentForecast": {
-        "date": "2026-11-27",
-        "min": 0.6,
-        "max": 0.9,
+        "date": "2026-11-28",
+        "min": 0.9,
+        "max": 1.2,
         "wind": {
           "source": "Surfline",
-          "direction": "南西",
-          "relative": "オフショア",
-          "speedKph": 31,
-          "speedMps": 8.6,
-          "strength": "8.6 m/s"
+          "direction": "南",
+          "relative": "サイド",
+          "speedKph": 63,
+          "speedMps": 17.5,
+          "strength": "17.5 m/s"
         }
       },
-      "forecastRetrievedAt": "2026-11-27T20:26:05+09:00"
+      "forecastRetrievedAt": "2026-11-27T22:25:37.334Z"
     },
     {
       "id": "shidashita",
@@ -2644,14 +2644,14 @@
       "surflineUrl": "https://www.surfline.com/surf-report/shidashita-beach/5842041f4e65fad6a7708dae",
       "forecastAutoUpdate": true,
       "observation": {
-        "date": "2026-11-27",
-        "updatedAt": "2026-11-27T17:15:00+09:00",
+        "date": "2026-11-28",
+        "updatedAt": "2026-11-28T06:40:00+09:00",
         "score": null,
-        "size": "コシ～ハラsetムネ（日没後チェック）",
+        "size": "ハラ～ムネたまのsetカタ（コンテスト/規制予定）",
         "wind": {
-          "relative": "オフショア",
-          "strength": "弱",
-          "direction": "西南西",
+          "relative": "サイド",
+          "strength": "中",
+          "direction": "南南東",
           "speedMps": null,
           "source": "BCM"
         }
@@ -2659,14 +2659,9 @@
       "modelRunAt": null,
       "forecasts": [
         {
-          "date": "2026-11-27",
-          "min": 0.6,
-          "max": 0.9
-        },
-        {
           "date": "2026-11-28",
-          "min": 0.9,
-          "max": 1.4
+          "min": 1.2,
+          "max": 1.5
         },
         {
           "date": "2026-11-29",
@@ -2685,29 +2680,34 @@
         },
         {
           "date": "2026-12-02",
-          "min": 0.3,
-          "max": 0.6
+          "min": 0.6,
+          "max": 0.9
         },
         {
           "date": "2026-12-03",
           "min": 0.6,
           "max": 0.9
+        },
+        {
+          "date": "2026-12-04",
+          "min": 0.6,
+          "max": 1.1
         }
       ],
       "currentForecast": {
-        "date": "2026-11-27",
-        "min": 0.6,
-        "max": 0.9,
+        "date": "2026-11-28",
+        "min": 1.2,
+        "max": 1.5,
         "wind": {
           "source": "Surfline",
-          "direction": "南",
+          "direction": "北北西",
           "relative": "サイド",
-          "speedKph": 6,
-          "speedMps": 1.7,
-          "strength": "1.7 m/s"
+          "speedKph": 9,
+          "speedMps": 2.5,
+          "strength": "2.5 m/s"
         }
       },
-      "forecastRetrievedAt": "2026-11-27T20:26:05+09:00"
+      "forecastRetrievedAt": "2026-11-27T22:25:37.334Z"
     },
     {
       "id": "torami",
@@ -2733,14 +2733,14 @@
       "surflineUrl": "https://www.surfline.com/surf-report/torami/584204204e65fad6a7709738",
       "forecastAutoUpdate": true,
       "observation": {
-        "date": "2026-11-27",
-        "updatedAt": "2026-11-27T16:55:00+09:00",
-        "score": 30,
-        "size": "コシ～ハラsetムネ",
+        "date": "2026-11-28",
+        "updatedAt": "2026-11-28T06:20:00+09:00",
+        "score": 25,
+        "size": "ハラsetムネ",
         "wind": {
-          "relative": "オフショア",
-          "strength": "微",
-          "direction": "西南西",
+          "relative": "サイド",
+          "strength": "中",
+          "direction": "南南東",
           "speedMps": null,
           "source": "BCM"
         }
@@ -2748,19 +2748,14 @@
       "modelRunAt": null,
       "forecasts": [
         {
-          "date": "2026-11-27",
-          "min": 0.6,
-          "max": 0.9
-        },
-        {
           "date": "2026-11-28",
-          "min": 0.9,
-          "max": 1.4
+          "min": 1.5,
+          "max": 2.1
         },
         {
           "date": "2026-11-29",
-          "min": 0.3,
-          "max": 0.6
+          "min": 0.6,
+          "max": 0.9
         },
         {
           "date": "2026-11-30",
@@ -2774,29 +2769,34 @@
         },
         {
           "date": "2026-12-02",
-          "min": 0.3,
-          "max": 0.6
+          "min": 0.6,
+          "max": 1.1
         },
         {
           "date": "2026-12-03",
           "min": 0.6,
-          "max": 0.9
+          "max": 1.1
+        },
+        {
+          "date": "2026-12-04",
+          "min": 0.6,
+          "max": 1.1
         }
       ],
       "currentForecast": {
-        "date": "2026-11-27",
-        "min": 0.6,
-        "max": 0.9,
+        "date": "2026-11-28",
+        "min": 1.2,
+        "max": 1.8,
         "wind": {
           "source": "Surfline",
-          "direction": "南西",
-          "relative": "オフショア",
-          "speedKph": 31,
-          "speedMps": 8.6,
-          "strength": "8.6 m/s"
+          "direction": "南",
+          "relative": "サイド",
+          "speedKph": 63,
+          "speedMps": 17.5,
+          "strength": "17.5 m/s"
         }
       },
-      "forecastRetrievedAt": "2026-11-27T20:26:05+09:00"
+      "forecastRetrievedAt": "2026-11-27T22:25:37.334Z"
     },
     {
       "id": "sunrise",
@@ -2822,14 +2822,14 @@
       "surflineUrl": "https://www.surfline.com/surf-report/sunrise/584204204e65fad6a7709737",
       "forecastAutoUpdate": true,
       "observation": {
-        "date": "2026-11-27",
-        "updatedAt": "2026-11-27T16:25:00+09:00",
-        "score": 35,
-        "size": "ハラ～ムネ",
+        "date": "2026-11-28",
+        "updatedAt": "2026-11-28T06:00:00+09:00",
+        "score": 25,
+        "size": "ハラsetムネ",
         "wind": {
-          "relative": "サイドオフ",
-          "strength": "弱",
-          "direction": "南西",
+          "relative": "サイドオン",
+          "strength": "やや強",
+          "direction": "南南東",
           "speedMps": null,
           "source": "BCM"
         }
@@ -2837,14 +2837,9 @@
       "modelRunAt": null,
       "forecasts": [
         {
-          "date": "2026-11-27",
-          "min": 0.6,
-          "max": 0.9
-        },
-        {
           "date": "2026-11-28",
-          "min": 0.9,
-          "max": 1.4
+          "min": 1.2,
+          "max": 2
         },
         {
           "date": "2026-11-29",
@@ -2863,29 +2858,34 @@
         },
         {
           "date": "2026-12-02",
-          "min": 0.3,
-          "max": 0.6
+          "min": 0.6,
+          "max": 0.9
         },
         {
           "date": "2026-12-03",
           "min": 0.6,
           "max": 0.9
+        },
+        {
+          "date": "2026-12-04",
+          "min": 0.6,
+          "max": 1.1
         }
       ],
       "currentForecast": {
-        "date": "2026-11-27",
-        "min": 0.6,
-        "max": 0.9,
+        "date": "2026-11-28",
+        "min": 1.2,
+        "max": 1.8,
         "wind": {
           "source": "Surfline",
-          "direction": "南西",
+          "direction": "南",
           "relative": "オフショア",
-          "speedKph": 31,
-          "speedMps": 8.6,
-          "strength": "8.6 m/s"
+          "speedKph": 63,
+          "speedMps": 17.5,
+          "strength": "17.5 m/s"
         }
       },
-      "forecastRetrievedAt": "2026-11-27T20:26:05+09:00"
+      "forecastRetrievedAt": "2026-11-27T22:25:37.334Z"
     },
     {
       "id": "ichinomiya",
@@ -2912,14 +2912,14 @@
       "surflineUrl": "https://www.surfline.com/surf-report/ichinomiya/584204204e65fad6a7709736",
       "forecastAutoUpdate": true,
       "observation": {
-        "date": "2026-11-27",
-        "updatedAt": "2026-11-27T18:55:00+09:00",
-        "score": 30,
-        "size": "モモ～ハラ（日没後チェック）",
+        "date": "2026-11-28",
+        "updatedAt": "2026-11-28T05:40:00+09:00",
+        "score": 20,
+        "size": "コシ～ハラsetムネ（夜明け前チェック）",
         "wind": {
-          "relative": "サイドオフ",
-          "strength": "弱",
-          "direction": "南西",
+          "relative": "サイドオン",
+          "strength": "やや強",
+          "direction": "南東",
           "speedMps": null,
           "source": "BCM"
         }
@@ -2927,19 +2927,14 @@
       "modelRunAt": null,
       "forecasts": [
         {
-          "date": "2026-11-27",
-          "min": 0.3,
-          "max": 0.6
-        },
-        {
           "date": "2026-11-28",
-          "min": 1.2,
-          "max": 1.5
+          "min": 1.5,
+          "max": 2.1
         },
         {
           "date": "2026-11-29",
           "min": 0.6,
-          "max": 1.1
+          "max": 0.9
         },
         {
           "date": "2026-11-30",
@@ -2953,29 +2948,34 @@
         },
         {
           "date": "2026-12-02",
-          "min": 0.3,
-          "max": 0.6
+          "min": 0.6,
+          "max": 0.9
         },
         {
           "date": "2026-12-03",
           "min": 0.6,
           "max": 0.9
+        },
+        {
+          "date": "2026-12-04",
+          "min": 0.6,
+          "max": 1.1
         }
       ],
       "currentForecast": {
-        "date": "2026-11-27",
-        "min": 0.6,
-        "max": 0.9,
+        "date": "2026-11-28",
+        "min": 1.2,
+        "max": 1.5,
         "wind": {
           "source": "Surfline",
-          "direction": "南西",
+          "direction": "西",
           "relative": "オフショア",
-          "speedKph": 14,
-          "speedMps": 3.9,
-          "strength": "3.9 m/s"
+          "speedKph": 18,
+          "speedMps": 5,
+          "strength": "5 m/s"
         }
       },
-      "forecastRetrievedAt": "2026-11-27T20:26:05+09:00"
+      "forecastRetrievedAt": "2026-11-27T22:25:37.334Z"
     },
     {
       "id": "shirako",
@@ -2999,14 +2999,14 @@
       "surflineUrl": "https://www.surfline.com/surf-report/shirako/584204204e65fad6a7709735",
       "forecastAutoUpdate": true,
       "observation": {
-        "date": "2026-11-27",
-        "updatedAt": "2026-11-27T16:00:00+09:00",
-        "score": 25,
-        "size": "ハラsetムネ",
+        "date": "2026-11-28",
+        "updatedAt": "2026-11-28T06:10:00+09:00",
+        "score": 20,
+        "size": "ハラ～カタ",
         "wind": {
-          "relative": "サイドオフ",
-          "strength": "中",
-          "direction": "南西",
+          "relative": "オンショア",
+          "strength": "やや強",
+          "direction": "南東",
           "speedMps": null,
           "source": "BCM"
         }
@@ -3014,14 +3014,9 @@
       "modelRunAt": null,
       "forecasts": [
         {
-          "date": "2026-11-27",
-          "min": 0.3,
-          "max": 0.6
-        },
-        {
           "date": "2026-11-28",
-          "min": 1.2,
-          "max": 1.5
+          "min": 1.8,
+          "max": 2.4
         },
         {
           "date": "2026-11-29",
@@ -3040,29 +3035,34 @@
         },
         {
           "date": "2026-12-02",
-          "min": 0.3,
-          "max": 0.6
+          "min": 0.6,
+          "max": 0.9
         },
         {
           "date": "2026-12-03",
+          "min": 0.6,
+          "max": 0.9
+        },
+        {
+          "date": "2026-12-04",
           "min": 0.3,
           "max": 0.6
         }
       ],
       "currentForecast": {
-        "date": "2026-11-27",
-        "min": 0.3,
-        "max": 0.6,
+        "date": "2026-11-28",
+        "min": 1.2,
+        "max": 1.8,
         "wind": {
           "source": "Surfline",
-          "direction": "南西",
-          "relative": "サイド",
-          "speedKph": 14,
-          "speedMps": 3.9,
-          "strength": "3.9 m/s"
+          "direction": "西",
+          "relative": "オフショア",
+          "speedKph": 18,
+          "speedMps": 5,
+          "strength": "5 m/s"
         }
       },
-      "forecastRetrievedAt": "2026-11-27T20:26:05+09:00"
+      "forecastRetrievedAt": "2026-11-27T22:25:37.334Z"
     },
     {
       "id": "katagai-gyoko",
@@ -3087,14 +3087,14 @@
       "surflineUrl": "https://www.surfline.com/surf-report/katagai-gyokou/584204204e65fad6a7709732",
       "forecastAutoUpdate": true,
       "observation": {
-        "date": "2026-11-27",
-        "updatedAt": "2026-11-27T15:30:00+09:00",
-        "score": 20,
-        "size": "ヒザ～モモたまのsetコシ",
+        "date": "2026-11-28",
+        "updatedAt": "2026-11-28T05:50:00+09:00",
+        "score": 15,
+        "size": "ヒザ～コシ（夜明け前チェック）",
         "wind": {
-          "relative": "サイド",
-          "strength": "中",
-          "direction": "南西",
+          "relative": "オンショア",
+          "strength": "強",
+          "direction": "南東",
           "speedMps": null,
           "source": "BCM"
         }
@@ -3102,14 +3102,9 @@
       "modelRunAt": null,
       "forecasts": [
         {
-          "date": "2026-11-27",
-          "min": 0.6,
-          "max": 0.9
-        },
-        {
           "date": "2026-11-28",
-          "min": 1.2,
-          "max": 1.5
+          "min": 1.8,
+          "max": 2.4
         },
         {
           "date": "2026-11-29",
@@ -3128,29 +3123,34 @@
         },
         {
           "date": "2026-12-02",
-          "min": 0.3,
-          "max": 0.6
+          "min": 0.6,
+          "max": 0.9
         },
         {
           "date": "2026-12-03",
           "min": 0.6,
           "max": 0.9
+        },
+        {
+          "date": "2026-12-04",
+          "min": 0.6,
+          "max": 0.9
         }
       ],
       "currentForecast": {
-        "date": "2026-11-27",
-        "min": 0.6,
-        "max": 0.9,
+        "date": "2026-11-28",
+        "min": 1.2,
+        "max": 2,
         "wind": {
           "source": "Surfline",
-          "direction": "南西",
-          "relative": "サイド",
-          "speedKph": 14,
-          "speedMps": 3.9,
-          "strength": "3.9 m/s"
+          "direction": "西",
+          "relative": "オフショア",
+          "speedKph": 18,
+          "speedMps": 5,
+          "strength": "5 m/s"
         }
       },
-      "forecastRetrievedAt": "2026-11-27T20:26:05+09:00"
+      "forecastRetrievedAt": "2026-11-27T22:25:37.334Z"
     },
     {
       "id": "katagai-shintei",
@@ -3175,14 +3175,14 @@
       "surflineUrl": "https://www.surfline.com/surf-report/katagai-shintei/584204204e65fad6a7709731",
       "forecastAutoUpdate": true,
       "observation": {
-        "date": "2026-11-27",
-        "updatedAt": "2026-11-27T15:40:00+09:00",
-        "score": 25,
-        "size": "コシ～ハラsetムネ",
+        "date": "2026-11-28",
+        "updatedAt": "2026-11-28T06:10:00+09:00",
+        "score": 10,
+        "size": "コシ～ムネ",
         "wind": {
-          "relative": "サイド",
-          "strength": "中",
-          "direction": "南西",
+          "relative": "オンショア",
+          "strength": "強",
+          "direction": "南東",
           "speedMps": null,
           "source": "BCM"
         }
@@ -3190,14 +3190,9 @@
       "modelRunAt": null,
       "forecasts": [
         {
-          "date": "2026-11-27",
-          "min": 0.6,
-          "max": 0.9
-        },
-        {
           "date": "2026-11-28",
-          "min": 1.2,
-          "max": 1.5
+          "min": 2.4,
+          "max": 3
         },
         {
           "date": "2026-11-29",
@@ -3216,29 +3211,34 @@
         },
         {
           "date": "2026-12-02",
-          "min": 0.3,
-          "max": 0.6
+          "min": 0.6,
+          "max": 0.9
         },
         {
           "date": "2026-12-03",
           "min": 0.6,
           "max": 0.9
+        },
+        {
+          "date": "2026-12-04",
+          "min": 0.6,
+          "max": 0.9
         }
       ],
       "currentForecast": {
-        "date": "2026-11-27",
-        "min": 0.6,
-        "max": 0.9,
+        "date": "2026-11-28",
+        "min": 1.2,
+        "max": 2,
         "wind": {
           "source": "Surfline",
-          "direction": "南西",
-          "relative": "サイド",
-          "speedKph": 14,
-          "speedMps": 3.9,
-          "strength": "3.9 m/s"
+          "direction": "西",
+          "relative": "オフショア",
+          "speedKph": 18,
+          "speedMps": 5,
+          "strength": "5 m/s"
         }
       },
-      "forecastRetrievedAt": "2026-11-27T20:26:05+09:00"
+      "forecastRetrievedAt": "2026-11-27T22:25:37.334Z"
     },
     {
       "id": "sakuda",
@@ -3263,14 +3263,14 @@
       "surflineUrl": "https://www.surfline.com/surf-report/sakuta/584204204e65fad6a7709730",
       "forecastAutoUpdate": true,
       "observation": {
-        "date": "2026-11-27",
-        "updatedAt": "2026-11-27T15:20:00+09:00",
-        "score": 35,
-        "size": "ハラsetムネ",
+        "date": "2026-11-28",
+        "updatedAt": "2026-11-28T05:40:00+09:00",
+        "score": 15,
+        "size": "コシ～ムネ（夜明け前チェック）",
         "wind": {
-          "relative": "サイドオフ",
-          "strength": "中",
-          "direction": "南西",
+          "relative": "オンショア",
+          "strength": "強",
+          "direction": "南東",
           "speedMps": null,
           "source": "BCM"
         }
@@ -3278,14 +3278,9 @@
       "modelRunAt": null,
       "forecasts": [
         {
-          "date": "2026-11-27",
-          "min": 0.6,
-          "max": 0.9
-        },
-        {
           "date": "2026-11-28",
-          "min": 1.2,
-          "max": 1.5
+          "min": 1.8,
+          "max": 2.4
         },
         {
           "date": "2026-11-29",
@@ -3304,29 +3299,34 @@
         },
         {
           "date": "2026-12-02",
-          "min": 0.3,
-          "max": 0.6
+          "min": 0.6,
+          "max": 0.9
         },
         {
           "date": "2026-12-03",
           "min": 0.6,
           "max": 0.9
+        },
+        {
+          "date": "2026-12-04",
+          "min": 0.6,
+          "max": 0.9
         }
       ],
       "currentForecast": {
-        "date": "2026-11-27",
-        "min": 0.6,
-        "max": 0.9,
+        "date": "2026-11-28",
+        "min": 1.2,
+        "max": 2,
         "wind": {
           "source": "Surfline",
-          "direction": "南西",
-          "relative": "サイド",
-          "speedKph": 14,
-          "speedMps": 3.9,
-          "strength": "3.9 m/s"
+          "direction": "西",
+          "relative": "オフショア",
+          "speedKph": 18,
+          "speedMps": 5,
+          "strength": "5 m/s"
         }
       },
-      "forecastRetrievedAt": "2026-11-27T20:26:05+09:00"
+      "forecastRetrievedAt": "2026-11-27T22:25:37.334Z"
     },
     {
       "id": "yoshizaki",
@@ -3349,14 +3349,14 @@
       "surflineUrl": "https://www.surfline.com/surf-report/yoshizakihama/584204204e65fad6a770972f",
       "forecastAutoUpdate": true,
       "observation": {
-        "date": "2026-11-27",
-        "updatedAt": "2026-11-27T16:25:00+09:00",
+        "date": "2026-11-28",
+        "updatedAt": "2026-11-28T06:20:00+09:00",
         "score": 20,
-        "size": "モモ～コシsetハラ",
+        "size": "ハラ～ムネたまのsetカタ",
         "wind": {
-          "relative": "サイド",
-          "strength": "弱",
-          "direction": "南西",
+          "relative": "オンショア",
+          "strength": "やや強",
+          "direction": "南東",
           "speedMps": null,
           "source": "BCM"
         }
@@ -3364,14 +3364,9 @@
       "modelRunAt": null,
       "forecasts": [
         {
-          "date": "2026-11-27",
-          "min": 0.3,
-          "max": 0.6
-        },
-        {
           "date": "2026-11-28",
-          "min": 1.2,
-          "max": 1.5
+          "min": 1.5,
+          "max": 2.1
         },
         {
           "date": "2026-11-29",
@@ -3386,7 +3381,7 @@
         {
           "date": "2026-12-01",
           "min": 1.2,
-          "max": 1.5
+          "max": 1.8
         },
         {
           "date": "2026-12-02",
@@ -3397,22 +3392,27 @@
           "date": "2026-12-03",
           "min": 0.3,
           "max": 0.6
+        },
+        {
+          "date": "2026-12-04",
+          "min": 0.3,
+          "max": 0.6
         }
       ],
       "currentForecast": {
-        "date": "2026-11-27",
-        "min": 0.6,
-        "max": 0.9,
+        "date": "2026-11-28",
+        "min": 1.5,
+        "max": 2.1,
         "wind": {
           "source": "Surfline",
-          "direction": "南南西",
-          "relative": "オンショア",
-          "speedKph": 5,
-          "speedMps": 1.4,
-          "strength": "1.4 m/s"
+          "direction": "北北西",
+          "relative": "オフショア",
+          "speedKph": 12,
+          "speedMps": 3.3,
+          "strength": "3.3 m/s"
         }
       },
-      "forecastRetrievedAt": "2026-11-27T20:26:05+09:00"
+      "forecastRetrievedAt": "2026-11-27T22:25:37.334Z"
     },
     {
       "id": "shiina",
@@ -3437,14 +3437,14 @@
       "surflineUrl": "https://www.surfline.com/surf-report/shiinauchi/584204204e65fad6a77090da",
       "forecastAutoUpdate": true,
       "observation": {
-        "date": "2026-11-27",
-        "updatedAt": "2026-11-27T16:35:00+09:00",
+        "date": "2026-11-28",
+        "updatedAt": "2026-11-28T06:25:00+09:00",
         "score": 20,
-        "size": "ヒザ～モモたまのsetコシ",
+        "size": "ハラ～ムネ",
         "wind": {
-          "relative": "サイドオン",
-          "strength": "弱",
-          "direction": "南西",
+          "relative": "オンショア",
+          "strength": "やや強",
+          "direction": "南東",
           "speedMps": null,
           "source": "BCM"
         }
@@ -3452,19 +3452,14 @@
       "modelRunAt": null,
       "forecasts": [
         {
-          "date": "2026-11-27",
-          "min": 0.3,
-          "max": 0.6
-        },
-        {
           "date": "2026-11-28",
-          "min": 0.9,
-          "max": 1.2
+          "min": 1.5,
+          "max": 2.1
         },
         {
           "date": "2026-11-29",
-          "min": 1.2,
-          "max": 1.5
+          "min": 0.9,
+          "max": 1.4
         },
         {
           "date": "2026-11-30",
@@ -3473,8 +3468,8 @@
         },
         {
           "date": "2026-12-01",
-          "min": 0.9,
-          "max": 1.4
+          "min": 1.2,
+          "max": 1.5
         },
         {
           "date": "2026-12-02",
@@ -3485,22 +3480,27 @@
           "date": "2026-12-03",
           "min": 0.3,
           "max": 0.6
+        },
+        {
+          "date": "2026-12-04",
+          "min": 0.3,
+          "max": 0.6
         }
       ],
       "currentForecast": {
-        "date": "2026-11-27",
-        "min": 0.6,
-        "max": 0.9,
+        "date": "2026-11-28",
+        "min": 1.2,
+        "max": 1.8,
         "wind": {
           "source": "Surfline",
           "direction": "南西",
           "relative": "サイド",
-          "speedKph": 11,
-          "speedMps": 3.1,
-          "strength": "3.1 m/s"
+          "speedKph": 26,
+          "speedMps": 7.2,
+          "strength": "7.2 m/s"
         }
       },
-      "forecastRetrievedAt": "2026-11-27T20:26:05+09:00"
+      "forecastRetrievedAt": "2026-11-27T22:25:37.334Z"
     },
     {
       "id": "hasaki",
@@ -3524,25 +3524,20 @@
       "surflineUrl": "https://www.surfline.com/surf-report/hasaki/584204204e65fad6a7709724",
       "forecastAutoUpdate": true,
       "observation": {
-        "date": "2026-11-27",
-        "updatedAt": "2026-11-27T16:00:00+09:00",
-        "score": 30,
-        "size": "ヒザ～モモsetコシ",
+        "date": "2026-11-28",
+        "updatedAt": "2026-11-28T06:20:00+09:00",
+        "score": 10,
+        "size": "ヒザ",
         "wind": {
-          "relative": "オフショア",
-          "strength": "弱",
-          "direction": "南西",
+          "relative": "サイドオフ",
+          "strength": "やや強",
+          "direction": "南",
           "speedMps": null,
           "source": "BCM"
         }
       },
       "modelRunAt": null,
       "forecasts": [
-        {
-          "date": "2026-11-27",
-          "min": 0,
-          "max": 0
-        },
         {
           "date": "2026-11-28",
           "min": 0,
@@ -3572,22 +3567,27 @@
           "date": "2026-12-03",
           "min": 0,
           "max": 0.3
+        },
+        {
+          "date": "2026-12-04",
+          "min": 0,
+          "max": 0.3
         }
       ],
       "currentForecast": {
-        "date": "2026-11-27",
+        "date": "2026-11-28",
         "min": 0,
-        "max": 0,
+        "max": 0.3,
         "wind": {
           "source": "Surfline",
           "direction": "南西",
           "relative": "オフショア",
-          "speedKph": 11,
-          "speedMps": 3.1,
-          "strength": "3.1 m/s"
+          "speedKph": 26,
+          "speedMps": 7.2,
+          "strength": "7.2 m/s"
         }
       },
-      "forecastRetrievedAt": "2026-11-27T20:13:05+09:00"
+      "forecastRetrievedAt": "2026-11-27T22:25:37.334Z"
     },
     {
       "id": "hasaki-kanekyu",
@@ -3611,25 +3611,20 @@
       "surflineUrl": "https://www.surfline.com/surf-report/hasaki/584204204e65fad6a7709724",
       "forecastAutoUpdate": true,
       "observation": {
-        "date": "2026-11-27",
-        "updatedAt": "2026-11-27T16:00:00+09:00",
-        "score": 20,
-        "size": "ヒザ～モモsetコシ",
+        "date": "2026-11-28",
+        "updatedAt": "2026-11-28T06:20:00+09:00",
+        "score": 10,
+        "size": "ヒザ",
         "wind": {
-          "relative": "オフショア",
-          "strength": "弱",
-          "direction": "南西",
+          "relative": "サイドオフ",
+          "strength": "やや強",
+          "direction": "南",
           "speedMps": null,
           "source": "BCM"
         }
       },
       "modelRunAt": null,
       "forecasts": [
-        {
-          "date": "2026-11-27",
-          "min": 0,
-          "max": 0
-        },
         {
           "date": "2026-11-28",
           "min": 0,
@@ -3659,22 +3654,27 @@
           "date": "2026-12-03",
           "min": 0,
           "max": 0.3
+        },
+        {
+          "date": "2026-12-04",
+          "min": 0,
+          "max": 0.3
         }
       ],
       "currentForecast": {
-        "date": "2026-11-27",
+        "date": "2026-11-28",
         "min": 0,
-        "max": 0,
+        "max": 0.3,
         "wind": {
           "source": "Surfline",
           "direction": "南西",
           "relative": "オフショア",
-          "speedKph": 11,
-          "speedMps": 3.1,
-          "strength": "3.1 m/s"
+          "speedKph": 26,
+          "speedMps": 7.2,
+          "strength": "7.2 m/s"
         }
       },
-      "forecastRetrievedAt": "2026-11-27T20:13:05+09:00"
+      "forecastRetrievedAt": "2026-11-27T22:25:37.334Z"
     },
     {
       "id": "iioka",
@@ -3697,14 +3697,14 @@
       "surflineUrl": "https://www.surfline.com/surf-report/iiokasomae/584204204e65fad6a770972a",
       "forecastAutoUpdate": true,
       "observation": {
-        "date": "2026-11-27",
-        "updatedAt": "2026-11-27T15:45:00+09:00",
-        "score": 20,
-        "size": "ヒザ～モモ",
+        "date": "2026-11-28",
+        "updatedAt": "2026-11-28T05:40:00+09:00",
+        "score": 15,
+        "size": "コシたまのsetハラ",
         "wind": {
           "relative": "オンショア",
-          "strength": "微",
-          "direction": "南",
+          "strength": "やや強",
+          "direction": "南南東",
           "speedMps": null,
           "source": "BCM"
         }
@@ -3712,14 +3712,9 @@
       "modelRunAt": null,
       "forecasts": [
         {
-          "date": "2026-11-27",
-          "min": 0.6,
-          "max": 0.9
-        },
-        {
           "date": "2026-11-28",
-          "min": 0.9,
-          "max": 1.4
+          "min": 1.5,
+          "max": 2.1
         },
         {
           "date": "2026-11-29",
@@ -3745,22 +3740,27 @@
           "date": "2026-12-03",
           "min": 0.6,
           "max": 0.9
+        },
+        {
+          "date": "2026-12-04",
+          "min": 0.6,
+          "max": 0.9
         }
       ],
       "currentForecast": {
-        "date": "2026-11-27",
-        "min": 0.6,
-        "max": 0.9,
+        "date": "2026-11-28",
+        "min": 1.2,
+        "max": 1.5,
         "wind": {
           "source": "Surfline",
           "direction": "南西",
           "relative": "オンショア",
-          "speedKph": 11,
-          "speedMps": 3.1,
-          "strength": "3.1 m/s"
+          "speedKph": 26,
+          "speedMps": 7.2,
+          "strength": "7.2 m/s"
         }
       },
-      "forecastRetrievedAt": "2026-11-27T20:13:05+09:00"
+      "forecastRetrievedAt": "2026-11-27T22:25:37.334Z"
     },
     {
       "id": "iioka-mansion",
@@ -3783,14 +3783,14 @@
       "surflineUrl": "https://www.surfline.com/surf-report/iiokasomae/584204204e65fad6a770972a",
       "forecastAutoUpdate": true,
       "observation": {
-        "date": "2026-11-27",
-        "updatedAt": "2026-11-27T15:45:00+09:00",
-        "score": 20,
-        "size": "ヒザ～モモ",
+        "date": "2026-11-28",
+        "updatedAt": "2026-11-28T05:35:00+09:00",
+        "score": 15,
+        "size": "コシたまのsetハラ",
         "wind": {
           "relative": "オンショア",
-          "strength": "微",
-          "direction": "南",
+          "strength": "やや強",
+          "direction": "南南東",
           "speedMps": null,
           "source": "BCM"
         }
@@ -3798,14 +3798,9 @@
       "modelRunAt": null,
       "forecasts": [
         {
-          "date": "2026-11-27",
-          "min": 0.6,
-          "max": 0.9
-        },
-        {
           "date": "2026-11-28",
-          "min": 0.9,
-          "max": 1.4
+          "min": 1.5,
+          "max": 2.1
         },
         {
           "date": "2026-11-29",
@@ -3831,22 +3826,27 @@
           "date": "2026-12-03",
           "min": 0.6,
           "max": 0.9
+        },
+        {
+          "date": "2026-12-04",
+          "min": 0.6,
+          "max": 0.9
         }
       ],
       "currentForecast": {
-        "date": "2026-11-27",
-        "min": 0.6,
-        "max": 0.9,
+        "date": "2026-11-28",
+        "min": 1.2,
+        "max": 1.5,
         "wind": {
           "source": "Surfline",
           "direction": "南西",
           "relative": "オンショア",
-          "speedKph": 11,
-          "speedMps": 3.1,
-          "strength": "3.1 m/s"
+          "speedKph": 26,
+          "speedMps": 7.2,
+          "strength": "7.2 m/s"
         }
       },
-      "forecastRetrievedAt": "2026-11-27T20:13:05+09:00"
+      "forecastRetrievedAt": "2026-11-27T22:25:37.334Z"
     },
     {
       "id": "choshi",
@@ -3865,14 +3865,9 @@
       "modelRunAt": null,
       "forecasts": [
         {
-          "date": "2026-11-27",
-          "min": 0.3,
-          "max": 0.6
-        },
-        {
           "date": "2026-11-28",
-          "min": 1.2,
-          "max": 1.5
+          "min": 1.8,
+          "max": 2.4
         },
         {
           "date": "2026-11-29",
@@ -3898,22 +3893,27 @@
           "date": "2026-12-03",
           "min": 0.3,
           "max": 0.6
+        },
+        {
+          "date": "2026-12-04",
+          "min": 0.3,
+          "max": 0.6
         }
       ],
       "currentForecast": {
-        "date": "2026-11-27",
-        "min": 0.6,
-        "max": 0.9,
+        "date": "2026-11-28",
+        "min": 1.5,
+        "max": 2.1,
         "wind": {
           "source": "Surfline",
           "direction": "南西",
           "relative": "サイド",
-          "speedKph": 11,
-          "speedMps": 3.1,
-          "strength": "3.1 m/s"
+          "speedKph": 26,
+          "speedMps": 7.2,
+          "strength": "7.2 m/s"
         }
       },
-      "forecastRetrievedAt": "2026-11-27T20:13:05+09:00"
+      "forecastRetrievedAt": "2026-11-27T22:25:37.334Z"
     }
   ],
   "automation": {

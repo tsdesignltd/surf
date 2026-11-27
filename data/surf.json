@@ -1,9 +1,76 @@
 {
   "schemaVersion": 1,
-  "retrievedAt": "2026-11-27T12:26:02+09:00",
+  "retrievedAt": "2026-11-27T20:13:05+09:00",
   "modelRunAt": "2026-11-26T09:00:00+09:00",
   "updateMode": "scheduled-browser",
   "spots": [
+    {
+      "id": "isshiki",
+      "name": "一色",
+      "english": "ISSHIKI",
+      "region": "葉山",
+      "lat": 35.265,
+      "lon": 139.578,
+      "positionNote": "海岸付近の代表位置。予想メッシュの中心や入水地点ではありません。",
+      "feature": "葉山町の一色海岸。Surflineのモデル予想を表示。岩場・港の構造物・ほかの利用者との距離を確認。",
+      "bcmUrl": null,
+      "bcmUnavailable": true,
+      "surflineUrl": "https://www.surfline.com/surf-report/isshiki-beach/640a772f606c45654dbda6fd",
+      "forecastAutoUpdate": true,
+      "observation": null,
+      "modelRunAt": null,
+      "forecasts": [
+        {
+          "date": "2026-11-27",
+          "min": 0,
+          "max": 0.3
+        },
+        {
+          "date": "2026-11-28",
+          "min": 0.3,
+          "max": 0.6
+        },
+        {
+          "date": "2026-11-29",
+          "min": 0.6,
+          "max": 0.9
+        },
+        {
+          "date": "2026-11-30",
+          "min": 0,
+          "max": 0
+        },
+        {
+          "date": "2026-12-01",
+          "min": 0.6,
+          "max": 0.9
+        },
+        {
+          "date": "2026-12-02",
+          "min": 0,
+          "max": 0
+        },
+        {
+          "date": "2026-12-03",
+          "min": 0,
+          "max": 0
+        }
+      ],
+      "currentForecast": {
+        "date": "2026-11-27",
+        "min": 0,
+        "max": 0.3,
+        "wind": {
+          "source": "Surfline",
+          "direction": "西南西",
+          "relative": "オンショア",
+          "speedKph": 20,
+          "speedMps": 5.6,
+          "strength": "5.6 m/s"
+        }
+      },
+      "forecastRetrievedAt": "2026-11-27T20:13:05+09:00"
+    },
     {
       "id": "zushi",
       "name": "逗子海岸",
@@ -68,7 +135,8 @@
           "min": 0,
           "max": 0
         }
-      ]
+      ],
+      "forecastAutoUpdate": true
     },
     {
       "id": "osaki",
@@ -134,7 +202,8 @@
           "min": 0,
           "max": 0
         }
-      ]
+      ],
+      "forecastAutoUpdate": true
     },
     {
       "id": "zaimokuza",
@@ -573,7 +642,8 @@
           "strength": "1.4 m/s"
         }
       },
-      "forecastRetrievedAt": "2026-11-27T12:26:02+09:00"
+      "forecastRetrievedAt": "2026-11-27T12:26:02+09:00",
+      "forecastAutoUpdate": true
     },
     {
       "id": "aquarium",
@@ -1347,6 +1417,1293 @@
           "max": 0.6
         }
       ]
+    },
+    {
+      "id": "onjuku-iwawada",
+      "name": "御宿・岩和田",
+      "english": "ONJUKU IWAWADA",
+      "region": "千葉南",
+      "bcmArea": 4,
+      "lat": 35.182222,
+      "lon": 140.361389,
+      "positionNote": "BCMポイントガイドの地図位置。入水地点の案内ではありません。",
+      "feature": "砂浜のポイント。地形・流れ・混雑と現地の利用ルールを岸から確認。",
+      "bcmUrl": "https://m.bc01.com/wave/4/38",
+      "guideUrl": "https://m.bc01.com/wave/point/4/38",
+      "checkSchedule": [
+        "04:45",
+        "06:55",
+        "10:15",
+        "13:25",
+        "15:25"
+      ],
+      "surflineUrl": "https://www.surfline.com/surf-report/onjuku-iwawada/584204204e65fad6a77090df",
+      "forecastAutoUpdate": true,
+      "observation": {
+        "date": "2026-11-27",
+        "updatedAt": "2026-11-27T15:45:00+09:00",
+        "score": 15,
+        "size": "ヒザたまのsetモモ",
+        "wind": {
+          "relative": "オンショア",
+          "strength": "やや強",
+          "direction": "南西",
+          "speedMps": null,
+          "source": "BCM"
+        }
+      },
+      "modelRunAt": null,
+      "forecasts": [
+        {
+          "date": "2026-11-27",
+          "min": 0.6,
+          "max": 0.9
+        },
+        {
+          "date": "2026-11-28",
+          "min": 1.2,
+          "max": 1.8
+        },
+        {
+          "date": "2026-11-29",
+          "min": 0.6,
+          "max": 0.9
+        },
+        {
+          "date": "2026-11-30",
+          "min": 0.3,
+          "max": 0.6
+        },
+        {
+          "date": "2026-12-01",
+          "min": 0.6,
+          "max": 1.1
+        },
+        {
+          "date": "2026-12-02",
+          "min": 0.6,
+          "max": 0.9
+        },
+        {
+          "date": "2026-12-03",
+          "min": 0.6,
+          "max": 0.9
+        }
+      ],
+      "currentForecast": {
+        "date": "2026-11-27",
+        "min": 0.6,
+        "max": 1.1,
+        "wind": {
+          "source": "Surfline",
+          "direction": "南西",
+          "relative": "オンショア",
+          "speedKph": 14,
+          "speedMps": 3.9,
+          "strength": "3.9 m/s"
+        }
+      },
+      "forecastRetrievedAt": "2026-11-27T20:13:05+09:00"
+    },
+    {
+      "id": "onjuku",
+      "name": "御宿・メイン",
+      "english": "ONJUKU",
+      "region": "千葉南",
+      "bcmArea": 4,
+      "lat": 35.183056,
+      "lon": 140.354167,
+      "positionNote": "BCMポイントガイドの地図位置。入水地点の案内ではありません。",
+      "feature": "砂浜のポイント。地形・流れ・混雑と現地の利用ルールを岸から確認。",
+      "bcmUrl": "https://m.bc01.com/wave/4/40",
+      "guideUrl": "https://m.bc01.com/wave/point/4/40",
+      "checkSchedule": [
+        "06:40",
+        "09:15",
+        "13:00",
+        "15:00"
+      ],
+      "surflineUrl": "https://www.surfline.com/surf-report/onjuku/584204204e65fad6a7709743",
+      "forecastAutoUpdate": true,
+      "observation": {
+        "date": "2026-11-27",
+        "updatedAt": "2026-11-27T14:45:00+09:00",
+        "score": 20,
+        "size": "コシ～ハラ",
+        "wind": {
+          "relative": "サイド",
+          "strength": "中",
+          "direction": "西南西",
+          "speedMps": null,
+          "source": "BCM"
+        }
+      },
+      "modelRunAt": null,
+      "forecasts": [
+        {
+          "date": "2026-11-27",
+          "min": 0.3,
+          "max": 0.6
+        },
+        {
+          "date": "2026-11-28",
+          "min": 0.9,
+          "max": 1.4
+        },
+        {
+          "date": "2026-11-29",
+          "min": 0.6,
+          "max": 0.9
+        },
+        {
+          "date": "2026-11-30",
+          "min": 0,
+          "max": 0.3
+        },
+        {
+          "date": "2026-12-01",
+          "min": 0.3,
+          "max": 0.6
+        },
+        {
+          "date": "2026-12-02",
+          "min": 0.3,
+          "max": 0.6
+        },
+        {
+          "date": "2026-12-03",
+          "min": 0.3,
+          "max": 0.6
+        }
+      ],
+      "currentForecast": {
+        "date": "2026-11-27",
+        "min": 0.3,
+        "max": 0.6,
+        "wind": {
+          "source": "Surfline",
+          "direction": "南西",
+          "relative": "オンショア",
+          "speedKph": 14,
+          "speedMps": 3.9,
+          "strength": "3.9 m/s"
+        }
+      },
+      "forecastRetrievedAt": "2026-11-27T20:13:05+09:00"
+    },
+    {
+      "id": "onjuku-gyoko",
+      "name": "御宿・漁港",
+      "english": "ONJUKU GYOKO",
+      "region": "千葉南",
+      "bcmArea": 4,
+      "lat": 35.181111,
+      "lon": 140.349167,
+      "positionNote": "BCMポイントガイドの地図位置。入水地点の案内ではありません。",
+      "feature": "砂浜のポイント。地形・流れ・混雑と現地の利用ルールを岸から確認。 SurflineはOnjukuのエリア予想を参照。",
+      "bcmUrl": "https://m.bc01.com/wave/4/39",
+      "guideUrl": "https://m.bc01.com/wave/point/4/39",
+      "checkSchedule": [
+        "04:45",
+        "06:40",
+        "09:15",
+        "13:00",
+        "15:00"
+      ],
+      "surflineUrl": "https://www.surfline.com/surf-report/onjuku/584204204e65fad6a7709743",
+      "forecastAutoUpdate": true,
+      "observation": {
+        "date": "2026-11-27",
+        "updatedAt": "2026-11-27T14:40:00+09:00",
+        "score": 25,
+        "size": "モモ～コシたまのsetハラ",
+        "wind": {
+          "relative": "サイド",
+          "strength": "弱",
+          "direction": "西南西",
+          "speedMps": null,
+          "source": "BCM"
+        }
+      },
+      "modelRunAt": null,
+      "forecasts": [
+        {
+          "date": "2026-11-27",
+          "min": 0.3,
+          "max": 0.6
+        },
+        {
+          "date": "2026-11-28",
+          "min": 0.9,
+          "max": 1.4
+        },
+        {
+          "date": "2026-11-29",
+          "min": 0.6,
+          "max": 0.9
+        },
+        {
+          "date": "2026-11-30",
+          "min": 0,
+          "max": 0.3
+        },
+        {
+          "date": "2026-12-01",
+          "min": 0.3,
+          "max": 0.6
+        },
+        {
+          "date": "2026-12-02",
+          "min": 0.3,
+          "max": 0.6
+        },
+        {
+          "date": "2026-12-03",
+          "min": 0.3,
+          "max": 0.6
+        }
+      ],
+      "currentForecast": {
+        "date": "2026-11-27",
+        "min": 0.3,
+        "max": 0.6,
+        "wind": {
+          "source": "Surfline",
+          "direction": "南西",
+          "relative": "オンショア",
+          "speedKph": 14,
+          "speedMps": 3.9,
+          "strength": "3.9 m/s"
+        }
+      },
+      "forecastRetrievedAt": "2026-11-27T20:13:05+09:00"
+    },
+    {
+      "id": "hebara",
+      "name": "部原・メイン",
+      "english": "HEBARA",
+      "region": "千葉南",
+      "bcmArea": 4,
+      "lat": 35.167222,
+      "lon": 140.334722,
+      "positionNote": "BCMポイントガイドの地図位置。入水地点の案内ではありません。",
+      "feature": "砂浜のポイント。地形・流れ・混雑と現地の利用ルールを岸から確認。",
+      "bcmUrl": "https://m.bc01.com/wave/4/41",
+      "guideUrl": "https://m.bc01.com/wave/point/4/41",
+      "checkSchedule": [
+        "05:00",
+        "06:15",
+        "08:45",
+        "12:30",
+        "16:00"
+      ],
+      "surflineUrl": "https://www.surfline.com/surf-report/hebara/5842041f4e65fad6a7708d98",
+      "forecastAutoUpdate": true,
+      "observation": {
+        "date": "2026-11-27",
+        "updatedAt": "2026-11-27T15:55:00+09:00",
+        "score": 20,
+        "size": "たまのsetコシ～ハラ",
+        "wind": {
+          "relative": "サイド",
+          "strength": "弱",
+          "direction": "南西",
+          "speedMps": null,
+          "source": "BCM"
+        }
+      },
+      "modelRunAt": null,
+      "forecasts": [
+        {
+          "date": "2026-11-27",
+          "min": 0.3,
+          "max": 0.6
+        },
+        {
+          "date": "2026-11-28",
+          "min": 1.2,
+          "max": 1.5
+        },
+        {
+          "date": "2026-11-29",
+          "min": 0.6,
+          "max": 0.9
+        },
+        {
+          "date": "2026-11-30",
+          "min": 0,
+          "max": 0.3
+        },
+        {
+          "date": "2026-12-01",
+          "min": 0.6,
+          "max": 0.9
+        },
+        {
+          "date": "2026-12-02",
+          "min": 0.3,
+          "max": 0.6
+        },
+        {
+          "date": "2026-12-03",
+          "min": 0.6,
+          "max": 0.9
+        }
+      ],
+      "currentForecast": {
+        "date": "2026-11-27",
+        "min": 0.6,
+        "max": 0.9,
+        "wind": {
+          "source": "Surfline",
+          "direction": "南西",
+          "relative": "オフショア",
+          "speedKph": 14,
+          "speedMps": 3.9,
+          "strength": "3.9 m/s"
+        }
+      },
+      "forecastRetrievedAt": "2026-11-27T20:13:05+09:00"
+    },
+    {
+      "id": "maruki",
+      "name": "鴨川・マルキ",
+      "english": "MARUKI",
+      "region": "千葉南",
+      "bcmArea": 4,
+      "lat": 35.120556,
+      "lon": 140.130556,
+      "positionNote": "BCMポイントガイドの地図位置。入水地点の案内ではありません。",
+      "feature": "砂浜のポイント。地形・流れ・混雑と現地の利用ルールを岸から確認。",
+      "bcmUrl": "https://m.bc01.com/wave/4/44",
+      "guideUrl": "https://m.bc01.com/wave/point/4/44",
+      "checkSchedule": [
+        "03:10",
+        "05:30",
+        "07:45",
+        "11:30",
+        "14:00",
+        "16:15"
+      ],
+      "surflineUrl": "https://www.surfline.com/surf-report/maruki/584204204e65fad6a770974a",
+      "forecastAutoUpdate": true,
+      "observation": {
+        "date": "2026-11-27",
+        "updatedAt": "2026-11-27T16:00:00+09:00",
+        "score": 20,
+        "size": "コシ～ハラたまのsetムネ",
+        "wind": {
+          "relative": "サイド",
+          "strength": "弱",
+          "direction": "西南西",
+          "speedMps": null,
+          "source": "BCM"
+        }
+      },
+      "modelRunAt": null,
+      "forecasts": [
+        {
+          "date": "2026-11-27",
+          "min": 0.3,
+          "max": 0.6
+        },
+        {
+          "date": "2026-11-28",
+          "min": 1.2,
+          "max": 1.5
+        },
+        {
+          "date": "2026-11-29",
+          "min": 0.9,
+          "max": 1.2
+        },
+        {
+          "date": "2026-11-30",
+          "min": 0.3,
+          "max": 0.6
+        },
+        {
+          "date": "2026-12-01",
+          "min": 0.6,
+          "max": 1.1
+        },
+        {
+          "date": "2026-12-02",
+          "min": 0.3,
+          "max": 0.6
+        },
+        {
+          "date": "2026-12-03",
+          "min": 0.3,
+          "max": 0.6
+        }
+      ],
+      "currentForecast": {
+        "date": "2026-11-27",
+        "min": 0.6,
+        "max": 0.9,
+        "wind": {
+          "source": "Surfline",
+          "direction": "南西",
+          "relative": "サイド",
+          "speedKph": 34,
+          "speedMps": 9.4,
+          "strength": "9.4 m/s"
+        }
+      },
+      "forecastRetrievedAt": "2026-11-27T20:13:05+09:00"
+    },
+    {
+      "id": "shirasuka",
+      "name": "和田・白渚",
+      "english": "SHIRASUKA",
+      "region": "千葉南",
+      "bcmArea": 4,
+      "lat": 35.029722,
+      "lon": 139.999444,
+      "positionNote": "BCMポイントガイドの地図位置。入水地点の案内ではありません。",
+      "feature": "砂浜のポイント。地形・流れ・混雑と現地の利用ルールを岸から確認。",
+      "bcmUrl": "https://m.bc01.com/wave/4/50",
+      "guideUrl": "https://m.bc01.com/wave/point/4/50",
+      "checkSchedule": [
+        "03:50",
+        "06:15",
+        "07:45",
+        "10:15",
+        "13:00",
+        "15:00",
+        "16:45"
+      ],
+      "surflineUrl": "https://www.surfline.com/surf-report/shirasuka/584204204e65fad6a7709756",
+      "forecastAutoUpdate": true,
+      "observation": {
+        "date": "2026-11-27",
+        "updatedAt": "2026-11-27T16:30:00+09:00",
+        "score": 30,
+        "size": "コシ～ハラたまのsetムネ",
+        "wind": {
+          "relative": "サイド",
+          "strength": "中",
+          "direction": "南西",
+          "speedMps": null,
+          "source": "BCM"
+        }
+      },
+      "modelRunAt": null,
+      "forecasts": [
+        {
+          "date": "2026-11-27",
+          "min": 0.6,
+          "max": 0.9
+        },
+        {
+          "date": "2026-11-28",
+          "min": 1.2,
+          "max": 1.5
+        },
+        {
+          "date": "2026-11-29",
+          "min": 0.6,
+          "max": 0.9
+        },
+        {
+          "date": "2026-11-30",
+          "min": 0.3,
+          "max": 0.6
+        },
+        {
+          "date": "2026-12-01",
+          "min": 0.6,
+          "max": 1.1
+        },
+        {
+          "date": "2026-12-02",
+          "min": 0.3,
+          "max": 0.6
+        },
+        {
+          "date": "2026-12-03",
+          "min": 0.6,
+          "max": 0.9
+        }
+      ],
+      "currentForecast": {
+        "date": "2026-11-27",
+        "min": 0.6,
+        "max": 0.9,
+        "wind": {
+          "source": "Surfline",
+          "direction": "南西",
+          "relative": "サイド",
+          "speedKph": 19,
+          "speedMps": 5.3,
+          "strength": "5.3 m/s"
+        }
+      },
+      "forecastRetrievedAt": "2026-11-27T20:13:05+09:00"
+    },
+    {
+      "id": "hanakago",
+      "name": "花篭",
+      "english": "HANAKAGO",
+      "region": "千葉南",
+      "bcmArea": 4,
+      "lat": 35.023611,
+      "lon": 139.991667,
+      "positionNote": "BCMポイントガイドの地図位置。入水地点の案内ではありません。",
+      "feature": "砂浜のポイント。地形・流れ・混雑と現地の利用ルールを岸から確認。",
+      "bcmUrl": "https://m.bc01.com/wave/4/52",
+      "guideUrl": "https://m.bc01.com/wave/point/4/52",
+      "checkSchedule": [
+        "04:10",
+        "06:45",
+        "08:15",
+        "10:45",
+        "13:30",
+        "15:30",
+        "17:15"
+      ],
+      "surflineUrl": "https://www.surfline.com/surf-report/hanakagomae/584204204e65fad6a7709755",
+      "forecastAutoUpdate": true,
+      "observation": {
+        "date": "2026-11-27",
+        "updatedAt": "2026-11-27T16:40:00+09:00",
+        "score": 20,
+        "size": "コシ～ハラたまのsetムネ",
+        "wind": {
+          "relative": "サイドオフ",
+          "strength": "弱",
+          "direction": "西",
+          "speedMps": null,
+          "source": "BCM"
+        }
+      },
+      "modelRunAt": null,
+      "forecasts": [
+        {
+          "date": "2026-11-27",
+          "min": 0.6,
+          "max": 0.9
+        },
+        {
+          "date": "2026-11-28",
+          "min": 1.2,
+          "max": 1.5
+        },
+        {
+          "date": "2026-11-29",
+          "min": 1.5,
+          "max": 2.1
+        },
+        {
+          "date": "2026-11-30",
+          "min": 0.3,
+          "max": 0.6
+        },
+        {
+          "date": "2026-12-01",
+          "min": 0.9,
+          "max": 1.4
+        },
+        {
+          "date": "2026-12-02",
+          "min": 0.3,
+          "max": 0.6
+        },
+        {
+          "date": "2026-12-03",
+          "min": 0.6,
+          "max": 0.9
+        }
+      ],
+      "currentForecast": {
+        "date": "2026-11-27",
+        "min": 0.6,
+        "max": 0.9,
+        "wind": {
+          "source": "Surfline",
+          "direction": "南西",
+          "relative": "サイド",
+          "speedKph": 19,
+          "speedMps": 5.3,
+          "strength": "5.3 m/s"
+        }
+      },
+      "forecastRetrievedAt": "2026-11-27T20:13:05+09:00"
+    },
+    {
+      "id": "chitose",
+      "name": "千歳",
+      "english": "CHITOSE",
+      "region": "千葉南",
+      "bcmArea": 4,
+      "lat": 34.996111,
+      "lon": 139.971389,
+      "positionNote": "BCMポイントガイドの地図位置。入水地点の案内ではありません。",
+      "feature": "砂浜のポイント。地形・流れ・混雑と現地の利用ルールを岸から確認。",
+      "bcmUrl": "https://m.bc01.com/wave/4/54",
+      "guideUrl": "https://m.bc01.com/wave/point/4/54",
+      "checkSchedule": [
+        "06:25",
+        "07:45",
+        "10:50",
+        "12:50",
+        "15:20"
+      ],
+      "surflineUrl": "https://www.surfline.com/surf-report/chitose/584204204e65fad6a7709758",
+      "forecastAutoUpdate": true,
+      "observation": {
+        "date": "2026-11-27",
+        "updatedAt": "2026-11-27T15:40:00+09:00",
+        "score": 20,
+        "size": "コシ～ハラ",
+        "wind": {
+          "relative": "サイドオフ",
+          "strength": "弱",
+          "direction": "南西",
+          "speedMps": null,
+          "source": "BCM"
+        }
+      },
+      "modelRunAt": null,
+      "forecasts": [
+        {
+          "date": "2026-11-27",
+          "min": 0.6,
+          "max": 0.9
+        },
+        {
+          "date": "2026-11-28",
+          "min": 0.9,
+          "max": 1.4
+        },
+        {
+          "date": "2026-11-29",
+          "min": 1.2,
+          "max": 1.8
+        },
+        {
+          "date": "2026-11-30",
+          "min": 0.3,
+          "max": 0.6
+        },
+        {
+          "date": "2026-12-01",
+          "min": 0.6,
+          "max": 1.1
+        },
+        {
+          "date": "2026-12-02",
+          "min": 0.3,
+          "max": 0.6
+        },
+        {
+          "date": "2026-12-03",
+          "min": 0.6,
+          "max": 0.9
+        }
+      ],
+      "currentForecast": {
+        "date": "2026-11-27",
+        "min": 0.6,
+        "max": 0.9,
+        "wind": {
+          "source": "Surfline",
+          "direction": "南西",
+          "relative": "オフショア",
+          "speedKph": 19,
+          "speedMps": 5.3,
+          "strength": "5.3 m/s"
+        }
+      },
+      "forecastRetrievedAt": "2026-11-27T20:13:05+09:00"
+    },
+    {
+      "id": "chikura",
+      "name": "千倉",
+      "english": "CHIKURA",
+      "region": "千葉南",
+      "bcmArea": 4,
+      "lat": 34.964444,
+      "lon": 139.959722,
+      "positionNote": "BCMポイントガイドの地図位置。入水地点の案内ではありません。",
+      "feature": "砂浜のポイント。地形・流れ・混雑と現地の利用ルールを岸から確認。",
+      "bcmUrl": "https://m.bc01.com/wave/4/53",
+      "guideUrl": "https://m.bc01.com/wave/point/4/53",
+      "checkSchedule": [
+        "06:10",
+        "08:00",
+        "11:00",
+        "13:00",
+        "15:30"
+      ],
+      "surflineUrl": "https://www.surfline.com/surf-report/chikura/584204204e65fad6a770975a",
+      "forecastAutoUpdate": true,
+      "observation": {
+        "date": "2026-11-27",
+        "updatedAt": "2026-11-27T15:40:00+09:00",
+        "score": 30,
+        "size": "モモsetコシたまにハラ",
+        "wind": {
+          "relative": "オフショア",
+          "strength": "中",
+          "direction": "南西",
+          "speedMps": null,
+          "source": "BCM"
+        }
+      },
+      "modelRunAt": null,
+      "forecasts": [
+        {
+          "date": "2026-11-27",
+          "min": 0.6,
+          "max": 0.9
+        },
+        {
+          "date": "2026-11-28",
+          "min": 0.9,
+          "max": 1.4
+        },
+        {
+          "date": "2026-11-29",
+          "min": 0.6,
+          "max": 0.9
+        },
+        {
+          "date": "2026-11-30",
+          "min": 0.3,
+          "max": 0.6
+        },
+        {
+          "date": "2026-12-01",
+          "min": 0.6,
+          "max": 0.9
+        },
+        {
+          "date": "2026-12-02",
+          "min": 0.3,
+          "max": 0.6
+        },
+        {
+          "date": "2026-12-03",
+          "min": 0.6,
+          "max": 0.9
+        }
+      ],
+      "currentForecast": {
+        "date": "2026-11-27",
+        "min": 0.6,
+        "max": 0.9,
+        "wind": {
+          "source": "Surfline",
+          "direction": "南西",
+          "relative": "オフショア",
+          "speedKph": 19,
+          "speedMps": 5.3,
+          "strength": "5.3 m/s"
+        }
+      },
+      "forecastRetrievedAt": "2026-11-27T20:13:05+09:00"
+    },
+    {
+      "id": "heisaura",
+      "name": "平砂浦",
+      "english": "HEISAURA",
+      "region": "千葉南",
+      "bcmArea": 4,
+      "lat": 34.931383,
+      "lon": 139.826217,
+      "positionNote": "BCMポイントガイドの地図位置。入水地点の案内ではありません。",
+      "feature": "砂浜のポイント。地形・流れ・混雑と現地の利用ルールを岸から確認。",
+      "bcmUrl": "https://m.bc01.com/wave/4/225",
+      "guideUrl": "https://m.bc01.com/wave/point/4/225",
+      "checkSchedule": [
+        "05:00",
+        "05:30",
+        "07:00",
+        "10:00",
+        "16:30"
+      ],
+      "surflineUrl": "https://www.surfline.com/surf-report/heisaura/617b177e84de336c44a2d7e6",
+      "forecastAutoUpdate": true,
+      "observation": {
+        "date": "2026-11-27",
+        "updatedAt": "2026-11-27T15:35:00+09:00",
+        "score": 15,
+        "size": "コシ",
+        "wind": {
+          "relative": "オンショア",
+          "strength": "強",
+          "direction": "南西",
+          "speedMps": null,
+          "source": "BCM"
+        }
+      },
+      "modelRunAt": null,
+      "forecasts": [
+        {
+          "date": "2026-11-27",
+          "min": 0.6,
+          "max": 0.9
+        },
+        {
+          "date": "2026-11-28",
+          "min": 0.9,
+          "max": 1.4
+        },
+        {
+          "date": "2026-11-29",
+          "min": 1.8,
+          "max": 2.4
+        },
+        {
+          "date": "2026-11-30",
+          "min": 0.3,
+          "max": 0.6
+        },
+        {
+          "date": "2026-12-01",
+          "min": 1.2,
+          "max": 1.5
+        },
+        {
+          "date": "2026-12-02",
+          "min": 0.3,
+          "max": 0.6
+        },
+        {
+          "date": "2026-12-03",
+          "min": 0.3,
+          "max": 0.6
+        }
+      ],
+      "currentForecast": {
+        "date": "2026-11-27",
+        "min": 0.3,
+        "max": 0.6,
+        "wind": {
+          "source": "Surfline",
+          "direction": "南西",
+          "relative": "オンショア",
+          "speedKph": 33,
+          "speedMps": 9.2,
+          "strength": "9.2 m/s"
+        }
+      },
+      "forecastRetrievedAt": "2026-11-27T20:13:05+09:00"
+    },
+    {
+      "id": "hasaki",
+      "name": "波崎・正面",
+      "english": "HASAKI",
+      "region": "波崎・銚子",
+      "bcmArea": 2,
+      "lat": 35.751944,
+      "lon": 140.831389,
+      "positionNote": "BCMポイントガイドの地図位置。入水地点の案内ではありません。",
+      "feature": "砂浜のポイント。地形・流れ・混雑と現地の利用ルールを岸から確認。",
+      "bcmUrl": "https://m.bc01.com/wave/2/20",
+      "guideUrl": "https://m.bc01.com/wave/point/2/20",
+      "checkSchedule": [
+        "04:15",
+        "06:00",
+        "10:00",
+        "13:00",
+        "16:45"
+      ],
+      "surflineUrl": "https://www.surfline.com/surf-report/hasaki/584204204e65fad6a7709724",
+      "forecastAutoUpdate": true,
+      "observation": {
+        "date": "2026-11-27",
+        "updatedAt": "2026-11-27T16:00:00+09:00",
+        "score": 30,
+        "size": "ヒザ～モモsetコシ",
+        "wind": {
+          "relative": "オフショア",
+          "strength": "弱",
+          "direction": "南西",
+          "speedMps": null,
+          "source": "BCM"
+        }
+      },
+      "modelRunAt": null,
+      "forecasts": [
+        {
+          "date": "2026-11-27",
+          "min": 0,
+          "max": 0
+        },
+        {
+          "date": "2026-11-28",
+          "min": 0,
+          "max": 0.3
+        },
+        {
+          "date": "2026-11-29",
+          "min": 0,
+          "max": 0.3
+        },
+        {
+          "date": "2026-11-30",
+          "min": 0,
+          "max": 0
+        },
+        {
+          "date": "2026-12-01",
+          "min": 0,
+          "max": 0
+        },
+        {
+          "date": "2026-12-02",
+          "min": 0,
+          "max": 0.3
+        },
+        {
+          "date": "2026-12-03",
+          "min": 0,
+          "max": 0.3
+        }
+      ],
+      "currentForecast": {
+        "date": "2026-11-27",
+        "min": 0,
+        "max": 0,
+        "wind": {
+          "source": "Surfline",
+          "direction": "南西",
+          "relative": "オフショア",
+          "speedKph": 11,
+          "speedMps": 3.1,
+          "strength": "3.1 m/s"
+        }
+      },
+      "forecastRetrievedAt": "2026-11-27T20:13:05+09:00"
+    },
+    {
+      "id": "hasaki-kanekyu",
+      "name": "波崎・カネキュー",
+      "english": "HASAKI KANEKYU",
+      "region": "波崎・銚子",
+      "bcmArea": 2,
+      "lat": 35.756389,
+      "lon": 140.827778,
+      "positionNote": "BCMポイントガイドの地図位置。入水地点の案内ではありません。",
+      "feature": "砂浜のポイント。地形・流れ・混雑と現地の利用ルールを岸から確認。 SurflineはHasakiのエリア予想を参照。",
+      "bcmUrl": "https://m.bc01.com/wave/2/21",
+      "guideUrl": "https://m.bc01.com/wave/point/2/21",
+      "checkSchedule": [
+        "04:15",
+        "06:00",
+        "10:00",
+        "13:00",
+        "16:45"
+      ],
+      "surflineUrl": "https://www.surfline.com/surf-report/hasaki/584204204e65fad6a7709724",
+      "forecastAutoUpdate": true,
+      "observation": {
+        "date": "2026-11-27",
+        "updatedAt": "2026-11-27T16:00:00+09:00",
+        "score": 20,
+        "size": "ヒザ～モモsetコシ",
+        "wind": {
+          "relative": "オフショア",
+          "strength": "弱",
+          "direction": "南西",
+          "speedMps": null,
+          "source": "BCM"
+        }
+      },
+      "modelRunAt": null,
+      "forecasts": [
+        {
+          "date": "2026-11-27",
+          "min": 0,
+          "max": 0
+        },
+        {
+          "date": "2026-11-28",
+          "min": 0,
+          "max": 0.3
+        },
+        {
+          "date": "2026-11-29",
+          "min": 0,
+          "max": 0.3
+        },
+        {
+          "date": "2026-11-30",
+          "min": 0,
+          "max": 0
+        },
+        {
+          "date": "2026-12-01",
+          "min": 0,
+          "max": 0
+        },
+        {
+          "date": "2026-12-02",
+          "min": 0,
+          "max": 0.3
+        },
+        {
+          "date": "2026-12-03",
+          "min": 0,
+          "max": 0.3
+        }
+      ],
+      "currentForecast": {
+        "date": "2026-11-27",
+        "min": 0,
+        "max": 0,
+        "wind": {
+          "source": "Surfline",
+          "direction": "南西",
+          "relative": "オフショア",
+          "speedKph": 11,
+          "speedMps": 3.1,
+          "strength": "3.1 m/s"
+        }
+      },
+      "forecastRetrievedAt": "2026-11-27T20:13:05+09:00"
+    },
+    {
+      "id": "iioka",
+      "name": "飯岡・信号下",
+      "english": "IIOKA",
+      "region": "波崎・銚子",
+      "bcmArea": 3,
+      "lat": 35.702213,
+      "lon": 140.712972,
+      "positionNote": "BCMポイントガイドの地図位置。入水地点の案内ではありません。",
+      "feature": "砂浜のポイント。地形・流れ・混雑と現地の利用ルールを岸から確認。",
+      "bcmUrl": "https://m.bc01.com/wave/3/25",
+      "guideUrl": "https://m.bc01.com/wave/point/3/25",
+      "checkSchedule": [
+        "06:00",
+        "09:30",
+        "13:30",
+        "16:30"
+      ],
+      "surflineUrl": "https://www.surfline.com/surf-report/iiokasomae/584204204e65fad6a770972a",
+      "forecastAutoUpdate": true,
+      "observation": {
+        "date": "2026-11-27",
+        "updatedAt": "2026-11-27T15:45:00+09:00",
+        "score": 20,
+        "size": "ヒザ～モモ",
+        "wind": {
+          "relative": "オンショア",
+          "strength": "微",
+          "direction": "南",
+          "speedMps": null,
+          "source": "BCM"
+        }
+      },
+      "modelRunAt": null,
+      "forecasts": [
+        {
+          "date": "2026-11-27",
+          "min": 0.6,
+          "max": 0.9
+        },
+        {
+          "date": "2026-11-28",
+          "min": 0.9,
+          "max": 1.4
+        },
+        {
+          "date": "2026-11-29",
+          "min": 0.6,
+          "max": 0.9
+        },
+        {
+          "date": "2026-11-30",
+          "min": 0.3,
+          "max": 0.6
+        },
+        {
+          "date": "2026-12-01",
+          "min": 0.9,
+          "max": 1.2
+        },
+        {
+          "date": "2026-12-02",
+          "min": 0.3,
+          "max": 0.6
+        },
+        {
+          "date": "2026-12-03",
+          "min": 0.6,
+          "max": 0.9
+        }
+      ],
+      "currentForecast": {
+        "date": "2026-11-27",
+        "min": 0.6,
+        "max": 0.9,
+        "wind": {
+          "source": "Surfline",
+          "direction": "南西",
+          "relative": "オンショア",
+          "speedKph": 11,
+          "speedMps": 3.1,
+          "strength": "3.1 m/s"
+        }
+      },
+      "forecastRetrievedAt": "2026-11-27T20:13:05+09:00"
+    },
+    {
+      "id": "iioka-mansion",
+      "name": "飯岡・マンション下",
+      "english": "IIOKA MANSION",
+      "region": "波崎・銚子",
+      "bcmArea": 3,
+      "lat": 35.700282,
+      "lon": 140.720806,
+      "positionNote": "BCMポイントガイドの地図位置。入水地点の案内ではありません。",
+      "feature": "砂浜のポイント。地形・流れ・混雑と現地の利用ルールを岸から確認。 SurflineはIiokasomaeのエリア予想を参照。",
+      "bcmUrl": "https://m.bc01.com/wave/3/1068",
+      "guideUrl": "https://m.bc01.com/wave/point/3/1068",
+      "checkSchedule": [
+        "06:00",
+        "09:30",
+        "13:30",
+        "16:30"
+      ],
+      "surflineUrl": "https://www.surfline.com/surf-report/iiokasomae/584204204e65fad6a770972a",
+      "forecastAutoUpdate": true,
+      "observation": {
+        "date": "2026-11-27",
+        "updatedAt": "2026-11-27T15:45:00+09:00",
+        "score": 20,
+        "size": "ヒザ～モモ",
+        "wind": {
+          "relative": "オンショア",
+          "strength": "微",
+          "direction": "南",
+          "speedMps": null,
+          "source": "BCM"
+        }
+      },
+      "modelRunAt": null,
+      "forecasts": [
+        {
+          "date": "2026-11-27",
+          "min": 0.6,
+          "max": 0.9
+        },
+        {
+          "date": "2026-11-28",
+          "min": 0.9,
+          "max": 1.4
+        },
+        {
+          "date": "2026-11-29",
+          "min": 0.6,
+          "max": 0.9
+        },
+        {
+          "date": "2026-11-30",
+          "min": 0.3,
+          "max": 0.6
+        },
+        {
+          "date": "2026-12-01",
+          "min": 0.9,
+          "max": 1.2
+        },
+        {
+          "date": "2026-12-02",
+          "min": 0.3,
+          "max": 0.6
+        },
+        {
+          "date": "2026-12-03",
+          "min": 0.6,
+          "max": 0.9
+        }
+      ],
+      "currentForecast": {
+        "date": "2026-11-27",
+        "min": 0.6,
+        "max": 0.9,
+        "wind": {
+          "source": "Surfline",
+          "direction": "南西",
+          "relative": "オンショア",
+          "speedKph": 11,
+          "speedMps": 3.1,
+          "strength": "3.1 m/s"
+        }
+      },
+      "forecastRetrievedAt": "2026-11-27T20:13:05+09:00"
+    },
+    {
+      "id": "choshi",
+      "name": "銚子",
+      "english": "CHOSHI",
+      "region": "波崎・銚子",
+      "lat": 35.701,
+      "lon": 140.858,
+      "positionNote": "海岸付近の代表位置。予想メッシュの中心や入水地点ではありません。",
+      "feature": "銚子沿岸の代表ポイント。Surflineのモデル予想を表示。岩場・港の構造物・ほかの利用者との距離を確認。",
+      "bcmUrl": null,
+      "bcmUnavailable": true,
+      "surflineUrl": "https://www.surfline.com/surf-report/choshi/640a76b74eb3750d2ca14a03",
+      "forecastAutoUpdate": true,
+      "observation": null,
+      "modelRunAt": null,
+      "forecasts": [
+        {
+          "date": "2026-11-27",
+          "min": 0.3,
+          "max": 0.6
+        },
+        {
+          "date": "2026-11-28",
+          "min": 1.2,
+          "max": 1.5
+        },
+        {
+          "date": "2026-11-29",
+          "min": 1.2,
+          "max": 1.5
+        },
+        {
+          "date": "2026-11-30",
+          "min": 0.3,
+          "max": 0.6
+        },
+        {
+          "date": "2026-12-01",
+          "min": 1.2,
+          "max": 1.5
+        },
+        {
+          "date": "2026-12-02",
+          "min": 0.3,
+          "max": 0.6
+        },
+        {
+          "date": "2026-12-03",
+          "min": 0.3,
+          "max": 0.6
+        }
+      ],
+      "currentForecast": {
+        "date": "2026-11-27",
+        "min": 0.6,
+        "max": 0.9,
+        "wind": {
+          "source": "Surfline",
+          "direction": "南西",
+          "relative": "サイド",
+          "speedKph": 11,
+          "speedMps": 3.1,
+          "strength": "3.1 m/s"
+        }
+      },
+      "forecastRetrievedAt": "2026-11-27T20:13:05+09:00"
     }
   ],
   "automation": {
@@ -1357,7 +2714,7 @@
       "07:15",
       "09:15"
     ],
-    "source": "BCM + Surfline（逗子）"
+    "source": "BCM + Surfline（自動更新対象地点）"
   },
-  "coverage": "逗子〜小田原"
+  "coverage": "湘南・西湘・葉山・千葉南・波崎・銚子"
 }

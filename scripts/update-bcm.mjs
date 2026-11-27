@@ -7,7 +7,7 @@ const fail=message=>{throw new Error(message)};
 const args=process.argv.slice(2),index=args.indexOf('--input');
 if(index<0||!args[index+1])fail('Usage: node scripts/update-bcm.mjs --input /absolute/path/bcm.json [--check]');
 const input=JSON.parse(fs.readFileSync(args[index+1],'utf8'));
-if(!['https://m.bc01.com/wave/5','https://m.bc01.com/wave/6'].includes(input.sourceUrl)||input.sample!==false)fail('Require verified authenticated BCM source; sample pages must not be imported.');
+if(![2,3,4,5,6].map(area=>'https://m.bc01.com/wave/'+area).includes(input.sourceUrl)||input.sample!==false)fail('Require verified authenticated BCM source; sample pages must not be imported.');
 const retrieved=new Date(input.retrievedAt),now=new Date();
 if(!Number.isFinite(+retrieved)||+retrieved>+now+60000||+now-retrieved>2*3600000)fail('retrievedAt must be the actual recent retrieval time.');
 if(!Array.isArray(input.observations)||!input.observations.length)fail('No observations to update.');

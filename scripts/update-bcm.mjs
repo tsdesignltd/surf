@@ -17,7 +17,8 @@ for(const record of input.observations){
  const point=data.spots.find(p=>p.id===record.id);if(!point)fail('Unknown point: '+record.id);if(point.bcmDataOnly||point.bcmUnavailable||!point.bcmUrl)fail('Model-only point has no observed BCM score: '+record.id);
  const at=new Date(record.updatedAt);
  if(!Number.isFinite(+at)||record.date!==key(at)||record.date!==key(retrieved)||+at>+retrieved+60000)fail('Require a verified observation for today, not yesterday: '+record.id);
- if(!Number.isInteger(record.score)||record.score<0||record.score>100||typeof record.size!=='string'||!record.size.trim())fail('Invalid score or size: '+record.id);
+ const scoreValid=(record.score===null&&record.scoreUnavailable===true)||(Number.isInteger(record.score)&&record.score>=0&&record.score<=100);
+ if(!scoreValid||typeof record.size!=='string'||!record.size.trim())fail('Invalid score or size: '+record.id);
  const wind=record.wind;
  if(!wind||typeof wind.direction!=='string'||typeof wind.strength!=='string'||typeof wind.relative!=='string'||wind.source!=='BCM')fail('Require BCM wind direction, strength, relative and source: '+record.id);
  if(wind.speedMps!==null&&(!Number.isFinite(wind.speedMps)||wind.speedMps<0))fail('Wind speed must be a sourced number or null.');

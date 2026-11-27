@@ -34,3 +34,5 @@
 .size-badge{background:var(--size-color);color:var(--size-pin-ink,#203d3c);min-height:32px;padding:7px 12px;font-size:12px;font-weight:600}.size-badge:before{display:none}.spot-card .size-badge,.detail>.size-badge{width:100%;justify-content:center}.size-legend i{width:22px;height:12px;border-radius:3px}.day .mini-line{height:6px;width:58%}.day{gap:0}@media(max-width:760px){.spot-card .size-badge{font-size:11px}.size-legend i{width:20px;height:12px}}
 
 .map-legend{flex-wrap:wrap}
+
+.forecast-reference{font-size:12px;color:var(--muted);margin:8px 0 0;line-height:1.6}

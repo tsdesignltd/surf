@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "retrievedAt": "2026-11-27T20:26:05+09:00",
+  "retrievedAt": "2026-11-27T20:33:33+09:00",
   "modelRunAt": "2026-11-26T09:00:00+09:00",
   "updateMode": "scheduled-browser",
   "spots": [
@@ -70,6 +70,74 @@
         }
       },
       "forecastRetrievedAt": "2026-11-27T20:13:05+09:00"
+    },
+    {
+      "id": "chojagasaki",
+      "name": "長者ヶ崎",
+      "english": "CHOJAGASAKI",
+      "region": "葉山",
+      "lat": 35.2557,
+      "lon": 139.578,
+      "positionNote": "長者ヶ崎・大浜海岸付近の代表位置。入水地点や予想メッシュの中心ではありません。",
+      "feature": "葉山南側の海岸。岩場や岬周辺の流れ、ほかのマリンスポーツ利用者に注意。単独の掲載を確認できないため、波高・風はSurflineの一色（Isshiki Beach）の近隣参考予想です。",
+      "bcmUrl": null,
+      "bcmUnavailable": true,
+      "observation": null,
+      "surflineUrl": "https://www.surfline.com/surf-report/isshiki-beach/640a772f606c45654dbda6fd",
+      "forecastAutoUpdate": true,
+      "forecastReference": "一色（近隣参考）",
+      "modelRunAt": null,
+      "forecasts": [
+        {
+          "date": "2026-11-27",
+          "min": 0,
+          "max": 0.3
+        },
+        {
+          "date": "2026-11-28",
+          "min": 0.3,
+          "max": 0.6
+        },
+        {
+          "date": "2026-11-29",
+          "min": 0.6,
+          "max": 0.9
+        },
+        {
+          "date": "2026-11-30",
+          "min": 0,
+          "max": 0
+        },
+        {
+          "date": "2026-12-01",
+          "min": 0.6,
+          "max": 0.9
+        },
+        {
+          "date": "2026-12-02",
+          "min": 0,
+          "max": 0
+        },
+        {
+          "date": "2026-12-03",
+          "min": 0,
+          "max": 0
+        }
+      ],
+      "currentForecast": {
+        "date": "2026-11-27",
+        "min": 0,
+        "max": 0.3,
+        "wind": {
+          "source": "Surfline",
+          "direction": "西南西",
+          "relative": "オンショア",
+          "speedKph": 20,
+          "speedMps": 5.6,
+          "strength": "5.6 m/s"
+        }
+      },
+      "forecastRetrievedAt": "2026-11-27T20:33:33+09:00"
     },
     {
       "id": "zushi",

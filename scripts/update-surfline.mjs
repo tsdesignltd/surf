@@ -9,7 +9,7 @@ const file=path.join(root,'data/surf.json'),data=JSON.parse(fs.readFileSync(file
 const expected=Array.from({length:7},(_,n)=>day(new Date(new Date(day(at)+'T12:00:00+09:00').getTime()+n*86400000)));
 const checkWave=f=>{if(!f||!expected.includes(f.date)||!Number.isFinite(f.min)||!Number.isFinite(f.max)||f.min<0||f.max<f.min)throw Error('Invalid wave forecast');};
 for(const row of input.spots){
- const point=data.spots.find(s=>s.id===row.id);if(!point?.bcmUnavailable||!['osaki','zushi'].includes(point.id)||seen.has(row.id))throw Error('Unsupported or duplicate Surfline point');seen.add(row.id);
+ const point=data.spots.find(s=>s.id===row.id);if(!(point?.bcmUnavailable||point?.bcmDataOnly)||!['osaki','zushi','koshigoe'].includes(point.id)||seen.has(row.id))throw Error('Unsupported or duplicate Surfline point');seen.add(row.id);
  if(row.sourceUrl!==point.surflineUrl)throw Error('Source URL must match the configured point');
  if(!Array.isArray(row.forecasts)||row.forecasts.length!==7||new Set(row.forecasts.map(f=>f.date)).size!==7)throw Error('Require seven verified daily forecasts');
  row.forecasts.forEach(checkWave);

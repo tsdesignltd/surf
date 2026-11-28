@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "retrievedAt": "2026-11-27T22:25:37.334Z",
+  "retrievedAt": "2026-11-28T00:23:38.187Z",
   "modelRunAt": "2026-11-26T09:00:00+09:00",
   "updateMode": "scheduled-browser",
   "spots": [
@@ -58,18 +58,18 @@
       ],
       "currentForecast": {
         "date": "2026-11-28",
-        "min": 0.3,
-        "max": 0.6,
+        "min": 0.9,
+        "max": 1.2,
         "wind": {
           "source": "Surfline",
           "direction": "北北東",
           "relative": "オフショア",
-          "speedKph": 27,
-          "speedMps": 7.5,
-          "strength": "7.5 m/s"
+          "speedKph": 20,
+          "speedMps": 5.6,
+          "strength": "5.6 m/s"
         }
       },
-      "forecastRetrievedAt": "2026-11-27T22:25:37.334Z"
+      "forecastRetrievedAt": "2026-11-28T00:23:38.187Z"
     },
     {
       "id": "chojagasaki",
@@ -126,18 +126,18 @@
       ],
       "currentForecast": {
         "date": "2026-11-28",
-        "min": 0.3,
-        "max": 0.6,
+        "min": 0.9,
+        "max": 1.2,
         "wind": {
           "source": "Surfline",
           "direction": "北北東",
           "relative": "オフショア",
-          "speedKph": 27,
-          "speedMps": 7.5,
-          "strength": "7.5 m/s"
+          "speedKph": 20,
+          "speedMps": 5.6,
+          "strength": "5.6 m/s"
         }
       },
-      "forecastRetrievedAt": "2026-11-27T22:25:37.334Z"
+      "forecastRetrievedAt": "2026-11-28T00:23:38.187Z"
     },
     {
       "id": "zushi",
@@ -153,18 +153,18 @@
       "surflineUrl": "https://www.surfline.com/surf-report/zushi-kaigan/640a7722606c452ee2bda456",
       "observation": null,
       "modelRunAt": null,
-      "forecastRetrievedAt": "2026-11-27T22:25:37.334Z",
+      "forecastRetrievedAt": "2026-11-28T00:23:38.187Z",
       "currentForecast": {
         "date": "2026-11-28",
-        "min": 0.3,
-        "max": 0.6,
+        "min": 0.9,
+        "max": 1.2,
         "wind": {
           "source": "Surfline",
           "direction": "北北東",
           "relative": "オフショア",
-          "speedKph": 27,
-          "speedMps": 7.5,
-          "strength": "7.5 m/s"
+          "speedKph": 20,
+          "speedMps": 5.6,
+          "strength": "5.6 m/s"
         }
       },
       "forecasts": [
@@ -220,18 +220,18 @@
       "surflineUrl": "https://www.surfline.com/surf-report/osaki/584204204e65fad6a7709760",
       "observation": null,
       "modelRunAt": null,
-      "forecastRetrievedAt": "2026-11-27T22:25:37.334Z",
+      "forecastRetrievedAt": "2026-11-28T00:23:38.187Z",
       "currentForecast": {
         "date": "2026-11-28",
-        "min": 0.3,
-        "max": 0.6,
+        "min": 0.9,
+        "max": 1.2,
         "wind": {
           "source": "Surfline",
           "direction": "北北東",
           "relative": "サイド",
-          "speedKph": 27,
-          "speedMps": 7.5,
-          "strength": "7.5 m/s"
+          "speedKph": 20,
+          "speedMps": 5.6,
+          "strength": "5.6 m/s"
         }
       },
       "forecasts": [
@@ -284,13 +284,13 @@
       "surflineUrl": "https://www.surfline.com/surf-report/zaimokuza/584204204e65fad6a7709763",
       "observation": {
         "date": "2026-11-28",
-        "updatedAt": "2026-11-28T06:10:00+09:00",
-        "score": 15,
-        "size": "スネ～ヒザ",
+        "updatedAt": "2026-11-28T08:00:00+09:00",
+        "score": 20,
+        "size": "スネ～ヒザたまのsetモモ",
         "wind": {
-          "relative": "サイドオン",
-          "strength": "やや強",
-          "direction": "南南東",
+          "relative": "オフショア",
+          "strength": "中",
+          "direction": "北北東",
           "speedMps": null,
           "source": "BCM"
         }
@@ -346,13 +346,13 @@
       "surflineUrl": "https://www.surfline.com/surf-report/yuigahama/584204204e65fad6a7709764",
       "observation": {
         "date": "2026-11-28",
-        "updatedAt": "2026-11-28T06:05:00+09:00",
-        "score": 15,
-        "size": "スネ～ヒザ",
+        "updatedAt": "2026-11-28T07:55:00+09:00",
+        "score": 20,
+        "size": "ヒザsetモモ",
         "wind": {
-          "relative": "オンショア",
-          "strength": "やや強",
-          "direction": "南西",
+          "relative": "オフショア",
+          "strength": "中",
+          "direction": "北北東",
           "speedMps": null,
           "source": "BCM"
         }
@@ -470,13 +470,13 @@
       "surflineUrl": "https://www.surfline.com/surf-report/roa/584204204e65fad6a7709769",
       "observation": {
         "date": "2026-11-28",
-        "updatedAt": "2026-11-28T05:35:00+09:00",
-        "score": 10,
-        "size": "ヒザたまのsetモモ",
+        "updatedAt": "2026-11-28T07:20:00+09:00",
+        "score": 5,
+        "size": "setモモ",
         "wind": {
-          "relative": "オンショア",
-          "strength": "強",
-          "direction": "南",
+          "relative": "オフショア",
+          "strength": "中",
+          "direction": "北",
           "speedMps": null,
           "source": "BCM"
         }
@@ -532,13 +532,13 @@
       "surflineUrl": "https://www.surfline.com/surf-report/minegahara/584204204e65fad6a770976a",
       "observation": {
         "date": "2026-11-28",
-        "updatedAt": "2026-11-28T05:45:00+09:00",
-        "score": 15,
-        "size": "ヒザsetモモ",
+        "updatedAt": "2026-11-28T07:35:00+09:00",
+        "score": 5,
+        "size": "ヒザ～モモたまのsetコシ",
         "wind": {
-          "relative": "サイドオン",
+          "relative": "オフショア",
           "strength": "やや強",
-          "direction": "南南東",
+          "direction": "北",
           "speedMps": null,
           "source": "BCM"
         }
@@ -594,13 +594,13 @@
       "surflineUrl": "https://www.surfline.com/surf-report/kamakomae/584204204e65fad6a770976c",
       "observation": {
         "date": "2026-11-28",
-        "updatedAt": "2026-11-28T05:35:00+09:00",
-        "score": 15,
-        "size": "ヒザ～モモ",
+        "updatedAt": "2026-11-28T07:40:00+09:00",
+        "score": 10,
+        "size": "ヒザ～モモたまのsetコシ",
         "wind": {
-          "relative": "サイドオン",
+          "relative": "オフショア",
           "strength": "やや強",
-          "direction": "南南東",
+          "direction": "北",
           "speedMps": null,
           "source": "BCM"
         }
@@ -699,18 +699,18 @@
       ],
       "currentForecast": {
         "date": "2026-11-28",
-        "min": 0.6,
-        "max": 0.9,
+        "min": 1.2,
+        "max": 1.5,
         "wind": {
           "source": "Surfline",
           "direction": "北北東",
           "relative": "オフショア",
-          "speedKph": 27,
-          "speedMps": 7.5,
-          "strength": "7.5 m/s"
+          "speedKph": 20,
+          "speedMps": 5.6,
+          "strength": "5.6 m/s"
         }
       },
-      "forecastRetrievedAt": "2026-11-27T22:25:37.334Z",
+      "forecastRetrievedAt": "2026-11-28T00:23:38.187Z",
       "forecastAutoUpdate": true
     },
     {
@@ -882,13 +882,13 @@
       ],
       "observation": {
         "date": "2026-11-28",
-        "updatedAt": "2026-11-28T06:15:00+09:00",
+        "updatedAt": "2026-11-28T08:25:00+09:00",
         "score": 20,
-        "size": "ヒザ～モモ",
+        "size": "ヒザsetモモたまにコシ",
         "wind": {
-          "relative": "サイドオン",
-          "strength": "中",
-          "direction": "南南東",
+          "relative": "オフショア",
+          "strength": "やや強",
+          "direction": "北北東",
           "speedMps": null,
           "source": "BCM"
         }
@@ -1027,13 +1027,13 @@
       ],
       "observation": {
         "date": "2026-11-28",
-        "updatedAt": "2026-11-28T05:05:00+09:00",
-        "score": 15,
-        "size": "ヒザたまのsetモモ",
+        "updatedAt": "2026-11-28T07:35:00+09:00",
+        "score": 20,
+        "size": "ヒザ～モモ",
         "wind": {
-          "relative": "オンショア",
-          "strength": "やや強",
-          "direction": "南",
+          "relative": "サイドオフ",
+          "strength": "中",
+          "direction": "北北東",
           "speedMps": null,
           "source": "BCM"
         }
@@ -1169,13 +1169,13 @@
       ],
       "observation": {
         "date": "2026-11-28",
-        "updatedAt": "2026-11-28T06:35:00+09:00",
-        "score": 10,
+        "updatedAt": "2026-11-28T08:30:00+09:00",
+        "score": 15,
         "size": "モモたまのsetコシ",
         "wind": {
           "relative": "オフショア",
-          "strength": "中",
-          "direction": "北",
+          "strength": "やや強",
+          "direction": "北北東",
           "speedMps": null,
           "source": "BCM"
         }
@@ -1237,13 +1237,13 @@
         "14:00"
       ],
       "observation": {
-        "date": "2026-11-27",
-        "updatedAt": "2026-11-27T08:50:00+09:00",
-        "score": 5,
-        "size": "setモモ～コシ",
+        "date": "2026-11-28",
+        "updatedAt": "2026-11-28T08:45:00+09:00",
+        "score": 10,
+        "size": "モモたまのsetコシ",
         "wind": {
           "relative": "サイドオフ",
-          "strength": "弱",
+          "strength": "中",
           "direction": "北北東",
           "speedMps": null,
           "source": "BCM"
@@ -1311,13 +1311,13 @@
       ],
       "observation": {
         "date": "2026-11-28",
-        "updatedAt": "2026-11-28T06:50:00+09:00",
+        "updatedAt": "2026-11-28T08:45:00+09:00",
         "score": 15,
         "size": "モモたまのsetコシ",
         "wind": {
-          "relative": "サイドオン",
+          "relative": "サイドオフ",
           "strength": "中",
-          "direction": "東",
+          "direction": "北北東",
           "speedMps": null,
           "source": "BCM"
         }
@@ -1560,18 +1560,18 @@
       ],
       "currentForecast": {
         "date": "2026-11-28",
-        "min": 1.5,
-        "max": 2.1,
+        "min": 1.8,
+        "max": 2.4,
         "wind": {
           "source": "Surfline",
           "direction": "南南西",
           "relative": "オンショア",
-          "speedKph": 24,
-          "speedMps": 6.7,
-          "strength": "6.7 m/s"
+          "speedKph": 36,
+          "speedMps": 10,
+          "strength": "10 m/s"
         }
       },
-      "forecastRetrievedAt": "2026-11-27T22:25:37.334Z"
+      "forecastRetrievedAt": "2026-11-28T00:23:38.187Z"
     },
     {
       "id": "onjuku",
@@ -1646,18 +1646,18 @@
       ],
       "currentForecast": {
         "date": "2026-11-28",
-        "min": 1.5,
-        "max": 2.1,
+        "min": 1.8,
+        "max": 2.4,
         "wind": {
           "source": "Surfline",
           "direction": "南南西",
           "relative": "オンショア",
-          "speedKph": 24,
-          "speedMps": 6.7,
-          "strength": "6.7 m/s"
+          "speedKph": 36,
+          "speedMps": 10,
+          "strength": "10 m/s"
         }
       },
-      "forecastRetrievedAt": "2026-11-27T22:25:37.334Z"
+      "forecastRetrievedAt": "2026-11-28T00:23:38.187Z"
     },
     {
       "id": "onjuku-gyoko",
@@ -1682,13 +1682,13 @@
       "forecastAutoUpdate": true,
       "observation": {
         "date": "2026-11-28",
-        "updatedAt": "2026-11-28T06:20:00+09:00",
-        "score": 20,
-        "size": "コシ～ハラsetムネ",
+        "updatedAt": "2026-11-28T08:35:00+09:00",
+        "score": 15,
+        "size": "ハラ～ムネsetカタ",
         "wind": {
-          "relative": "サイドオン",
-          "strength": "やや強",
-          "direction": "南南西",
+          "relative": "オンショア",
+          "strength": "強",
+          "direction": "南",
           "speedMps": null,
           "source": "BCM"
         }
@@ -1733,18 +1733,18 @@
       ],
       "currentForecast": {
         "date": "2026-11-28",
-        "min": 1.5,
-        "max": 2.1,
+        "min": 1.8,
+        "max": 2.4,
         "wind": {
           "source": "Surfline",
           "direction": "南南西",
           "relative": "オンショア",
-          "speedKph": 24,
-          "speedMps": 6.7,
-          "strength": "6.7 m/s"
+          "speedKph": 36,
+          "speedMps": 10,
+          "strength": "10 m/s"
         }
       },
-      "forecastRetrievedAt": "2026-11-27T22:25:37.334Z"
+      "forecastRetrievedAt": "2026-11-28T00:23:38.187Z"
     },
     {
       "id": "hebara",
@@ -1769,13 +1769,13 @@
       "forecastAutoUpdate": true,
       "observation": {
         "date": "2026-11-28",
-        "updatedAt": "2026-11-28T06:05:00+09:00",
-        "score": 20,
-        "size": "コシ～ハラたまのsetムネ",
+        "updatedAt": "2026-11-28T08:15:00+09:00",
+        "score": 15,
+        "size": "ハラ～ムネ",
         "wind": {
           "relative": "サイドオン",
           "strength": "やや強",
-          "direction": "南南西",
+          "direction": "南",
           "speedMps": null,
           "source": "BCM"
         }
@@ -1820,18 +1820,18 @@
       ],
       "currentForecast": {
         "date": "2026-11-28",
-        "min": 1.2,
-        "max": 2,
+        "min": 1.8,
+        "max": 2.4,
         "wind": {
           "source": "Surfline",
           "direction": "南南西",
           "relative": "サイド",
-          "speedKph": 24,
-          "speedMps": 6.7,
-          "strength": "6.7 m/s"
+          "speedKph": 36,
+          "speedMps": 10,
+          "strength": "10 m/s"
         }
       },
-      "forecastRetrievedAt": "2026-11-27T22:25:37.334Z"
+      "forecastRetrievedAt": "2026-11-28T00:23:38.187Z"
     },
     {
       "id": "maruki",
@@ -1857,13 +1857,13 @@
       "forecastAutoUpdate": true,
       "observation": {
         "date": "2026-11-28",
-        "updatedAt": "2026-11-28T05:30:00+09:00",
+        "updatedAt": "2026-11-28T07:20:00+09:00",
         "score": 20,
         "size": "ハラ～ムネ",
         "wind": {
           "relative": "オンショア",
           "strength": "やや強",
-          "direction": "南",
+          "direction": "南東",
           "speedMps": null,
           "source": "BCM"
         }
@@ -1908,18 +1908,18 @@
       ],
       "currentForecast": {
         "date": "2026-11-28",
-        "min": 1.8,
-        "max": 2.4,
+        "min": 2.4,
+        "max": 3,
         "wind": {
           "source": "Surfline",
-          "direction": "南",
+          "direction": "南南西",
           "relative": "オンショア",
-          "speedKph": 71,
-          "speedMps": 19.7,
-          "strength": "19.7 m/s"
+          "speedKph": 60,
+          "speedMps": 16.7,
+          "strength": "16.7 m/s"
         }
       },
-      "forecastRetrievedAt": "2026-11-27T22:25:37.334Z"
+      "forecastRetrievedAt": "2026-11-28T00:23:38.187Z"
     },
     {
       "id": "shirasuka",
@@ -1997,18 +1997,18 @@
       ],
       "currentForecast": {
         "date": "2026-11-28",
-        "min": 1.8,
-        "max": 2.4,
+        "min": 2.4,
+        "max": 3,
         "wind": {
           "source": "Surfline",
-          "direction": "南",
-          "relative": "オンショア",
-          "speedKph": 49,
-          "speedMps": 13.6,
-          "strength": "13.6 m/s"
+          "direction": "南南西",
+          "relative": "サイド",
+          "speedKph": 38,
+          "speedMps": 10.6,
+          "strength": "10.6 m/s"
         }
       },
-      "forecastRetrievedAt": "2026-11-27T22:25:37.334Z"
+      "forecastRetrievedAt": "2026-11-28T00:23:38.187Z"
     },
     {
       "id": "hanakago",
@@ -2035,13 +2035,13 @@
       "forecastAutoUpdate": true,
       "observation": {
         "date": "2026-11-28",
-        "updatedAt": "2026-11-28T06:20:00+09:00",
+        "updatedAt": "2026-11-28T07:30:00+09:00",
         "score": 20,
         "size": "ハラ～ムネ",
         "wind": {
-          "relative": "サイドオン",
+          "relative": "オンショア",
           "strength": "やや強",
-          "direction": "南",
+          "direction": "南東",
           "speedMps": null,
           "source": "BCM"
         }
@@ -2086,18 +2086,18 @@
       ],
       "currentForecast": {
         "date": "2026-11-28",
-        "min": 1.8,
-        "max": 2.4,
+        "min": 2.4,
+        "max": 3,
         "wind": {
           "source": "Surfline",
-          "direction": "南",
-          "relative": "オンショア",
-          "speedKph": 49,
-          "speedMps": 13.6,
-          "strength": "13.6 m/s"
+          "direction": "南南西",
+          "relative": "サイド",
+          "speedKph": 38,
+          "speedMps": 10.6,
+          "strength": "10.6 m/s"
         }
       },
-      "forecastRetrievedAt": "2026-11-27T22:25:37.334Z"
+      "forecastRetrievedAt": "2026-11-28T00:23:38.187Z"
     },
     {
       "id": "chitose",
@@ -2122,7 +2122,7 @@
       "forecastAutoUpdate": true,
       "observation": {
         "date": "2026-11-28",
-        "updatedAt": "2026-11-28T06:00:00+09:00",
+        "updatedAt": "2026-11-28T07:35:00+09:00",
         "score": 10,
         "size": "コシ～ハラ",
         "wind": {
@@ -2173,18 +2173,18 @@
       ],
       "currentForecast": {
         "date": "2026-11-28",
-        "min": 1.5,
-        "max": 2.1,
+        "min": 1.8,
+        "max": 2.4,
         "wind": {
           "source": "Surfline",
-          "direction": "南",
+          "direction": "南南西",
           "relative": "サイド",
-          "speedKph": 49,
-          "speedMps": 13.6,
-          "strength": "13.6 m/s"
+          "speedKph": 38,
+          "speedMps": 10.6,
+          "strength": "10.6 m/s"
         }
       },
-      "forecastRetrievedAt": "2026-11-27T22:25:37.334Z"
+      "forecastRetrievedAt": "2026-11-28T00:23:38.187Z"
     },
     {
       "id": "chikura",
@@ -2209,13 +2209,13 @@
       "forecastAutoUpdate": true,
       "observation": {
         "date": "2026-11-28",
-        "updatedAt": "2026-11-28T05:50:00+09:00",
-        "score": 20,
+        "updatedAt": "2026-11-28T07:45:00+09:00",
+        "score": 15,
         "size": "モモsetコシたまにハラ",
         "wind": {
-          "relative": "オフショア",
-          "strength": "中",
-          "direction": "南西",
+          "relative": "サイドオン",
+          "strength": "やや強",
+          "direction": "東南東",
           "speedMps": null,
           "source": "BCM"
         }
@@ -2260,18 +2260,18 @@
       ],
       "currentForecast": {
         "date": "2026-11-28",
-        "min": 1.2,
-        "max": 2,
+        "min": 1.8,
+        "max": 2.4,
         "wind": {
           "source": "Surfline",
-          "direction": "南",
+          "direction": "南南西",
           "relative": "サイド",
-          "speedKph": 49,
-          "speedMps": 13.6,
-          "strength": "13.6 m/s"
+          "speedKph": 38,
+          "speedMps": 10.6,
+          "strength": "10.6 m/s"
         }
       },
-      "forecastRetrievedAt": "2026-11-27T22:25:37.334Z"
+      "forecastRetrievedAt": "2026-11-28T00:23:38.187Z"
     },
     {
       "id": "heisaura",
@@ -2353,12 +2353,12 @@
           "source": "Surfline",
           "direction": "南南西",
           "relative": "オンショア",
-          "speedKph": 60,
-          "speedMps": 16.7,
-          "strength": "16.7 m/s"
+          "speedKph": 50,
+          "speedMps": 13.9,
+          "strength": "13.9 m/s"
         }
       },
-      "forecastRetrievedAt": "2026-11-27T22:25:37.334Z"
+      "forecastRetrievedAt": "2026-11-28T00:23:38.187Z"
     },
     {
       "id": "ohara",
@@ -2382,12 +2382,12 @@
       "forecastAutoUpdate": true,
       "observation": {
         "date": "2026-11-28",
-        "updatedAt": "2026-11-28T06:05:00+09:00",
+        "updatedAt": "2026-11-28T07:30:00+09:00",
         "score": 20,
         "size": "ヒザ～モモ",
         "wind": {
           "relative": "サイド",
-          "strength": "やや強",
+          "strength": "強",
           "direction": "南東",
           "speedMps": null,
           "source": "BCM"
@@ -2433,18 +2433,18 @@
       ],
       "currentForecast": {
         "date": "2026-11-28",
-        "min": 1.5,
-        "max": 2.1,
+        "min": 1.8,
+        "max": 2.4,
         "wind": {
           "source": "Surfline",
-          "direction": "南",
-          "relative": "サイド",
+          "direction": "南南西",
+          "relative": "オフショア",
           "speedKph": 63,
           "speedMps": 17.5,
           "strength": "17.5 m/s"
         }
       },
-      "forecastRetrievedAt": "2026-11-27T22:25:37.334Z"
+      "forecastRetrievedAt": "2026-11-28T00:23:38.187Z"
     },
     {
       "id": "isumi",
@@ -2468,12 +2468,12 @@
       "forecastAutoUpdate": true,
       "observation": {
         "date": "2026-11-28",
-        "updatedAt": "2026-11-28T06:00:00+09:00",
+        "updatedAt": "2026-11-28T07:20:00+09:00",
         "score": 20,
-        "size": "ハラ～カタ",
+        "size": "ムネ～頭",
         "wind": {
           "relative": "オンショア",
-          "strength": "中",
+          "strength": "強",
           "direction": "南東",
           "speedMps": null,
           "source": "BCM"
@@ -2519,18 +2519,18 @@
       ],
       "currentForecast": {
         "date": "2026-11-28",
-        "min": 1.5,
-        "max": 2.1,
+        "min": 1.8,
+        "max": 2.4,
         "wind": {
           "source": "Surfline",
-          "direction": "南",
+          "direction": "南南西",
           "relative": "サイド",
           "speedKph": 63,
           "speedMps": 17.5,
           "strength": "17.5 m/s"
         }
       },
-      "forecastRetrievedAt": "2026-11-27T22:25:37.334Z"
+      "forecastRetrievedAt": "2026-11-28T00:23:38.187Z"
     },
     {
       "id": "taito",
@@ -2556,12 +2556,12 @@
       "forecastAutoUpdate": true,
       "observation": {
         "date": "2026-11-28",
-        "updatedAt": "2026-11-28T06:00:00+09:00",
-        "score": 10,
-        "size": "setヒザ",
+        "updatedAt": "2026-11-28T07:40:00+09:00",
+        "score": 15,
+        "size": "setヒザたまにモモ",
         "wind": {
           "relative": "サイド",
-          "strength": "中",
+          "strength": "強",
           "direction": "南東",
           "speedMps": null,
           "source": "BCM"
@@ -2607,18 +2607,18 @@
       ],
       "currentForecast": {
         "date": "2026-11-28",
-        "min": 0.9,
-        "max": 1.2,
+        "min": 1.2,
+        "max": 1.8,
         "wind": {
           "source": "Surfline",
-          "direction": "南",
+          "direction": "南南西",
           "relative": "サイド",
           "speedKph": 63,
           "speedMps": 17.5,
           "strength": "17.5 m/s"
         }
       },
-      "forecastRetrievedAt": "2026-11-27T22:25:37.334Z"
+      "forecastRetrievedAt": "2026-11-28T00:23:38.187Z"
     },
     {
       "id": "shidashita",
@@ -2645,12 +2645,12 @@
       "forecastAutoUpdate": true,
       "observation": {
         "date": "2026-11-28",
-        "updatedAt": "2026-11-28T06:40:00+09:00",
+        "updatedAt": "2026-11-28T08:30:00+09:00",
         "score": null,
         "size": "ハラ～ムネたまのsetカタ（コンテスト/規制予定）",
         "wind": {
           "relative": "サイド",
-          "strength": "中",
+          "strength": "やや強",
           "direction": "南南東",
           "speedMps": null,
           "source": "BCM"
@@ -2700,14 +2700,14 @@
         "max": 1.5,
         "wind": {
           "source": "Surfline",
-          "direction": "北北西",
-          "relative": "サイド",
-          "speedKph": 9,
-          "speedMps": 2.5,
-          "strength": "2.5 m/s"
+          "direction": "西南西",
+          "relative": "オフショア",
+          "speedKph": 16,
+          "speedMps": 4.4,
+          "strength": "4.4 m/s"
         }
       },
-      "forecastRetrievedAt": "2026-11-27T22:25:37.334Z"
+      "forecastRetrievedAt": "2026-11-28T00:23:38.187Z"
     },
     {
       "id": "torami",
@@ -2734,12 +2734,12 @@
       "forecastAutoUpdate": true,
       "observation": {
         "date": "2026-11-28",
-        "updatedAt": "2026-11-28T06:20:00+09:00",
+        "updatedAt": "2026-11-28T08:10:00+09:00",
         "score": 25,
-        "size": "ハラsetムネ",
+        "size": "コシ～ムネ",
         "wind": {
           "relative": "サイド",
-          "strength": "中",
+          "strength": "やや強",
           "direction": "南南東",
           "speedMps": null,
           "source": "BCM"
@@ -2786,17 +2786,17 @@
       "currentForecast": {
         "date": "2026-11-28",
         "min": 1.2,
-        "max": 1.8,
+        "max": 2,
         "wind": {
           "source": "Surfline",
-          "direction": "南",
+          "direction": "南南西",
           "relative": "サイド",
           "speedKph": 63,
           "speedMps": 17.5,
           "strength": "17.5 m/s"
         }
       },
-      "forecastRetrievedAt": "2026-11-27T22:25:37.334Z"
+      "forecastRetrievedAt": "2026-11-28T00:23:38.187Z"
     },
     {
       "id": "sunrise",
@@ -2823,12 +2823,12 @@
       "forecastAutoUpdate": true,
       "observation": {
         "date": "2026-11-28",
-        "updatedAt": "2026-11-28T06:00:00+09:00",
+        "updatedAt": "2026-11-28T07:50:00+09:00",
         "score": 25,
-        "size": "ハラsetムネ",
+        "size": "ハラ～ムネ",
         "wind": {
           "relative": "サイドオン",
-          "strength": "やや強",
+          "strength": "強",
           "direction": "南南東",
           "speedMps": null,
           "source": "BCM"
@@ -2875,17 +2875,17 @@
       "currentForecast": {
         "date": "2026-11-28",
         "min": 1.2,
-        "max": 1.8,
+        "max": 2,
         "wind": {
           "source": "Surfline",
-          "direction": "南",
+          "direction": "南南西",
           "relative": "オフショア",
           "speedKph": 63,
           "speedMps": 17.5,
           "strength": "17.5 m/s"
         }
       },
-      "forecastRetrievedAt": "2026-11-27T22:25:37.334Z"
+      "forecastRetrievedAt": "2026-11-28T00:23:38.187Z"
     },
     {
       "id": "ichinomiya",
@@ -2913,13 +2913,13 @@
       "forecastAutoUpdate": true,
       "observation": {
         "date": "2026-11-28",
-        "updatedAt": "2026-11-28T05:40:00+09:00",
-        "score": 20,
-        "size": "コシ～ハラsetムネ（夜明け前チェック）",
+        "updatedAt": "2026-11-28T07:30:00+09:00",
+        "score": 25,
+        "size": "ハラ～ムネたまのsetカタ",
         "wind": {
           "relative": "サイドオン",
           "strength": "やや強",
-          "direction": "南東",
+          "direction": "南南東",
           "speedMps": null,
           "source": "BCM"
         }
@@ -2964,18 +2964,18 @@
       ],
       "currentForecast": {
         "date": "2026-11-28",
-        "min": 1.2,
-        "max": 1.5,
+        "min": 1.5,
+        "max": 2.1,
         "wind": {
           "source": "Surfline",
-          "direction": "西",
+          "direction": "南南西",
           "relative": "オフショア",
-          "speedKph": 18,
-          "speedMps": 5,
-          "strength": "5 m/s"
+          "speedKph": 46,
+          "speedMps": 12.8,
+          "strength": "12.8 m/s"
         }
       },
-      "forecastRetrievedAt": "2026-11-27T22:25:37.334Z"
+      "forecastRetrievedAt": "2026-11-28T00:23:38.187Z"
     },
     {
       "id": "shirako",
@@ -3000,9 +3000,9 @@
       "forecastAutoUpdate": true,
       "observation": {
         "date": "2026-11-28",
-        "updatedAt": "2026-11-28T06:10:00+09:00",
+        "updatedAt": "2026-11-28T08:45:00+09:00",
         "score": 20,
-        "size": "ハラ～カタ",
+        "size": "ハラ～ムネsetカタ",
         "wind": {
           "relative": "オンショア",
           "strength": "やや強",
@@ -3051,18 +3051,18 @@
       ],
       "currentForecast": {
         "date": "2026-11-28",
-        "min": 1.2,
-        "max": 1.8,
+        "min": 1.8,
+        "max": 2.4,
         "wind": {
           "source": "Surfline",
-          "direction": "西",
-          "relative": "オフショア",
-          "speedKph": 18,
-          "speedMps": 5,
-          "strength": "5 m/s"
+          "direction": "南南西",
+          "relative": "サイド",
+          "speedKph": 46,
+          "speedMps": 12.8,
+          "strength": "12.8 m/s"
         }
       },
-      "forecastRetrievedAt": "2026-11-27T22:25:37.334Z"
+      "forecastRetrievedAt": "2026-11-28T00:23:38.187Z"
     },
     {
       "id": "katagai-gyoko",
@@ -3088,9 +3088,9 @@
       "forecastAutoUpdate": true,
       "observation": {
         "date": "2026-11-28",
-        "updatedAt": "2026-11-28T05:50:00+09:00",
-        "score": 15,
-        "size": "ヒザ～コシ（夜明け前チェック）",
+        "updatedAt": "2026-11-28T07:45:00+09:00",
+        "score": 25,
+        "size": "コシ～ハラたまにムネ",
         "wind": {
           "relative": "オンショア",
           "strength": "強",
@@ -3139,18 +3139,18 @@
       ],
       "currentForecast": {
         "date": "2026-11-28",
-        "min": 1.2,
-        "max": 2,
+        "min": 1.8,
+        "max": 2.4,
         "wind": {
           "source": "Surfline",
-          "direction": "西",
-          "relative": "オフショア",
-          "speedKph": 18,
-          "speedMps": 5,
-          "strength": "5 m/s"
+          "direction": "南南西",
+          "relative": "サイド",
+          "speedKph": 46,
+          "speedMps": 12.8,
+          "strength": "12.8 m/s"
         }
       },
-      "forecastRetrievedAt": "2026-11-27T22:25:37.334Z"
+      "forecastRetrievedAt": "2026-11-28T00:23:38.187Z"
     },
     {
       "id": "katagai-shintei",
@@ -3176,12 +3176,12 @@
       "forecastAutoUpdate": true,
       "observation": {
         "date": "2026-11-28",
-        "updatedAt": "2026-11-28T06:10:00+09:00",
-        "score": 10,
-        "size": "コシ～ムネ",
+        "updatedAt": "2026-11-28T07:55:00+09:00",
+        "score": 5,
+        "size": "ハラ～カタ",
         "wind": {
           "relative": "オンショア",
-          "strength": "強",
+          "strength": "強烈",
           "direction": "南東",
           "speedMps": null,
           "source": "BCM"
@@ -3227,18 +3227,18 @@
       ],
       "currentForecast": {
         "date": "2026-11-28",
-        "min": 1.2,
-        "max": 2,
+        "min": 1.8,
+        "max": 2.4,
         "wind": {
           "source": "Surfline",
-          "direction": "西",
-          "relative": "オフショア",
-          "speedKph": 18,
-          "speedMps": 5,
-          "strength": "5 m/s"
+          "direction": "南南西",
+          "relative": "サイド",
+          "speedKph": 46,
+          "speedMps": 12.8,
+          "strength": "12.8 m/s"
         }
       },
-      "forecastRetrievedAt": "2026-11-27T22:25:37.334Z"
+      "forecastRetrievedAt": "2026-11-28T00:23:38.187Z"
     },
     {
       "id": "sakuda",
@@ -3264,12 +3264,12 @@
       "forecastAutoUpdate": true,
       "observation": {
         "date": "2026-11-28",
-        "updatedAt": "2026-11-28T05:40:00+09:00",
-        "score": 15,
-        "size": "コシ～ムネ（夜明け前チェック）",
+        "updatedAt": "2026-11-28T07:25:00+09:00",
+        "score": 20,
+        "size": "ハラ～カタ",
         "wind": {
           "relative": "オンショア",
-          "strength": "強",
+          "strength": "やや強",
           "direction": "南東",
           "speedMps": null,
           "source": "BCM"
@@ -3315,18 +3315,18 @@
       ],
       "currentForecast": {
         "date": "2026-11-28",
-        "min": 1.2,
-        "max": 2,
+        "min": 1.8,
+        "max": 2.4,
         "wind": {
           "source": "Surfline",
-          "direction": "西",
-          "relative": "オフショア",
-          "speedKph": 18,
-          "speedMps": 5,
-          "strength": "5 m/s"
+          "direction": "南南西",
+          "relative": "サイド",
+          "speedKph": 46,
+          "speedMps": 12.8,
+          "strength": "12.8 m/s"
         }
       },
-      "forecastRetrievedAt": "2026-11-27T22:25:37.334Z"
+      "forecastRetrievedAt": "2026-11-28T00:23:38.187Z"
     },
     {
       "id": "yoshizaki",
@@ -3401,18 +3401,18 @@
       ],
       "currentForecast": {
         "date": "2026-11-28",
-        "min": 1.5,
-        "max": 2.1,
+        "min": 2.4,
+        "max": 3,
         "wind": {
           "source": "Surfline",
-          "direction": "北北西",
+          "direction": "西北西",
           "relative": "オフショア",
-          "speedKph": 12,
-          "speedMps": 3.3,
-          "strength": "3.3 m/s"
+          "speedKph": 6,
+          "speedMps": 1.7,
+          "strength": "1.7 m/s"
         }
       },
-      "forecastRetrievedAt": "2026-11-27T22:25:37.334Z"
+      "forecastRetrievedAt": "2026-11-28T00:23:38.187Z"
     },
     {
       "id": "shiina",
@@ -3438,7 +3438,7 @@
       "forecastAutoUpdate": true,
       "observation": {
         "date": "2026-11-28",
-        "updatedAt": "2026-11-28T06:25:00+09:00",
+        "updatedAt": "2026-11-28T07:45:00+09:00",
         "score": 20,
         "size": "ハラ～ムネ",
         "wind": {
@@ -3489,18 +3489,18 @@
       ],
       "currentForecast": {
         "date": "2026-11-28",
-        "min": 1.2,
-        "max": 1.8,
+        "min": 1.8,
+        "max": 2.4,
         "wind": {
           "source": "Surfline",
-          "direction": "南西",
-          "relative": "サイド",
-          "speedKph": 26,
-          "speedMps": 7.2,
-          "strength": "7.2 m/s"
+          "direction": "南南西",
+          "relative": "オンショア",
+          "speedKph": 31,
+          "speedMps": 8.6,
+          "strength": "8.6 m/s"
         }
       },
-      "forecastRetrievedAt": "2026-11-27T22:25:37.334Z"
+      "forecastRetrievedAt": "2026-11-28T00:23:38.187Z"
     },
     {
       "id": "hasaki",
@@ -3525,13 +3525,13 @@
       "forecastAutoUpdate": true,
       "observation": {
         "date": "2026-11-28",
-        "updatedAt": "2026-11-28T06:20:00+09:00",
-        "score": 10,
-        "size": "ヒザ",
+        "updatedAt": "2026-11-28T08:05:00+09:00",
+        "score": 20,
+        "size": "モモ～コシsetハラ",
         "wind": {
           "relative": "サイドオフ",
           "strength": "やや強",
-          "direction": "南",
+          "direction": "南南東",
           "speedMps": null,
           "source": "BCM"
         }
@@ -3580,14 +3580,14 @@
         "max": 0.3,
         "wind": {
           "source": "Surfline",
-          "direction": "南西",
+          "direction": "南南西",
           "relative": "オフショア",
-          "speedKph": 26,
-          "speedMps": 7.2,
-          "strength": "7.2 m/s"
+          "speedKph": 31,
+          "speedMps": 8.6,
+          "strength": "8.6 m/s"
         }
       },
-      "forecastRetrievedAt": "2026-11-27T22:25:37.334Z"
+      "forecastRetrievedAt": "2026-11-28T00:23:38.187Z"
     },
     {
       "id": "hasaki-kanekyu",
@@ -3612,13 +3612,13 @@
       "forecastAutoUpdate": true,
       "observation": {
         "date": "2026-11-28",
-        "updatedAt": "2026-11-28T06:20:00+09:00",
-        "score": 10,
-        "size": "ヒザ",
+        "updatedAt": "2026-11-28T08:10:00+09:00",
+        "score": 20,
+        "size": "モモ～コシsetハラ",
         "wind": {
           "relative": "サイドオフ",
           "strength": "やや強",
-          "direction": "南",
+          "direction": "南南東",
           "speedMps": null,
           "source": "BCM"
         }
@@ -3667,14 +3667,14 @@
         "max": 0.3,
         "wind": {
           "source": "Surfline",
-          "direction": "南西",
+          "direction": "南南西",
           "relative": "オフショア",
-          "speedKph": 26,
-          "speedMps": 7.2,
-          "strength": "7.2 m/s"
+          "speedKph": 31,
+          "speedMps": 8.6,
+          "strength": "8.6 m/s"
         }
       },
-      "forecastRetrievedAt": "2026-11-27T22:25:37.334Z"
+      "forecastRetrievedAt": "2026-11-28T00:23:38.187Z"
     },
     {
       "id": "iioka",
@@ -3698,13 +3698,13 @@
       "forecastAutoUpdate": true,
       "observation": {
         "date": "2026-11-28",
-        "updatedAt": "2026-11-28T05:40:00+09:00",
+        "updatedAt": "2026-11-28T09:00:00+09:00",
         "score": 15,
         "size": "コシたまのsetハラ",
         "wind": {
           "relative": "オンショア",
-          "strength": "やや強",
-          "direction": "南南東",
+          "strength": "強烈",
+          "direction": "南南西",
           "speedMps": null,
           "source": "BCM"
         }
@@ -3749,18 +3749,18 @@
       ],
       "currentForecast": {
         "date": "2026-11-28",
-        "min": 1.2,
-        "max": 1.5,
+        "min": 1.5,
+        "max": 2.1,
         "wind": {
           "source": "Surfline",
-          "direction": "南西",
+          "direction": "南南西",
           "relative": "オンショア",
-          "speedKph": 26,
-          "speedMps": 7.2,
-          "strength": "7.2 m/s"
+          "speedKph": 31,
+          "speedMps": 8.6,
+          "strength": "8.6 m/s"
         }
       },
-      "forecastRetrievedAt": "2026-11-27T22:25:37.334Z"
+      "forecastRetrievedAt": "2026-11-28T00:23:38.187Z"
     },
     {
       "id": "iioka-mansion",
@@ -3784,13 +3784,13 @@
       "forecastAutoUpdate": true,
       "observation": {
         "date": "2026-11-28",
-        "updatedAt": "2026-11-28T05:35:00+09:00",
+        "updatedAt": "2026-11-28T08:55:00+09:00",
         "score": 15,
         "size": "コシたまのsetハラ",
         "wind": {
           "relative": "オンショア",
-          "strength": "やや強",
-          "direction": "南南東",
+          "strength": "強烈",
+          "direction": "南南西",
           "speedMps": null,
           "source": "BCM"
         }
@@ -3835,18 +3835,18 @@
       ],
       "currentForecast": {
         "date": "2026-11-28",
-        "min": 1.2,
-        "max": 1.5,
+        "min": 1.5,
+        "max": 2.1,
         "wind": {
           "source": "Surfline",
-          "direction": "南西",
+          "direction": "南南西",
           "relative": "オンショア",
-          "speedKph": 26,
-          "speedMps": 7.2,
-          "strength": "7.2 m/s"
+          "speedKph": 31,
+          "speedMps": 8.6,
+          "strength": "8.6 m/s"
         }
       },
-      "forecastRetrievedAt": "2026-11-27T22:25:37.334Z"
+      "forecastRetrievedAt": "2026-11-28T00:23:38.187Z"
     },
     {
       "id": "choshi",
@@ -3902,18 +3902,18 @@
       ],
       "currentForecast": {
         "date": "2026-11-28",
-        "min": 1.5,
-        "max": 2.1,
+        "min": 2.4,
+        "max": 3,
         "wind": {
           "source": "Surfline",
-          "direction": "南西",
-          "relative": "サイド",
-          "speedKph": 26,
-          "speedMps": 7.2,
-          "strength": "7.2 m/s"
+          "direction": "南南西",
+          "relative": "オンショア",
+          "speedKph": 31,
+          "speedMps": 8.6,
+          "strength": "8.6 m/s"
         }
       },
-      "forecastRetrievedAt": "2026-11-27T22:25:37.334Z"
+      "forecastRetrievedAt": "2026-11-28T00:23:38.187Z"
     }
   ],
   "automation": {
